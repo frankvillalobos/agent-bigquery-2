@@ -2,5 +2,5 @@
 primaryColor = "#FFFFFF"        # botones, links, elementos activos
 backgroundColor = "#000000"                # fondo de la página
 secondaryBackgroundColor = "#FFFFFF"       # fondo del sidebar y inputs
-textColor = "#000000"                      # color del texto principal
+textColor = "#FFFFFF"                      # color del texto principal
 font = "sans serif"

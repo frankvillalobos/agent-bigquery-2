@@ -16,7 +16,6 @@ st.set_page_config(
 # ── CSS personalizado ─────────────────────────────────────────────────────────
 st.markdown("""
     <style>
-        /* Texto del sidebar en blanco (sobreescribe el negro global) */
         [data-testid="stSidebar"] * {
             color: #000000 !important;
         }
