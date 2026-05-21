@@ -17,11 +17,11 @@ st.set_page_config(
 st.markdown("""
     <style>
         [data-testid="stSidebar"] * {
-            color: #000000 !important;
+            color: #FFFFFF !important;
         }
         /* Texto del input del chat en negro */
         [data-testid="stChatInput"] textarea {
-            color: #000000 !important;
+            color: #FFFFFF !important;
         }
         /* Respuesta del asistente en blanco */
         [data-testid="stChatMessage"] p {
