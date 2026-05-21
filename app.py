@@ -8,7 +8,7 @@ from bigquery_client import BigQueryClient
 
 # ── Configuración de página ───────────────────────────────────────────────────
 st.set_page_config(
-    page_title="RevOps Agent",
+    page_title="Query Agent",
     page_icon="🔍",
     layout="wide"
 )
@@ -16,7 +16,7 @@ st.set_page_config(
 # ── CSS personalizado ─────────────────────────────────────────────────────────
 st.markdown("""
     <style>
-        /* Texto del sidebar en negro (sobreescribe el blanco global) */
+        /* Texto del sidebar en blanco (sobreescribe el negro global) */
         [data-testid="stSidebar"] * {
             color: #000000 !important;
         }
@@ -34,10 +34,10 @@ st.markdown("""
 # ── Logo y título  ←  AQUÍ, fuera del set_page_config ────────────────────────
 col1, col2 = st.columns([1, 5])
 with col1:
-    st.image("bg_agent/assets/jeeves_logo.png", width=120)
+    st.image("bg_agent/assets/r2-logo.png", width=120)
 with col2:
-    st.title("RevOps Query Assistant Agent")
-    st.caption("I'll help you write a SQL Query")
+    st.title("Query Agent")
+    st.caption("I'll help you write an SQL Query")
 
 PROJECT_ID = "uean-493522"
 DATASET_ID = "dataset_demand"
