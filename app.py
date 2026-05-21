@@ -34,7 +34,7 @@ st.markdown("""
 # ── Logo y título  ←  AQUÍ, fuera del set_page_config ────────────────────────
 col1, col2 = st.columns([1, 5])
 with col1:
-    st.image("bg_agent/assets/r2-logo.png", width=120)
+    st.image("assets/r2-logo.png", width=120)
 with col2:
     st.title("Query Agent")
     st.caption("I'll help you write an SQL Query")
