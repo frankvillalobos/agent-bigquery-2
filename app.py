@@ -3,12 +3,13 @@ load_dotenv()
 
 import streamlit as st
 import json
+import os
 from openai import OpenAI
 from bigquery_client import BigQueryClient
 
 # ── Configuración de página ───────────────────────────────────────────────────
 st.set_page_config(
-    page_title="Query Agent",
+    page_title="Asistente de datos",
     page_icon="🔍",
     layout="wide"
 )
@@ -33,13 +34,35 @@ st.markdown("""
 # ── Logo y título  ←  AQUÍ, fuera del set_page_config ────────────────────────
 col1, col2 = st.columns([1, 5])
 with col1:
-    st.image("assets/r2-logo.png", width=120)
+    if os.path.exists("assets/r2-logo.png"):
+        st.image("assets/r2-logo.png", width=120)
 with col2:
-    st.title("Query Agent")
-    st.caption("I'll help you write an SQL Query")
+    st.title("Asistente de datos")
+    st.caption("Preguntá en lenguaje natural y te respondo con el dato y la query")
 
 PROJECT_ID = "uean-493522"
-DATASET_ID = "dataset_demand"
+DATASET_ID = "proptech"
+MAX_PASOS = 8  # evita que el agente quede en un loop infinito
+
+# Reglas que el esquema solo (columnas y tipos) no le dice al modelo
+REGLAS = """
+Data model rules (the schema alone does not tell you this):
+- `listings` and `usuarios` are weekly snapshots: the same entity appears in many rows. Count with COUNT(DISTINCT listing_id) / COUNT(DISTINCT user_id).
+- Listings stock for a month: periodo = YYYYMM AND aviso_online_al_cierre = 1. "Published listings" with no other detail = stock online at the close of the last month with data (202610).
+- In Capital Federal, the column `ciudad` holds the neighborhood (Palermo, Belgrano...); `barrio` is a sub-zone. "CABA" = provincia 'Capital Federal'.
+- Sale prices are in USD; rentals mix ARS and USD. precio = 0 means "price on request". superficie_m2 can be 0 (use SAFE_DIVIDE).
+- In `leads`, always exclude deleted leads (lead_borrado = 0).
+- In `ga4`, count events with SUM(total_events) and sessions with COUNT(DISTINCT unique_session_id). Listing visits = page_view with content_group = 'aviso'.
+- `gasto` (ARS) is only in session_start rows of paid sessions (session_medium = 'cpc' or 'paid_social'). Investment = SUM(gasto).
+- Joins: leads.listing_id (STRING) = listings.listing_id (INT64) needs CAST; ga4.lead_id (STRING) = leads.lead_id (INT64) needs CAST.
+- Data goes from 2025-10-01 to 2026-10-31. A month without a year means the most recent one with data. "Last month" = October 2026.
+- Never use SELECT *; read only the columns you need.
+"""
+
+
+def a_texto(x) -> str:
+    """El contenido de un mensaje 'tool' tiene que ser texto."""
+    return x if isinstance(x, str) else json.dumps(x, default=str, ensure_ascii=False)
 
 # ── Historial de chat ────────────────────────────────────────────────────────
 if "messages" not in st.session_state:
@@ -65,12 +88,13 @@ Process you MUST ALWAYS follow:
 1. Call get_schema to see the available tables.
 2. Build the correct SQL based on the schema.
 3. Call run_sql_query with that SQL.
-4. In your final response ALWAYS include:
-   - The SQL query generated in a SQL code block
-   - The results explained in clear natural language
+4. In your final response, ALWAYS in Spanish:
+   - First, the answer in one or two clear sentences (e.g. "En octubre de 2026 hubo 1.234 leads.")
+   - Then, the SQL query generated in a SQL code block
 
 Use BigQuery Standard SQL with full table names:
-`{PROJECT_ID}.{DATASET_ID}.table_name`"""
+`{PROJECT_ID}.{DATASET_ID}.table_name`
+{REGLAS}"""
 
     st.session_state.api_messages.append({
         "role": "user",
@@ -81,21 +105,25 @@ Use BigQuery Standard SQL with full table names:
         {"role": "system", "content": system_prompt}
     ] + st.session_state.api_messages
 
-    with st.status("⚙️ Agent is working...", expanded=True) as status:
+    with st.status("⚙️ Buscando la respuesta...", expanded=True) as status:
 
-        while True:
+        for _ in range(MAX_PASOS):
             response = client.chat.completions.create(
                 model="gpt-4o",
                 messages=messages,
                 tools=tools,
-                tool_choice="auto"
+                tool_choice="auto",
+                temperature=0
             )
 
             msg = response.choices[0].message
 
             if not msg.tool_calls:
-                status.update(label="✅ Done", state="complete", expanded=False)
-                return msg.content or ""
+                status.update(label="✅ Listo", state="complete", expanded=False)
+                answer = msg.content or ""
+                # Guardar la respuesta para que las preguntas siguientes tengan contexto
+                st.session_state.api_messages.append({"role": "assistant", "content": answer})
+                return answer
 
             messages.append(msg)
 
@@ -107,25 +135,28 @@ Use BigQuery Standard SQL with full table names:
                 tool_input = json.loads(fn.arguments)
 
                 if tool_name == "get_schema":
-                    st.write("📋 Reading dataset schema...")
-                    result = bq.get_schema(DATASET_ID)
+                    st.write("📋 Leyendo el esquema...")
+                    try:
+                        result = a_texto(bq.get_schema(DATASET_ID))
+                    except Exception as e:
+                        result = f"Error reading schema: {e}"
 
                 elif tool_name == "run_sql_query":
                     sql = tool_input.get("sql", "")
-                    st.write("🚀 Running query in BigQuery...")
+                    st.write("🚀 Ejecutando la query en BigQuery...")
                     st.code(sql, language="sql")
 
                     try:
                         if not BigQueryClient.is_safe_query(sql):
                             result = "Error: query not allowed."
-                            st.error(result)
+                            st.error("La consulta no está permitida (solo se permiten consultas de lectura).")
                         else:
                             rows = bq.run_query(sql)
-                            result = json.dumps(rows[:50], default=str)
-                            st.write(f"📊 {len(rows)} rows retrieved.")
+                            result = a_texto(list(rows)[:50])
+                            st.write(f"📊 {len(rows)} filas obtenidas.")
                     except Exception as e:
                         result = f"Error running SQL: {e}"
-                        st.error(result)
+                        st.warning("La consulta dio error, el agente va a intentar corregirla.")
                 else:
                     result = f"Unknown tool: {tool_name}"
 
@@ -135,7 +166,11 @@ Use BigQuery Standard SQL with full table names:
                     "content": result
                 })
 
-    return ""
+        status.update(label="⚠️ No pude completar la respuesta", state="error")
+
+    answer = "No pude completar la respuesta. Probá escribir la pregunta de otra forma."
+    st.session_state.api_messages.append({"role": "assistant", "content": answer})
+    return answer
 
 # ── Formato de tools para OpenAI ─────────────────────────────────────────────
 def get_tools_openai(project_id: str, dataset_id: str) -> list:
@@ -178,7 +213,7 @@ def get_tools_openai(project_id: str, dataset_id: str) -> list:
     ]
 
 # ── Input del usuario ────────────────────────────────────────────────────────
-if prompt := st.chat_input("Ex: What '%' of annual quota has each country achieved through closed-won deals?"):
+if prompt := st.chat_input("Ej: ¿Cuántos leads hubo en octubre?"):
 
     with st.chat_message("user"):
         st.markdown(prompt)
@@ -200,13 +235,12 @@ if prompt := st.chat_input("Ex: What '%' of annual quota has each country achiev
 # ── Sidebar ──────────────────────────────────────────────────────────────────
 with st.sidebar:
     st.divider()
-    st.markdown("**Example Queries:**")
-    st.markdown("- What % of annual quota has each country achieved through closed-won deals?")
-    st.markdown("- Which channel closes the highest percentage of deals?")
-    st.markdown("- Columns available: deal_id, country, segment, channel, rep_name, hire_date, partner_type, deal_stage, close_date, create_date, sales_cycle_days, acv_usd, tpv_usd, is_won, lost_reason, quarter, month, monthly_quota_usd, annual_quota_usd, ramp_factor")
+    st.markdown("**Preguntas de ejemplo:**")
+    st.markdown("- ¿Cuántas sesiones hubo el mes pasado?")
+    st.markdown("- ¿Cuántos leads hubo en CABA en octubre?")
 
     st.divider()
-    if st.button("🗑️ Clear conversation"):
+    if st.button("🗑️ Nueva conversación"):
         st.session_state.messages = []
         st.session_state.api_messages = []
         st.rerun()
