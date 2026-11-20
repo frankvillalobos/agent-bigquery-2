@@ -1,0 +1,265 @@
+provincia,ciudad,total_leads,total_listings,avg_precio
+GBA Norte,Pilar,24925,9362,239478.132079938
+Santa Fe,Rosario,18070,7479,295462.821583363
+GBA Norte,Escobar,16492,6521,142072.441763113
+Otros Paises,Uruguay,14488,5269,504415.760910577
+GBA Sur,La Plata,14308,5994,211732.660734932
+Córdoba,Córdoba,14064,5540,200978.403740374
+GBA Norte,Tigre,13650,4745,403674.336893784
+Capital Federal,Palermo,11853,4414,889209.273707580
+GBA Oeste,La Matanza,7685,3150,185540.670126981
+Buenos Aires Costa Atlántica,Mar del Plata,7116,3056,322513.621470144
+Capital Federal,Caballito,7072,2655,742121.568548387
+Santa Fe,Ciudad de Santa Fe,5827,2340,194410.764978143
+Capital Federal,Recoleta,5816,2172,780546.803292458
+GBA Oeste,Morón,5612,2348,260510.282189264
+GBA Sur,Quilmes,5597,2142,217476.382418192
+GBA Sur,Lanús,5382,2232,210135.833779443
+GBA Norte,Vicente López,5136,2053,437107.702681512
+Capital Federal,Belgrano,5028,1862,872014.302743614
+GBA Oeste,Tres de Febrero,4889,2079,248371.597364568
+GBA Norte,General San Martín,4242,1651,294405.983951089
+GBA Sur,Lomas de Zamora,4170,1460,244323.675266175
+GBA Sur,Avellaneda,4152,1688,256518.887064404
+Capital Federal,Villa Urquiza,4027,1280,727708.042176517
+Neuquen,Neuquén,3751,1466,207104.233065678
+Capital Federal,Almagro,3658,1378,630815.164721141
+GBA Norte,San Isidro,3497,1417,302369.811580882
+Capital Federal,Flores,3484,1290,555999.397975493
+Capital Federal,Núñez,3216,1165,878765.928591995
+Capital Federal,Balvanera,3198,1202,587333.142533296
+Capital Federal,Villa Crespo,3187,1224,625972.178530425
+Capital Federal,Barrio Norte,3130,1012,767783.518832711
+GBA Sur,Ezeiza,3099,1330,93319.739735248
+Capital Federal,San Nicolás,2915,1093,602763.296019900
+GBA Sur,San Vicente,2821,1143,100243.848684211
+GBA Oeste,Moreno,2804,1263,134484.093471113
+GBA Sur,Cañuelas,2740,1210,88508.636474908
+GBA Norte,San Miguel,2515,803,281750.476565577
+Capital Federal,Villa Devoto,2480,942,733455.108159393
+Buenos Aires Costa Atlántica,Pinamar,2455,923,508786.122173473
+GBA Oeste,Ituzaingó,2412,1052,169993.221167673
+Capital Federal,Monserrat,2268,827,606676.144321093
+Capital Federal,Parque Patricios,2231,522,541475.044920525
+GBA Sur,Esteban Echeverría,2206,942,157886.783757654
+Mendoza,Luján de Cuyo,2096,877,143235.162806311
+GBA Sur,Almirante Brown,2094,868,179265.403768506
+Buenos Aires (fuera de GBA),Bahía Blanca,2072,927,106479.353248260
+Mendoza,Maipú,2069,808,61593.709501274
+Capital Federal,Retiro,2024,685,649288.920086393
+GBA Sur,Berazategui,1923,813,110000.640619500
+GBA Oeste,General Rodríguez,1917,706,99838.018056750
+Capital Federal,Centro / Microcentro,1871,430,592408.125000000
+Santa Fe,Santo Tomé,1827,746,76488.970707893
+Rio Negro,San Carlos de Bariloche,1782,814,194463.669825073
+Capital Federal,Colegiales,1776,697,911256.624605678
+Mendoza,Ciudad de Mendoza,1764,778,215866.261208577
+GBA Oeste,Hurlingham,1758,703,183215.374207188
+Capital Federal,Villa Ortuzar,1744,422,858086.119658120
+Neuquen,Plottier,1739,726,68034.966555184
+Capital Federal,Mataderos,1689,664,600445.438972163
+GBA Oeste,Luján,1687,672,91127.199642698
+Salta,Salta,1635,678,147935.270211846
+Capital Federal,San Telmo,1569,525,625082.976939203
+Capital Federal,Villa del Parque,1547,533,640588.023793787
+Capital Federal,Puerto Madero,1539,587,1091966.597387173
+Mendoza,Godoy Cruz,1477,647,217386.656976744
+Córdoba,Villa Carlos Paz,1442,626,293321.622739018
+GBA Sur,Brandsen,1355,648,80767.618613139
+Capital Federal,Barracas,1326,381,512741.253218884
+Santa Fe,Funes,1285,579,81325.426470588
+Capital Federal,Villa Luro,1257,449,654699.495341615
+GBA Norte,San Fernando,1242,543,352884.972972973
+Capital Federal,San Cristobal,1177,440,588719.161920260
+GBA Norte,Exaltación de la Cruz,1157,473,167760.355943586
+Capital Federal,Liniers,1150,469,572270.377622378
+Santa Fe,Rafaela,1072,480,66053.537675607
+GBA Norte,Campana,1037,434,133246.082779010
+Capital Federal,Parque Chacabuco,1031,407,683857.425925926
+Santa Fe,Venado Tuerto,1025,458,129672.082294264
+Capital Federal,Chacarita,1009,423,815641.187772926
+GBA Sur,Florencio Varela,991,401,106848.953662182
+Capital Federal,Saavedra,989,437,577266.117381490
+Capital Federal,Monte Castro,979,348,483422.194444444
+Capital Federal,Floresta,967,369,600329.123951538
+Buenos Aires (fuera de GBA),Tandil,944,400,134851.425322214
+Chubut,Comodoro Rivadavia,942,426,86699.813581891
+GBA Oeste,Merlo,890,384,157759.136085627
+Capital Federal,Parque Avellaneda,889,335,471693.083164300
+Capital Federal,Boedo,827,294,580882.231121281
+GBA Norte,Malvinas Argentinas,814,343,142245.445544554
+Capital Federal,Villa Lugano,788,307,490886.775000000
+GBA Sur,Presidente Perón,775,318,91390.132827324
+Santa Fe,Sauce Viejo,757,261,75457.670772676
+Capital Federal,Constitución,750,219,666884.157814871
+Capital Federal,Villa Pueyrredón,724,306,556541.416957027
+GBA Norte,José C Paz,712,301,176084.409448819
+Buenos Aires (fuera de GBA),Pergamino,706,318,78937.259010897
+Rio Negro,Cipolletti,703,306,152809.788092836
+Capital Federal,Parque Chas,702,251,595146.423658872
+Capital Federal,Villa Santa Rita,701,257,685490.797546012
+Chaco,Resistencia,694,261,242971.183206107
+Santa Fe,Roldán,693,288,126356.481876333
+Córdoba,Potrero de Garay,673,306,85875.174537988
+Córdoba,Tanti,662,257,87776.911057692
+Santa Fe,Reconquista,629,301,108391.684518014
+Córdoba,Río Ceballos,617,244,131124.237918216
+Mendoza,Villa Nueva,615,273,162937.263843648
+GBA Norte,Zárate,586,211,205120.562962963
+Mendoza,Las Heras,584,239,68498.154402895
+Buenos Aires Costa Atlántica,Miramar,581,215,185043.217115689
+Santa Fe,San Lorenzo,575,251,100423.695920890
+Santa Fe,Pueblo Esther,572,190,103109.141566265
+Capital Federal,Villa General Mitre,570,188,611065.763016158
+Capital Federal,Coghlan,566,231,644864.887005650
+Mendoza,San Martín,546,209,136994.676966292
+Buenos Aires Costa Atlántica,Villa Gesell,532,274,326369.976359338
+Buenos Aires (fuera de GBA),Pehuajó,531,237,123161.643678161
+Córdoba,Unquillo,530,199,107770.215384615
+La Pampa,Santa Rosa,516,135,158108.363970588
+Capital Federal,Pompeya,508,214,551026.402640264
+Córdoba,La Calera,499,227,134768.634423898
+Córdoba,Santa María de Punilla,490,172,106324.017595308
+Buenos Aires (fuera de GBA),San Nicolás de los Arroyos,487,196,94030.392706872
+Buenos Aires Costa Atlántica,Monte Hermoso,486,212,346660.716374269
+Buenos Aires Costa Atlántica,Costa Esmeralda,480,186,175634.315424610
+Tucuman,San Miguel de Tucumán,467,171,177460.790020790
+Córdoba,Villa Allende,464,225,126054.743411928
+Santa Fe,Arroyo Leyes,461,220,93019.718934911
+Mendoza,Jesús Nazareno,461,77,74478.313253012
+Capital Federal,La Paternal,423,175,685189.458128079
+Capital Federal,Velez Sarsfield,402,186,469303.568840580
+Mendoza,San Rafael,400,169,57874.953445065
+Capital Federal,Congreso,389,163,484680.256410256
+Buenos Aires Costa Atlántica,Santa Clara del Mar,386,155,207922.821576763
+Santa Fe,Ibarlucea,382,190,103647.582781457
+Santiago del Estero,Santiago del Estero,382,202,101760.466392318
+Santa Fe,San Agustín,382,59,144764.263157895
+Córdoba,Alta Gracia,382,159,76274.132075472
+Mendoza,Las Compuertas,381,176,55285.346869712
+Neuquen,Añelo,381,180,254658.427561837
+Buenos Aires Costa Atlántica,San Bernardo,380,161,262834.084778420
+Córdoba,Villa Yacanto,375,173,123063.701550388
+Mendoza,Vistalba,366,156,53007.203065134
+Santa Fe,Esperanza,366,182,64839.752650177
+Buenos Aires Costa Atlántica,Necochea,365,172,242679.264957265
+Buenos Aires (fuera de GBA),San Miguel del Monte,348,147,56073.981651376
+Capital Federal,La Boca,339,128,714628.606557377
+Capital Federal,Villa Real,328,148,634759.425587467
+Mendoza,Lunlunta,322,163,69831.873840445
+Córdoba,Los Reartes,314,133,74696.318289786
+Córdoba,Mendiolaza,314,115,126136.948717949
+Jujuy,San Salvador de Jujuy,311,126,158580.883720930
+Misiones,Posadas,311,116,379834.561403509
+Santa Fe,Villa Amelia,310,170,78164.517857143
+Santa Fe,San José del Rincón,309,134,138605.257510730
+Chubut,Esquel,301,139,69172.583518931
+Rio Negro,General Roca,301,152,83613.003952569
+Córdoba,Santa Rosa de Calamuchita,288,123,160469.825436409
+Mendoza,Los Corralitos,286,132,59785.167037862
+Rio Negro,Dina Huapi,279,96,204878.146853147
+La Pampa,Toay,278,120,56596.181818182
+Mendoza,Mayor Drummond,278,124,50819.075000000
+Santa Fe,Avellaneda,275,105,106738.488372093
+Mendoza,Chacras de Coria,275,121,63353.440594059
+Buenos Aires Costa Atlántica,Mar del Tuyú,275,108,252398.997289973
+Buenos Aires Costa Atlántica,Mar de Ajó,270,102,237764.460641399
+GBA Sur,Berisso,270,124,94515.931034483
+Mendoza,El Sauce,265,118,59887.790368272
+Santa Fe,Granadero Baigorria,262,103,111555.722222222
+Neuquen,Villa La Angostura,260,101,207610.226628895
+Buenos Aires (fuera de GBA),Veinticinco de Mayo,255,125,35561.828442438
+Córdoba,Malagueño,253,112,84075.331412104
+Tierra del Fuego,Ushuaia,253,119,238386.768802228
+Córdoba,Villa Giardino,251,76,150557.456140351
+Rio Negro,General Fernández Oro,248,113,74845.564304462
+Buenos Aires Costa Atlántica,Mar Azul,247,86,231462.627737226
+La Pampa,Ataliva Roca,237,120,66235.370786517
+Buenos Aires Costa Atlántica,Chapadmalal,234,112,281552.701949861
+Córdoba,La Falda,233,81,150963.976377953
+Buenos Aires (fuera de GBA),Carmen de Areco,229,119,39622.512077295
+Buenos Aires Costa Atlántica,Mar Chiquita,225,94,248396.604938272
+Neuquen,Centenario,218,122,66642.183288410
+Santa Fe,Nuevo Torino,216,114,83465.763688761
+Santa Fe,Alvear,215,92,128510.575539568
+Mendoza,Rodeo de la Cruz,214,101,107526.395348837
+Capital Federal,Parque Centenario,214,81,779517.836538462
+Mendoza,Cruz de Piedra,211,104,68143.174157303
+Córdoba,La Cumbre,209,79,102893.040000000
+Santa Fe,General Lagos,206,82,75470.750853242
+Buenos Aires (fuera de GBA),Mar Chiquita,202,108,48968.956521739
+Buenos Aires (fuera de GBA),Magdalena,202,93,65206.831955923
+Capital Federal,Villa Soldati,201,91,668588.226950355
+San Juan,San Juan,194,65,340195.187165775
+Córdoba,Anisacate,194,68,107207.200000000
+Neuquen,San Martín de los Andes,194,106,69442.213114754
+Santa Fe,San Jerónimo Norte,194,96,107327.012195122
+Capital Federal,Abasto,192,95,543064.444444444
+Mendoza,Russell,191,102,61375.260273973
+Córdoba,Cosquín,190,91,83341.932203390
+GBA Oeste,Marcos Paz,189,75,212064.341463415
+Corrientes,Goya,186,88,89674.539249147
+Santa Fe,Recreo,183,96,91460.646067416
+Buenos Aires (fuera de GBA),Tornquist,182,84,43688.510638298
+Mendoza,San José,179,100,104020.441988950
+Buenos Aires (fuera de GBA),Lobos,176,70,90501.008064516
+Buenos Aires Costa Atlántica,Ostende,176,73,227927.098445596
+Buenos Aires Costa Atlántica,Mar de las Pampas,174,71,335899.678899083
+Corrientes,Corrientes,173,86,101576.032258065
+Buenos Aires Costa Atlántica,San Clemente del Tuyú,169,52,524224.597701149
+Santa Fe,Colastiné,167,72,101869.426229508
+Buenos Aires (fuera de GBA),San Andrés de Giles,165,86,53865.418060201
+Capital Federal,Once,163,63,418241.600000000
+Mendoza,Perdriel,163,108,71667.584097859
+Córdoba,Mayu Sumaj,157,61,141368.670212766
+Buenos Aires (fuera de GBA),General Juan Madariaga,155,70,77727.573221757
+Santa Fe,Piñero,153,80,89339.537037037
+Santa Fe,Pueblo Andino,151,75,71709.044117647
+Mendoza,Las Paredes,151,71,83245.772727273
+San Luis,Villa Merlo,148,67,163024.558139535
+Buenos Aires Costa Atlántica,Santa Teresita,148,88,290872.160278746
+Capital Federal,Tribunales,148,86,542449.597069597
+Mendoza,Goudge,147,49,138176.829268293
+San Luis,Juana Koslay,144,66,95142.581967213
+Buenos Aires (fuera de GBA),Balcarce,143,75,82894.965517241
+Santa Fe,Ángel Gallardo,139,58,117008.333333333
+Buenos Aires Costa Atlántica,Cariló,137,63,216514.325842697
+Mendoza,El Challao,135,68,99160.403587444
+Mendoza,Potrerillos,131,49,59174.677419355
+San Luis,San Luis,129,64,86980.897959184
+Capital Federal,Agronomía,128,62,903008.809523810
+Córdoba,Villa María,128,68,198143.103448276
+Buenos Aires (fuera de GBA),Mercedes,127,48,146214.556962025
+Buenos Aires (fuera de GBA),Chascomús,125,90,73190.311526480
+Córdoba,Sierras de Calamuchita,123,70,148090.241545894
+Córdoba,La Granja,123,56,217357.433155080
+Chubut,Rada Tilly,123,67,163673.094170404
+Córdoba,Villa Icho Cruz,120,60,96784.660194175
+Córdoba,Pilar,120,43,124272.153846154
+Santa Fe,Capitán Bermúdez,119,50,125093.883495146
+Córdoba,Villa Cerro Azul,115,62,155564.196891192
+Buenos Aires Costa Atlántica,Valeria del Mar,115,51,370177.247191011
+Buenos Aires (fuera de GBA),Coronel Rosales,114,70,110232.000000000
+Tucuman,Tafí Viejo,109,71,126633.423423423
+Buenos Aires (fuera de GBA),Chivilcoy,106,50,98140.418848168
+Capital Federal,Versalles,106,49,748145.045871560
+Salta,Cerrillos,106,55,186306.818181818
+Córdoba,Salsipuedes,106,47,70904.354838710
+Córdoba,Bialet Massé,103,51,134457.023809524
+Capital Federal,Villa Riachuelo,101,41,398168.480000000
+Córdoba,Los Molinos,100,46,130464.656488550
+Mendoza,La Carrera,97,58,160517.951807229
+Córdoba,Villa Ciudad Parque Los Reartes,97,57,115126.746987952
+Chaco,Colonia Popular,91,46,157995.111111111
+Mendoza,Tunuyán,87,49,110141.189189189
+Santa Fe,Pujato Norte,87,57,146663.513513514
+Córdoba,Villa Los Aromos,87,46,143804.857142857
+Córdoba,Río Cuarto,87,40,167066.446280992
+Buenos Aires Costa Atlántica,Las Toninas,85,49,414830.434782609
+Córdoba,Villa del Dique,83,46,170582.352941176
+Mendoza,Guaymallén,74,39,103958.359375000
+Córdoba,Villa General Belgrano,72,47,112811.387283237
+Neuquen,Mari Menuco,70,43,100469.147286822
+Mendoza,Buena Nueva,61,36,95708.849557522
+Mendoza,Colonia Segovia,60,37,215120.476190476
+Córdoba,Capilla del Monte,60,35,116434.107142857

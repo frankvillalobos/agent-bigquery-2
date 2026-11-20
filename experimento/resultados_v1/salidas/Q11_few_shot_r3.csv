@@ -1,0 +1,2182 @@
+tipo_propiedad,ciudad,avg_days_to_first_lead
+galpon,Abasto,0.0
+cochera,Pueblo Andino,0.0
+quinta,Russell,0.0
+cochera,San Miguel del Monte,0.0
+cochera,Monte Hermoso,0.0
+local,Bialet Massé,0.0
+edificio,Veinticinco de Mayo,0.0
+oficina,Tribunales,1.0
+cochera,Villa Los Aromos,1.0
+ph,Malagueño,1.0
+oficina,Villa Ciudad Parque Los Reartes,1.0
+quinta,Hurlingham,1.0
+oficina,Piñero,1.0
+galpon,Goya,1.0
+cochera,La Falda,1.3043478260869565
+local,Jesús Nazareno,1.7954545454545454
+cochera,Alta Gracia,1.909090909090909
+galpon,Mar Azul,2.0
+quinta,Jesús Nazareno,2.0
+galpon,Villa General Mitre,2.0
+cochera,San Agustín,2.0
+oficina,La Falda,2.0
+ph,Tribunales,2.0
+galpon,San José,2.0
+oficina,General Roca,2.0
+local,Esquel,2.1333333333333337
+casa,Villa Ciudad Parque Los Reartes,2.2790697674418605
+local,Tafí Viejo,2.4545454545454546
+quinta,Zárate,2.5428571428571427
+galpon,Ibarlucea,2.914893617021277
+edificio,Alta Gracia,3.0
+galpon,Costa Esmeralda,3.0
+cochera,Las Paredes,3.0
+edificio,Unquillo,3.0
+quinta,Abasto,3.0
+cochera,San Nicolás de los Arroyos,3.0
+oficina,Los Molinos,3.0
+cochera,Parque Chacabuco,3.4666666666666663
+cochera,Los Reartes,4.0
+quinta,Cariló,4.0
+galpon,San Andrés de Giles,4.0
+quinta,Capilla del Monte,4.0
+edificio,Las Compuertas,4.0
+quinta,Esquel,4.0
+cochera,Lunlunta,4.0
+local,Río Cuarto,4.0
+local,Guaymallén,4.0
+cochera,Cosquín,4.333333333333334
+terreno,Russell,4.448529411764706
+ph,Juana Koslay,4.809523809523809
+ph,San Clemente del Tuyú,5.0
+cochera,Villa María,5.0
+galpon,Villa Lugano,5.0
+galpon,Mar de las Pampas,5.666666666666667
+ph,Cruz de Piedra,5.782608695652174
+oficina,Nuevo Torino,6.0
+oficina,Agronomía,6.0
+cochera,General Fernández Oro,6.0
+oficina,Villa Allende,6.0
+cochera,Villa Giardino,6.0
+oficina,Colonia Popular,6.0
+cochera,Lobos,6.5
+oficina,Reconquista,6.611111111111112
+local,Coghlan,6.673469387755101
+local,La Boca,6.7894736842105265
+oficina,Boedo,6.940476190476191
+galpon,Once,7.0
+oficina,Colastiné,7.0
+quinta,Añelo,7.0
+quinta,Perdriel,7.0
+quinta,San Jerónimo Norte,7.0
+quinta,Los Corralitos,7.0
+galpon,Cipolletti,7.0
+ph,Villa General Belgrano,7.0
+quinta,Mayor Drummond,7.0
+oficina,La Boca,7.225806451612903
+ph,San Bernardo,7.25
+cochera,Parque Centenario,7.275862068965518
+galpon,Santa Clara del Mar,7.343750000000001
+cochera,San Martín,7.76923076923077
+ph,Villa Icho Cruz,7.794871794871795
+oficina,La Paternal,7.8125
+edificio,Villa Ciudad Parque Los Reartes,8.0
+local,Veinticinco de Mayo,8.0
+quinta,Coghlan,8.0
+ph,Salsipuedes,8.026315789473683
+local,Marcos Paz,8.142857142857142
+cochera,Tornquist,8.310810810810809
+quinta,Puerto Madero,8.571428571428571
+local,San Nicolás de los Arroyos,8.612903225806452
+cochera,Chapadmalal,8.789473684210526
+cochera,Río Ceballos,8.928571428571429
+galpon,Puerto Madero,8.944444444444445
+edificio,San Carlos de Bariloche,9.0
+galpon,Villa Allende,9.0
+cochera,La Paternal,9.0
+edificio,Puerto Madero,9.0
+local,Los Reartes,9.0
+oficina,Malagueño,9.0
+oficina,San Salvador de Jujuy,9.0
+local,Colonia Popular,9.0
+edificio,General Rodríguez,9.0
+local,Villa Gesell,9.02654867256637
+ph,General Lagos,9.093333333333334
+cochera,Pompeya,9.225000000000001
+oficina,Parque Chacabuco,9.340425531914894
+ph,Mendiolaza,9.442307692307692
+galpon,Pergamino,9.473684210526317
+cochera,Villa Pueyrredón,9.566666666666666
+galpon,Venado Tuerto,9.57142857142857
+ph,San Juan,9.68421052631579
+galpon,General Juan Madariaga,9.68421052631579
+local,Santiago del Estero,9.73076923076923
+edificio,Almagro,9.780000000000001
+local,Chapadmalal,9.8
+oficina,Villa Pueyrredón,9.861538461538462
+oficina,Parque Chas,9.915254237288137
+local,Merlo,9.931034482758621
+ph,San Andrés de Giles,9.931818181818182
+edificio,Resistencia,10.0
+galpon,La Granja,10.0
+quinta,Liniers,10.0
+galpon,San Salvador de Jujuy,10.0
+cochera,San Bernardo,10.0
+edificio,Mayu Sumaj,10.0
+cochera,Centenario,10.0
+oficina,Mar Chiquita,10.214285714285715
+oficina,Carmen de Areco,10.325
+quinta,Roldán,10.409836065573773
+galpon,Parque Chas,10.500000000000002
+ph,La Boca,10.564102564102564
+ph,Ángel Gallardo,10.625
+galpon,Berisso,10.666666666666666
+oficina,Resistencia,10.72
+ph,Carmen de Areco,10.73529411764706
+ph,Ushuaia,10.761194029850746
+ph,Posadas,10.799999999999997
+local,San Cristobal,10.923076923076923
+cochera,Berisso,10.972972972972974
+local,Los Corralitos,11.0
+oficina,Chacras de Coria,11.0
+oficina,San Nicolás de los Arroyos,11.0
+galpon,Las Compuertas,11.0
+galpon,Bialet Massé,11.0
+oficina,Villa La Angostura,11.0
+local,Mayor Drummond,11.0
+local,Constitución,11.016949152542374
+cochera,Malagueño,11.0625
+cochera,Villa Amelia,11.133333333333335
+galpon,Parque Centenario,11.16
+galpon,Colastiné,11.395348837209303
+cochera,Mar Chiquita,11.489795918367347
+oficina,La Cumbre,11.571428571428571
+quinta,Luján,11.666666666666666
+local,Mendiolaza,11.732558139534882
+galpon,San Miguel de Tucumán,11.852272727272727
+oficina,Dina Huapi,12.0
+galpon,San Juan,12.0
+galpon,Salsipuedes,12.0
+galpon,Río Ceballos,12.0
+local,San Juan,12.0
+ph,Añelo,12.0
+cochera,Hurlingham,12.102564102564102
+cochera,Villa Yacanto,12.102564102564102
+local,Villa del Parque,12.105555555555554
+ph,San José del Rincón,12.236363636363636
+galpon,Floresta,12.256097560975611
+quinta,San Martín de los Andes,12.294117647058824
+oficina,Necochea,12.357142857142856
+cochera,Ibarlucea,12.475409836065573
+oficina,Granadero Baigorria,12.529411764705884
+oficina,Toay,12.530120481927712
+galpon,Villa Yacanto,12.586956521739133
+oficina,Marcos Paz,12.6
+oficina,Ushuaia,12.923076923076923
+oficina,General Juan Madariaga,12.946428571428573
+cochera,Esteban Echeverría,12.97191011235955
+galpon,Exaltación de la Cruz,12.974683544303797
+edificio,Costa Esmeralda,13.0
+oficina,San José,13.0
+cochera,Villa Cerro Azul,13.0
+oficina,Ataliva Roca,13.0
+oficina,Villa Riachuelo,13.0
+oficina,San Lorenzo,13.024691358024693
+oficina,Centro / Microcentro,13.038167938931299
+edificio,Marcos Paz,13.102564102564102
+edificio,San Cristobal,13.148148148148147
+oficina,Villa Ortuzar,13.200000000000001
+local,Floresta,13.272727272727273
+cochera,Costa Esmeralda,13.415094339622641
+cochera,Villa Santa Rita,13.454545454545455
+oficina,Villa General Mitre,13.469387755102039
+local,Florencio Varela,13.528089887640451
+cochera,Veinticinco de Mayo,13.609375
+ph,La Cumbre,13.666666666666666
+local,San Bernardo,13.75
+local,Abasto,14.0
+oficina,Las Heras,14.0
+edificio,Recoleta,14.0
+galpon,Mayu Sumaj,14.0
+edificio,Maipú,14.0
+quinta,Villa Allende,14.0
+quinta,Unquillo,14.0
+cochera,Mayu Sumaj,14.0
+local,Chivilcoy,14.0
+galpon,San Rafael,14.0
+oficina,Pompeya,14.090909090909093
+ph,Cariló,14.11111111111111
+cochera,El Sauce,14.12
+ph,San Martín de los Andes,14.212121212121213
+quinta,Santa Rosa de Calamuchita,14.227272727272727
+terreno,San Agustín,14.404761904761905
+local,Santa María de Punilla,14.5
+oficina,San Jerónimo Norte,14.526315789473685
+local,Miramar,14.53846153846154
+oficina,Alvear,14.583333333333332
+oficina,Ibarlucea,14.636363636363635
+ph,Las Toninas,14.64516129032258
+ph,Villa Ciudad Parque Los Reartes,14.727272727272727
+quinta,Congreso,14.73529411764706
+oficina,Mar de Ajó,14.75
+oficina,Zárate,14.758620689655173
+cochera,Vistalba,15.0
+edificio,Villa Soldati,15.0
+cochera,San José del Rincón,15.0
+edificio,Mar del Tuyú,15.0
+cochera,Russell,15.0
+galpon,San Agustín,15.0
+edificio,Malvinas Argentinas,15.0
+galpon,Mar del Tuyú,15.0
+local,Chacarita,15.11940298507463
+ph,Las Paredes,15.123287671232877
+ph,Chacarita,15.184079601990046
+local,Alta Gracia,15.304347826086957
+local,Parque Patricios,15.314685314685315
+oficina,Mataderos,15.454545454545457
+ph,Alvear,15.525773195876287
+quinta,La Matanza,15.543071161048687
+cochera,Cipolletti,15.766666666666667
+edificio,Villa del Parque,15.774193548387096
+cochera,Reconquista,15.8
+cochera,Buena Nueva,16.0
+oficina,Pujato Norte,16.0
+galpon,Potrerillos,16.0
+galpon,Chivilcoy,16.0
+quinta,Miramar,16.0
+edificio,La Boca,16.0
+galpon,Alvear,16.0
+galpon,Rada Tilly,16.586206896551722
+oficina,San Miguel de Tucumán,16.71698113207547
+oficina,Mayu Sumaj,16.76923076923077
+galpon,General Fernández Oro,16.842105263157897
+ph,Goudge,16.963855421686745
+galpon,Campana,16.97452229299363
+local,Agronomía,17.0
+cochera,Goudge,17.0
+cochera,Unquillo,17.0
+oficina,Mar de las Pampas,17.0
+local,Colonia Segovia,17.0
+edificio,General Roca,17.0
+galpon,Carmen de Areco,17.0
+casa,Posadas,17.17924528301887
+ph,Mayu Sumaj,17.37179487179487
+local,Sauce Viejo,17.466666666666665
+ph,San Martín,17.548192771084338
+ph,General Juan Madariaga,17.568965517241377
+galpon,Roldán,17.666666666666668
+local,Retiro,17.927586206896553
+oficina,Cariló,18.0
+cochera,Valeria del Mar,18.0
+cochera,Santa Clara del Mar,18.0
+oficina,Once,18.0
+quinta,Chacarita,18.0
+terreno,Potrerillos,18.01530612244898
+casa,Salsipuedes,18.018404907975462
+quinta,Arroyo Leyes,18.0625
+galpon,La Calera,18.0625
+ph,Santa Rosa,18.108108108108105
+local,Villa María,18.142857142857142
+cochera,Barrio Norte,18.234782608695653
+oficina,San Agustín,18.235294117647058
+local,Chacras de Coria,18.252873563218394
+oficina,Villa Luro,18.266666666666666
+quinta,Floresta,18.375000000000004
+cochera,Ezeiza,18.488151658767773
+cochera,José C Paz,18.5
+ph,Villa Real,18.60416666666667
+oficina,Villa Yacanto,18.666666666666664
+galpon,Retiro,18.69026548672566
+cochera,Perdriel,18.894736842105264
+oficina,Campana,18.973684210526315
+oficina,San Martín de los Andes,18.974789915966387
+edificio,Monte Hermoso,19.0
+local,Granadero Baigorria,19.0
+cochera,Rada Tilly,19.0
+quinta,Recreo,19.0
+galpon,La Paternal,19.0
+cochera,Retiro,19.13131313131313
+galpon,Almirante Brown,19.304347826086957
+local,Villa Santa Rita,19.338461538461537
+departamento,Versalles,19.35267857142857
+ph,Villa Yacanto,19.385542168674696
+quinta,Villa Lugano,19.416666666666668
+quinta,Villa Amelia,19.5
+local,Villa Real,19.526315789473685
+oficina,Unquillo,19.591836734693878
+casa,Villa La Angostura,19.68287037037037
+oficina,Villa Giardino,19.736842105263158
+quinta,Malvinas Argentinas,19.779661016949152
+galpon,Parque Patricios,19.803149606299215
+local,Villa Soldati,19.88888888888889
+quinta,Recoleta,19.927461139896373
+ph,Santa Clara del Mar,19.92929292929293
+cochera,Almagro,19.984939759036145
+quinta,Comodoro Rivadavia,20.0
+oficina,Abasto,20.0
+cochera,Tunuyán,20.0
+quinta,José C Paz,20.0
+galpon,Los Corralitos,20.0
+cochera,Necochea,20.0
+quinta,San Miguel,20.06122448979592
+ph,Santa Rosa de Calamuchita,20.06164383561644
+terreno,Alvear,20.0625
+quinta,Ciudad de Santa Fe,20.070312499999996
+galpon,Goudge,20.142857142857146
+departamento,Los Reartes,20.174726989079566
+ph,San Fernando,20.26289926289926
+ph,San Agustín,20.280701754385966
+departamento,Villa Giardino,20.3643216080402
+quinta,Villa Gesell,20.37391304347826
+galpon,Liniers,20.47058823529412
+local,Posadas,20.499999999999996
+galpon,San Lorenzo,20.53846153846154
+quinta,Centro / Microcentro,20.58823529411765
+local,Perdriel,20.625
+cochera,Luján de Cuyo,20.642384105960268
+departamento,Posadas,20.655813953488373
+local,La Paternal,20.766666666666666
+local,San Martín,20.8989898989899
+cochera,Colegiales,20.94736842105263
+ph,Los Reartes,20.948051948051944
+oficina,Venado Tuerto,20.96153846153846
+local,Villa del Dique,21.0
+oficina,Rada Tilly,21.0
+oficina,Santa Rosa de Calamuchita,21.0
+galpon,Congreso,21.0
+galpon,Tanti,21.0
+oficina,Rodeo de la Cruz,21.0
+quinta,Merlo,21.0
+departamento,Ostende,21.06906077348066
+ph,Villa del Parque,21.079913606911447
+galpon,Posadas,21.115384615384617
+local,Villa Nueva,21.125000000000004
+oficina,Parque Patricios,21.194690265486724
+departamento,Mar de las Pampas,21.232175502742233
+cochera,Belgrano,21.33922261484099
+cochera,Potrero de Garay,21.44871794871795
+local,Roldán,21.470588235294116
+ph,Barracas,21.56547619047619
+galpon,Colegiales,21.573076923076925
+ph,Villa Luro,21.5953488372093
+local,Alvear,21.6875
+cochera,Luján,21.7030303030303
+departamento,Parque Centenario,21.72675521821632
+local,Ushuaia,21.73076923076923
+oficina,San Telmo,21.828124999999996
+galpon,Parque Avellaneda,21.84
+quinta,Mataderos,21.93103448275862
+cochera,Centro / Microcentro,22.0
+quinta,Villa Yacanto,22.0
+oficina,San Cristobal,22.040935672514617
+cochera,Monserrat,22.054545454545455
+oficina,Rafaela,22.083333333333336
+local,Magdalena,22.12962962962963
+ph,Villa Urquiza,22.170266836086398
+cochera,Santa María de Punilla,22.18181818181818
+ph,Pehuajó,22.47685185185185
+terreno,Villa del Dique,22.5
+local,Velez Sarsfield,22.51578947368421
+galpon,Villa Soldati,22.557692307692307
+galpon,Villa Pueyrredón,22.59375
+departamento,Parque Patricios,22.593787696019294
+ph,Mayor Drummond,22.608695652173914
+quinta,San Lorenzo,22.64285714285714
+casa,Mar Azul,22.684931506849317
+ph,Mar Azul,22.799999999999994
+local,Potrerillos,22.86206896551724
+ph,Centro / Microcentro,22.903141361256544
+local,Mar del Tuyú,22.9344262295082
+oficina,Lomas de Zamora,22.962025316455694
+departamento,Colonia Popular,22.98046875
+ph,Monte Hermoso,22.984924623115578
+galpon,Guaymallén,23.0
+oficina,Coronel Rosales,23.0
+quinta,Villa General Mitre,23.0
+quinta,Tafí Viejo,23.0
+edificio,Colegiales,23.0
+cochera,San Miguel,23.027272727272724
+cochera,Corrientes,23.068493150684933
+ph,Piñero,23.09803921568627
+quinta,General Juan Madariaga,23.117647058823533
+ph,Lunlunta,23.232142857142854
+departamento,Buena Nueva,23.254237288135595
+terreno,Goudge,23.30952380952381
+ph,Berisso,23.491329479768787
+ph,Villa Devoto,23.51777777777778
+quinta,Berisso,23.566666666666666
+galpon,Santa Rosa de Calamuchita,23.599999999999998
+ph,Colastiné,23.642857142857142
+departamento,Mar Azul,23.73110465116279
+galpon,Villa Merlo,23.779661016949152
+ph,Esquel,23.810126582278485
+ph,Villa General Mitre,23.89864864864865
+departamento,Mayu Sumaj,23.907849829351534
+ph,Granadero Baigorria,23.94607843137255
+ph,Villa Giardino,23.989010989010993
+ph,La Calera,23.999999999999996
+quinta,Capitán Bermúdez,24.0
+galpon,Valeria del Mar,24.0
+cochera,San Andrés de Giles,24.0
+ph,Sauce Viejo,24.049586776859506
+ph,Floresta,24.098305084745764
+local,San Agustín,24.12
+oficina,Villa Lugano,24.217391304347824
+cochera,General Rodríguez,24.289156626506028
+cochera,Villa Ortuzar,24.3
+ph,Potrero de Garay,24.301204819277107
+galpon,Tandil,24.360360360360364
+local,Lunlunta,24.38636363636364
+departamento,Arroyo Leyes,24.397775876817793
+ph,Ibarlucea,24.42142857142857
+ph,Barrio Norte,24.47126436781609
+departamento,Río Cuarto,24.473118279569892
+ph,General Roca,24.538011695906434
+cochera,Barracas,24.619047619047617
+cochera,Floresta,24.659574468085104
+departamento,San Miguel de Tucumán,24.680042238648365
+cochera,Exaltación de la Cruz,24.68421052631579
+oficina,Barrio Norte,24.70694864048339
+ph,Río Ceballos,24.784615384615382
+departamento,Villa Luro,24.80698151950718
+ph,Pueblo Esther,24.828877005347596
+quinta,Quilmes,24.87704918032787
+oficina,Floresta,24.88034188034188
+departamento,Anisacate,24.897297297297296
+ph,Villa Lugano,24.914473684210527
+oficina,General Lagos,24.91891891891892
+local,Pergamino,24.9672131147541
+cochera,Villa Ciudad Parque Los Reartes,25.0
+cochera,Mar de las Pampas,25.0
+quinta,Posadas,25.0
+oficina,Ostende,25.0
+galpon,Malagueño,25.0
+galpon,Ushuaia,25.0
+quinta,Cañuelas,25.01666666666667
+quinta,Barrio Norte,25.027777777777775
+local,San Miguel de Tucumán,25.03703703703704
+departamento,La Paternal,25.16119691119691
+oficina,Los Reartes,25.166666666666664
+galpon,Santiago del Estero,25.208955223880597
+oficina,San Juan,25.209302325581394
+galpon,Almagro,25.2183908045977
+casa,Parque Centenario,25.221590909090907
+ph,Miramar,25.224137931034484
+departamento,Piñero,25.235751295336787
+cochera,Saavedra,25.24561403508772
+local,Vistalba,25.267441860465116
+departamento,Mayor Drummond,25.291443850267378
+casa,San Clemente del Tuyú,25.293023255813953
+cochera,Tanti,25.327586206896555
+ph,Salta,25.371257485029947
+galpon,Rodeo de la Cruz,25.4468085106383
+ph,San Lorenzo,25.5
+oficina,Potrero de Garay,25.61052631578947
+terreno,Parque Centenario,25.69811320754717
+cochera,Sierras de Calamuchita,25.875
+cochera,Merlo,26.04651162790698
+ph,La Falda,26.06936416184971
+terreno,Colonia Segovia,26.085714285714285
+cochera,Ángel Gallardo,26.125
+local,Villa Luro,26.193548387096776
+local,Parque Centenario,26.200000000000003
+quinta,Cipolletti,26.22784810126582
+departamento,Liniers,26.264462809917354
+oficina,Añelo,26.28169014084507
+ph,Pergamino,26.29059829059829
+departamento,Floresta,26.29755872869645
+quinta,Almagro,26.362244897959187
+departamento,Miramar,26.406491499227197
+local,Villa Lugano,26.43617021276596
+casa,Parque Patricios,26.457957957957966
+ph,Tanti,26.45801526717557
+departamento,Potrerillos,26.45901639344262
+departamento,El Challao,26.479289940828405
+quinta,Retiro,26.529411764705884
+departamento,Villa Santa Rita,26.561555075593958
+cochera,Villa Allende,26.72222222222222
+departamento,Almagro,26.756915026164954
+galpon,Los Reartes,26.763636363636362
+casa,La Cumbre,26.781512605042018
+galpon,Villa Devoto,26.784037558685448
+ph,Parque Patricios,26.87557603686636
+oficina,Congreso,26.925
+ph,La Paternal,26.931372549019613
+cochera,San Nicolás,26.93877551020408
+edificio,Presidente Perón,27.0
+cochera,Roldán,27.0
+galpon,Recreo,27.0
+quinta,Presidente Perón,27.0
+ph,Tafí Viejo,27.0
+oficina,José C Paz,27.0
+terreno,San Juan,27.0
+galpon,Jesús Nazareno,27.0
+galpon,Centenario,27.0
+local,Once,27.0
+ph,Puerto Madero,27.069620253164558
+ph,Pujato Norte,27.09090909090909
+terreno,Los Reartes,27.152974504249297
+ph,Flores,27.380017079419304
+cochera,Rafaela,27.403508771929822
+casa,Colastiné,27.421532846715326
+oficina,Mar del Tuyú,27.448275862068964
+oficina,Parque Centenario,27.5
+oficina,San Vicente,27.591397849462364
+quinta,Tandil,27.622950819672127
+quinta,Balvanera,27.63235294117647
+local,Santa Clara del Mar,27.63917525773196
+galpon,Nuevo Torino,27.666666666666668
+local,Berisso,27.666666666666668
+departamento,Sierras de Calamuchita,27.671875000000004
+edificio,Barrio Norte,27.71428571428571
+galpon,Villa Carlos Paz,27.71428571428571
+cochera,Parque Patricios,27.726190476190474
+ph,Mataderos,27.7390350877193
+oficina,Puerto Madero,27.82089552238806
+galpon,Villa Santa Rita,27.831460674157302
+ph,Alta Gracia,27.902343749999996
+oficina,Saavedra,27.920792079207917
+cochera,La Matanza,27.925
+ph,El Challao,27.93548387096774
+oficina,Versalles,27.941176470588236
+casa,Pueblo Andino,27.950782997762857
+cochera,Villa Real,27.962962962962962
+ph,Abasto,27.983870967741936
+cochera,Constitución,28.0
+edificio,Mataderos,28.0
+galpon,Corrientes,28.0
+edificio,Colonia Segovia,28.0
+quinta,Mayu Sumaj,28.0
+ph,Villa Santa Rita,28.000000000000004
+quinta,Villa Devoto,28.05405405405405
+departamento,Retiro,28.065520677628303
+departamento,La Falda,28.074380165289256
+casa,Dina Huapi,28.09433962264151
+terreno,La Carrera,28.11842105263158
+casa,Mayu Sumaj,28.1951871657754
+ph,Villa Carlos Paz,28.212851405622487
+quinta,Monserrat,28.25925925925926
+oficina,Berazategui,28.26843657817109
+departamento,Villa Devoto,28.270943396226414
+departamento,San Cristobal,28.313949463482185
+oficina,Luján de Cuyo,28.37055837563452
+departamento,Villa Lugano,28.40365923384791
+ph,Retiro,28.476621417797887
+oficina,Tandil,28.489130434782606
+ph,Villa Crespo,28.544290288153682
+departamento,Colonia Segovia,28.59313725490196
+quinta,Godoy Cruz,28.650000000000002
+galpon,Merlo,28.71232876712329
+departamento,Chapadmalal,28.719769673704413
+departamento,Monserrat,28.725215301421983
+departamento,Villa General Mitre,28.74114441416894
+departamento,San Juan,28.799180327868854
+cochera,Bialet Massé,28.813559322033896
+cochera,Vicente López,28.831649831649834
+oficina,Tigre,28.85230234578627
+ph,Monte Castro,28.867549668874176
+cochera,Santo Tomé,28.88811188811189
+casa,Las Toninas,28.957805907172993
+local,Parque Avellaneda,28.970149253731343
+galpon,Mar de Ajó,29.0
+edificio,Los Corralitos,29.0
+galpon,Anisacate,29.0
+cochera,Tafí Viejo,29.0
+departamento,Once,29.114634146341466
+quinta,San Telmo,29.272727272727277
+galpon,Plottier,29.34529147982062
+departamento,Centro / Microcentro,29.3832380952381
+departamento,Villa Real,29.418936446173802
+quinta,Esteban Echeverría,29.62666666666667
+ph,San Luis,29.721311475409834
+casa,Centro / Microcentro,29.745650869826033
+terreno,Jesús Nazareno,29.82758620689656
+oficina,Ciudad de Mendoza,29.955882352941178
+galpon,Arroyo Leyes,30.0
+edificio,La Calera,30.0
+edificio,Monte Castro,30.0
+galpon,San Luis,30.0
+local,Ostende,30.0
+ph,Parque Chas,30.019379844961243
+cochera,Parque Chas,30.066666666666666
+casa,Mercedes,30.079545454545457
+ph,General Fernández Oro,30.10982658959538
+departamento,San Nicolás de los Arroyos,30.144319344933464
+casa,Los Molinos,30.145454545454545
+departamento,Congreso,30.180327868852462
+local,Plottier,30.213270142180097
+ph,Constitución,30.243589743589745
+ph,Presidente Perón,30.274647887323948
+galpon,San Vicente,30.327777777777783
+casa,Las Paredes,30.334470989761087
+local,Centro / Microcentro,30.346007604562736
+ph,San Miguel,30.38709677419355
+galpon,San Cristobal,30.45945945945946
+departamento,San Telmo,30.460690887432992
+terreno,Centro / Microcentro,30.51624548736462
+cochera,Moreno,30.54875283446712
+departamento,Boedo,30.549166187464056
+departamento,Parque Avellaneda,30.56401551891367
+departamento,San Miguel,30.579610791685095
+local,Tandil,30.588495575221238
+cochera,Recoleta,30.588688946015424
+oficina,Sauce Viejo,30.642857142857142
+oficina,Sierras de Calamuchita,30.651162790697676
+cochera,Chacarita,30.693548387096772
+ph,Belgrano,30.704712812960235
+ph,Rada Tilly,30.71111111111111
+departamento,Villa Urquiza,30.729164245030802
+departamento,Chacarita,30.754008438818566
+ph,Santo Tomé,30.766990291262132
+cochera,Campana,30.773333333333333
+casa,Costa Esmeralda,30.838748495788206
+oficina,Moreno,30.870090634441084
+cochera,Liniers,30.894736842105267
+casa,Malagueño,30.9910447761194
+oficina,Villa General Belgrano,31.0
+cochera,Parque Avellaneda,31.0
+departamento,Villa Ciudad Parque Los Reartes,31.045662100456624
+departamento,Villa Yacanto,31.047735618115055
+ph,Valeria del Mar,31.083333333333336
+oficina,General Rodríguez,31.190000000000005
+oficina,Villa Urquiza,31.197771587743734
+cochera,Villa Luro,31.200000000000003
+departamento,Colegiales,31.228373702422154
+quinta,Uruguay,31.271721958925745
+edificio,Cañuelas,31.276785714285715
+ph,Cipolletti,31.313672922252017
+cochera,Santa Rosa de Calamuchita,31.31944444444445
+oficina,Santiago del Estero,31.36842105263158
+ph,Parque Centenario,31.46428571428571
+departamento,Caballito,31.476284463085154
+galpon,Villa Ortuzar,31.499999999999996
+ph,Villa Soldati,31.499999999999996
+departamento,Belgrano,31.51137671536078
+terreno,Colastiné,31.63414634146341
+quinta,Villa Crespo,31.64864864864865
+quinta,Berazategui,31.671052631578945
+departamento,La Calera,31.682816048448135
+oficina,Villa Carlos Paz,31.72395833333334
+departamento,Mataderos,31.73434291581111
+galpon,Resistencia,31.849999999999998
+terreno,Mar Azul,31.872611464968156
+ph,Ostende,31.89333333333333
+cochera,Tandil,31.926470588235293
+oficina,Alta Gracia,32.0
+oficina,San José del Rincón,32.0
+quinta,Ibarlucea,32.0
+quinta,La Carrera,32.0
+local,Almagro,32.02145214521452
+departamento,San Agustín,32.06683168316832
+ph,Chapadmalal,32.13461538461538
+departamento,Villa Amelia,32.169181034482754
+oficina,Cañuelas,32.21776504297995
+quinta,Centenario,32.244897959183675
+oficina,Núñez,32.28813559322034
+galpon,Centro / Microcentro,32.33076923076923
+departamento,Villa Los Aromos,32.33165829145729
+local,Pompeya,32.39716312056737
+departamento,Ángel Gallardo,32.400386847195364
+galpon,Velez Sarsfield,32.44444444444444
+departamento,San Martín,32.470000000000006
+departamento,Constitución,32.494680851063826
+ph,Costa Esmeralda,32.56890459363957
+departamento,Salsipuedes,32.65797101449275
+quinta,Almirante Brown,32.673151750972764
+terreno,Veinticinco de Mayo,32.707526881720426
+quinta,Pilar,32.744360902255636
+departamento,Exaltación de la Cruz,32.79595657057282
+oficina,Palermo,32.82142857142856
+ph,Villa La Angostura,32.829268292682926
+departamento,Chivilcoy,32.85100286532952
+departamento,Villa Ortuzar,32.91726618705035
+oficina,Villa Devoto,32.931232091690546
+departamento,Villa Pueyrredón,32.96633195510927
+edificio,San Salvador de Jujuy,33.0
+oficina,Capitán Bermúdez,33.0
+local,El Sauce,33.0
+cochera,Goya,33.0
+departamento,Palermo,33.04986866501851
+oficina,Roldán,33.08139534883721
+galpon,Ciudad de Santa Fe,33.13488372093023
+local,Pinamar,33.169336384439355
+departamento,Recoleta,33.17609329446066
+cochera,Maipú,33.22268907563025
+galpon,General Rodríguez,33.22429906542056
+departamento,San Nicolás,33.243010449025704
+ph,Ezeiza,33.27022780832679
+galpon,Villa Luro,33.29605263157895
+quinta,Villa del Parque,33.37837837837838
+local,San Telmo,33.419558359621455
+ph,San José,33.42857142857143
+departamento,Santa Clara del Mar,33.44161073825503
+quinta,Exaltación de la Cruz,33.45038167938932
+departamento,Pompeya,33.495224099926524
+oficina,Santa Clara del Mar,33.5
+cochera,Alvear,33.50684931506849
+departamento,Malvinas Argentinas,33.62168241115611
+departamento,Puerto Madero,33.662629757785474
+quinta,San Martín,33.75675675675676
+departamento,Tanti,33.75737463126844
+terreno,Los Molinos,33.82258064516128
+casa,Santa Rosa de Calamuchita,33.853448275862064
+quinta,Flores,33.884393063583815
+departamento,Uruguay,33.8870952304993
+casa,Mar del Tuyú,33.915057915057915
+edificio,Vicente López,33.9375
+quinta,Moreno,33.94642857142857
+casa,Villa Soldati,33.953086419753085
+local,Santa Rosa,34.0
+local,El Challao,34.0
+oficina,Vistalba,34.0
+quinta,Monte Castro,34.0
+oficina,Florencio Varela,34.0
+cochera,San Martín de los Andes,34.0
+ph,Perdriel,34.02127659574468
+casa,San Juan,34.107438016528924
+ph,Capitán Bermúdez,34.11458333333333
+cochera,Esquel,34.142857142857146
+casa,San Agustín,34.157458563535904
+local,Neuquén,34.163170163170165
+departamento,Villa Allende,34.188175919250185
+local,Rodeo de la Cruz,34.24242424242424
+departamento,Las Paredes,34.27401129943503
+departamento,Ushuaia,34.27800269905533
+departamento,Tigre,34.31103553817377
+casa,Chacras de Coria,34.45792079207921
+ph,Nuevo Torino,34.48695652173913
+local,Lomas de Zamora,34.49601593625498
+local,Villa Pueyrredón,34.58865248226951
+oficina,Uruguay,34.61538461538462
+ph,Rodeo de la Cruz,34.69285714285714
+ph,Saavedra,34.71161048689139
+ph,Plottier,34.71302816901408
+casa,San Martín,34.75983935742972
+departamento,Los Corralitos,34.7809364548495
+quinta,Sauce Viejo,34.86567164179104
+ph,Centenario,34.90909090909091
+local,Palermo,34.91274787535411
+casa,San Martín de los Andes,34.941431670282
+edificio,Ciudad de Mendoza,34.950819672131146
+cochera,Quilmes,34.97602739726027
+galpon,Berazategui,34.99074074074074
+galpon,San Miguel del Monte,35.0
+galpon,Villa General Belgrano,35.0
+galpon,Ituzaingó,35.02645502645503
+casa,Cerrillos,35.04405286343612
+oficina,Belgrano,35.07025411061286
+departamento,Marcos Paz,35.09523809523809
+departamento,San Fernando,35.098586920801836
+departamento,Avellaneda,35.13192090395481
+quinta,Villa Carlos Paz,35.152173913043484
+quinta,San Fernando,35.15384615384615
+departamento,Costa Esmeralda,35.15645371577575
+casa,San Cristobal,35.1984572230014
+oficina,Flores,35.26048565121414
+local,Santa Teresita,35.30434782608695
+ph,Santa Teresita,35.33333333333333
+galpon,Tigre,35.33493975903615
+casa,Miramar,35.34310532030402
+departamento,Pujato Norte,35.360703812316714
+ph,Velez Sarsfield,35.40191387559808
+quinta,Villa Urquiza,35.415841584158414
+local,San José del Rincón,35.444933920704855
+oficina,Salta,35.45497630331753
+oficina,San Nicolás,35.455149501661126
+departamento,San Salvador de Jujuy,35.47154471544716
+terreno,Parque Patricios,35.48179059180577
+cochera,Puerto Madero,35.52127659574468
+ph,Monserrat,35.52209492635025
+oficina,Colegiales,35.57446808510638
+departamento,Lobos,35.627500000000005
+quinta,Agronomía,35.629629629629626
+oficina,Villa Santa Rita,35.63917525773196
+edificio,Lomas de Zamora,35.68
+cochera,Villa Nueva,35.714285714285715
+casa,San Rafael,35.73549488054608
+departamento,Vicente López,35.79835286126675
+cochera,Córdoba,35.79900332225914
+cochera,San Carlos de Bariloche,35.80263157894737
+ph,Palermo,35.81242312423123
+ph,Parque Avellaneda,35.831250000000004
+ph,Caballito,35.841187863137506
+departamento,Granadero Baigorria,35.84674922600618
+quinta,Bahía Blanca,35.904411764705884
+oficina,San Bernardo,35.905660377358494
+departamento,Flores,35.91551071878941
+departamento,General Lagos,35.93831775700935
+ph,Bahía Blanca,35.93883792048929
+departamento,Vistalba,35.944652908067546
+ph,Villa Amelia,35.94827586206896
+edificio,Villa General Mitre,36.0
+quinta,Boedo,36.0
+quinta,San Miguel del Monte,36.0
+cochera,Almirante Brown,36.03217158176943
+casa,General Juan Madariaga,36.048
+cochera,Avellaneda,36.08839779005524
+galpon,Cañuelas,36.09183673469388
+departamento,Colastiné,36.13383838383839
+galpon,Constitución,36.146341463414636
+casa,Berisso,36.1469298245614
+edificio,Moreno,36.19318181818182
+departamento,Balvanera,36.20119494233708
+departamento,Córdoba,36.24013138070272
+casa,Pueblo Esther,36.267295597484285
+terreno,Colegiales,36.28524857375714
+cochera,Neuquén,36.31325301204819
+casa,Parque Chacabuco,36.315753887762014
+departamento,Potrero de Garay,36.352771362586616
+departamento,Núñez,36.359438845001385
+edificio,Monserrat,36.36363636363637
+quinta,Maipú,36.3984375
+ph,Córdoba,36.41766981943249
+edificio,Escobar,36.446511627906986
+galpon,Godoy Cruz,36.467289719626166
+ph,Las Heras,36.53532608695651
+departamento,Villa Crespo,36.54971397439389
+oficina,Las Compuertas,36.55263157894737
+terreno,Las Paredes,36.56687898089172
+ph,Dina Huapi,36.630136986301366
+departamento,Mercedes,36.63821138211381
+local,Maipú,36.653061224489804
+terreno,Abasto,36.671755725190835
+local,Monserrat,36.71003717472119
+galpon,La Plata,36.76063829787234
+casa,Colegiales,36.77759674134421
+oficina,Recoleta,36.797734627831716
+casa,San Miguel de Tucumán,36.80615942028986
+oficina,Retiro,36.81229773462783
+terreno,Villa General Belgrano,36.81818181818181
+cochera,Tigre,36.83934707903781
+casa,Constitución,36.84222222222222
+terreno,Costa Esmeralda,36.843283582089555
+departamento,Plottier,36.87403778866341
+departamento,Pilar,36.876377266387685
+departamento,Sauce Viejo,36.978675645342314
+cochera,Sauce Viejo,37.0
+galpon,Chapadmalal,37.0
+galpon,Las Toninas,37.0
+oficina,Plottier,37.00473933649289
+departamento,Santa María de Punilla,37.00626678603402
+casa,Esperanza,37.041717791411045
+departamento,José C Paz,37.05459387483354
+galpon,Ciudad de Mendoza,37.06282722513089
+departamento,Esteban Echeverría,37.082797731568995
+terreno,Mercedes,37.11282051282051
+galpon,Neuquén,37.11340206185567
+ph,Tres de Febrero,37.138540213854014
+oficina,La Plata,37.139734582357534
+local,Morón,37.14206896551725
+departamento,Rafaela,37.17354458364038
+quinta,General Rodríguez,37.194244604316545
+cochera,Villa Merlo,37.214285714285715
+galpon,Saavedra,37.27160493827161
+ph,Cosquín,37.28947368421053
+galpon,San Isidro,37.29965156794424
+casa,Once,37.32258064516129
+departamento,Villa Merlo,37.35331230283912
+ph,Vistalba,37.35593220338983
+casa,Jesús Nazareno,37.3587786259542
+departamento,Alta Gracia,37.363834422657945
+local,Goudge,37.36986301369863
+quinta,Villa Nueva,37.43362831858407
+cochera,Malvinas Argentinas,37.48387096774193
+departamento,Los Molinos,37.50636942675159
+ph,Pinamar,37.541884816753935
+casa,Almagro,37.54854166666666
+ph,Avellaneda,37.55499640546369
+departamento,Barrio Norte,37.56076416760314
+departamento,Santo Tomé,37.570190641247855
+ph,Colegiales,37.608130081300814
+terreno,Villa Allende,37.60989010989011
+oficina,Maipú,37.666666666666664
+departamento,Escobar,37.72244451624127
+departamento,Luján de Cuyo,37.72564207093355
+local,Mari Menuco,37.73684210526316
+ph,Santiago del Estero,37.75121951219513
+departamento,Presidente Perón,37.79033232628399
+ph,Villa Allende,37.81935483870968
+cochera,Villa Gesell,37.83050847457627
+terreno,Mayu Sumaj,37.85507246376812
+galpon,Rosario,37.859543010752695
+casa,Congreso,37.87429643527204
+edificio,Tres de Febrero,37.9375
+casa,Flores,37.9617877094972
+ph,General Rodríguez,37.962671905697434
+local,Vicente López,37.97721822541966
+quinta,Villa Icho Cruz,38.0
+oficina,Mari Menuco,38.0
+cochera,Villa del Dique,38.0
+edificio,Núñez,38.010989010989015
+ph,Pilar,38.03750937734436
+casa,Villa Devoto,38.048076923076934
+cochera,Pilar,38.07738332668529
+edificio,Santa María de Punilla,38.111111111111114
+local,Hurlingham,38.12732095490717
+departamento,Monte Castro,38.12924844423169
+departamento,Bialet Massé,38.132564841498564
+terreno,Los Corralitos,38.1758691206544
+casa,Villa Nueva,38.186561829878485
+departamento,Morón,38.1919888540578
+terreno,Magdalena,38.2172131147541
+ph,Veinticinco de Mayo,38.225
+ph,Parque Chacabuco,38.23300970873786
+departamento,La Cumbre,38.24618320610686
+quinta,Santa María de Punilla,38.28571428571429
+casa,Colonia Segovia,38.30769230769231
+galpon,Luján,38.32812500000001
+casa,Presidente Perón,38.45981308411214
+departamento,Agronomía,38.46238938053097
+galpon,Mar Chiquita,38.46938775510204
+departamento,Neuquén,38.4799230856238
+oficina,Morón,38.502912621359215
+departamento,Parque Chas,38.50626740947075
+edificio,San Isidro,38.51351351351352
+departamento,Añelo,38.52315789473684
+local,Villa Yacanto,38.52500000000001
+local,Villa General Mitre,38.646341463414636
+departamento,San Lorenzo,38.68818181818182
+departamento,Godoy Cruz,38.70987147935469
+departamento,Pinamar,38.716023993144816
+departamento,Hurlingham,38.74456270245256
+departamento,Saavedra,38.74970714564624
+departamento,Parque Chacabuco,38.76264436479491
+ph,Núñez,38.77766287487074
+terreno,San Bernardo,38.81456953642383
+quinta,Resistencia,38.82857142857143
+local,Ezeiza,38.829966329966325
+local,La Calera,38.836363636363636
+ph,Morón,38.867639902676395
+casa,Villa Lugano,38.89324437030859
+terreno,Tribunales,38.8974358974359
+departamento,Ezeiza,38.89849015907252
+casa,Floresta,38.90197326543603
+oficina,San Miguel,38.90282131661442
+casa,Rodeo de la Cruz,38.920754716981136
+departamento,Resistencia,38.92148148148148
+oficina,Balvanera,38.935779816513765
+casa,Mataderos,38.93794252394835
+departamento,Ciudad de Mendoza,38.976455199476796
+local,Valeria del Mar,39.0
+quinta,Las Paredes,39.0
+departamento,Zárate,39.01074443591711
+galpon,Florencio Varela,39.019230769230774
+quinta,Villa Ortuzar,39.03225806451613
+edificio,Palermo,39.09271523178808
+departamento,Berazategui,39.10517423442451
+departamento,Mar del Tuyú,39.13144758735441
+oficina,La Matanza,39.16567342073897
+casa,Caballito,39.201947833874414
+terreno,General Juan Madariaga,39.22222222222223
+departamento,General Rodríguez,39.24365591397848
+departamento,Tres de Febrero,39.252208047105015
+departamento,Maipú,39.29545454545456
+departamento,Alvear,39.3082191780822
+edificio,Villa Devoto,39.33333333333333
+local,Barrio Norte,39.34688995215311
+casa,San Bernardo,39.430864197530866
+ph,Buena Nueva,39.442622950819676
+ph,Toay,39.472972972972975
+galpon,Pinamar,39.481343283582085
+ph,Campana,39.5219638242894
+departamento,Santa Rosa de Calamuchita,39.559490084985846
+terreno,Ushuaia,39.561181434599156
+local,General San Martín,39.581491712707184
+quinta,Parque Chacabuco,39.6
+oficina,Centenario,39.625
+departamento,Florencio Varela,39.62898427539311
+departamento,Tornquist,39.652719665271974
+departamento,Villa Soldati,39.6752
+departamento,Lanús,39.68700007475517
+departamento,Quilmes,39.72318085028269
+quinta,San Nicolás,39.73381294964029
+local,Ángel Gallardo,39.75675675675676
+casa,Guaymallén,39.7741935483871
+oficina,Esperanza,39.79710144927536
+ph,Luján de Cuyo,39.81828316610925
+departamento,San Vicente,39.86703772418058
+departamento,La Boca,39.89001122334456
+ph,Hurlingham,39.89697802197802
+casa,La Paternal,39.92008639308855
+oficina,Avellaneda,39.93260869565216
+ph,Florencio Varela,39.93675889328063
+oficina,Rosario,39.940492794049284
+edificio,Brandsen,40.0
+oficina,Juana Koslay,40.0
+casa,Villa Real,40.01246105919003
+ph,Villa Gesell,40.051948051948045
+quinta,Escobar,40.17223198594025
+departamento,Funes,40.176487332764026
+local,San José,40.18292682926828
+departamento,San Isidro,40.22322070452911
+quinta,General San Martín,40.23618090452261
+galpon,Barracas,40.23684210526316
+oficina,Chacarita,40.24390243902439
+casa,Vistalba,40.249626307922284
+local,Las Heras,40.26229508196722
+departamento,Ciudad de Santa Fe,40.312189502483974
+casa,La Boca,40.33962264150943
+oficina,Russell,40.4
+departamento,Coghlan,40.46087636932707
+galpon,Villa Urquiza,40.55288461538461
+ph,Magdalena,40.599999999999994
+galpon,Coghlan,40.6271186440678
+quinta,Santo Tomé,40.65079365079366
+departamento,Merlo,40.67910148415562
+departamento,Villa Cerro Azul,40.81176470588236
+local,Escobar,40.82130365659776
+ph,Villa Ortuzar,40.82692307692307
+local,Unquillo,40.846153846153854
+casa,San Miguel del Monte,40.877862595419856
+cochera,Berazategui,40.87951807228915
+ph,Rosario,40.925557136083434
+terreno,Villa Real,40.95804195804196
+terreno,Villa María,40.97014925373135
+departamento,Centenario,40.97528830313015
+oficina,Caballito,40.99558498896248
+terreno,Las Toninas,41.0
+oficina,Buena Nueva,41.0
+cochera,General Lagos,41.0
+quinta,Rodeo de la Cruz,41.0
+departamento,Campana,41.018996960486334
+oficina,Neuquén,41.02195608782436
+departamento,Villa del Parque,41.02934152166496
+local,Colegiales,41.03813559322033
+oficina,La Calera,41.05833333333334
+oficina,Escobar,41.08850574712644
+departamento,Salta,41.11145786892557
+departamento,Veinticinco de Mayo,41.11265432098765
+ph,Moreno,41.127984718242594
+departamento,Lomas de Zamora,41.217038068709364
+departamento,Carmen de Areco,41.232696897374694
+local,Villa Riachuelo,41.25
+local,Uruguay,41.25947187141218
+casa,Villa del Parque,41.27857453281182
+galpon,Villa Gesell,41.285714285714285
+casa,Monserrat,41.291066282420736
+casa,Tandil,41.31849710982661
+departamento,Barracas,41.31917808219179
+departamento,Tandil,41.32862903225807
+casa,Recoleta,41.33747802059785
+departamento,Santiago del Estero,41.349152542372885
+departamento,Abasto,41.42970297029703
+casa,San José del Rincón,41.43247126436782
+ph,Tigre,41.43505552873008
+galpon,Chacarita,41.454545454545446
+terreno,Resistencia,41.49282296650717
+ph,Esperanza,41.49693251533742
+oficina,Ituzaingó,41.503125
+departamento,San Bernardo,41.51724137931034
+oficina,Constitución,41.528089887640455
+departamento,Luján,41.556242274412845
+oficina,Pilar,41.59577063847091
+terreno,Godoy Cruz,41.66126543209876
+casa,Retiro,41.66583747927032
+casa,Marcos Paz,41.67058823529412
+casa,Villa Ortuzar,41.68245910885505
+departamento,Esquel,41.695102685624015
+local,General Rodríguez,41.711409395973156
+departamento,Rosario,41.748478030704064
+ph,Mar del Plata,41.75598935226265
+ph,San Miguel del Monte,41.75616438356164
+ph,Uruguay,41.784400000000005
+ph,Luján,41.78923076923077
+casa,Villa Crespo,41.794709226060355
+departamento,Cipolletti,41.81785714285715
+departamento,General Juan Madariaga,41.83251231527093
+casa,General Fernández Oro,41.87041036717063
+oficina,San Fernando,41.949152542372886
+galpon,José C Paz,41.97014925373134
+ph,Godoy Cruz,41.97536231884059
+departamento,Villa Riachuelo,41.99044585987261
+terreno,Floresta,41.99090909090909
+cochera,Potrerillos,42.0
+local,Dina Huapi,42.0
+oficina,Tafí Viejo,42.0
+edificio,Recreo,42.0
+cochera,San Rafael,42.0
+edificio,Liniers,42.0
+departamento,La Plata,42.0746933288523
+ph,Lobos,42.083333333333336
+departamento,Mar del Plata,42.09406554472987
+ph,Mar de Ajó,42.10648148148149
+casa,Pinamar,42.11852394916912
+quinta,Avellaneda,42.126182965299684
+cochera,San Telmo,42.15384615384615
+casa,La Calera,42.16539717083786
+ph,Chascomús,42.298387096774185
+ph,Funes,42.30501089324619
+ph,Coghlan,42.31578947368422
+cochera,Ciudad de Santa Fe,42.320083682008374
+ph,Maipú,42.33
+galpon,Malvinas Argentinas,42.39759036144578
+casa,Palermo,42.535545831675854
+terreno,Sauce Viejo,42.5509893455099
+casa,Centenario,42.56327985739751
+local,Esperanza,42.59649122807017
+departamento,Las Toninas,42.60185185185186
+departamento,Toay,42.604142692750294
+departamento,Cruz de Piedra,42.61037234042554
+local,Necochea,42.64166666666667
+departamento,General San Martín,42.65848569157392
+departamento,Villa María,42.67336683417085
+cochera,Escobar,42.68102073365232
+cochera,Pehuajó,42.68807339449541
+ph,José C Paz,42.689473684210526
+casa,Villa Luro,42.69196428571429
+galpon,Villa del Parque,42.69411764705882
+departamento,Velez Sarsfield,42.699788583509516
+terreno,Santa Teresita,42.7016129032258
+galpon,Recoleta,42.772277227722775
+casa,Los Reartes,42.84643288996372
+terreno,Villa Riachuelo,42.891891891891895
+ph,Corrientes,42.905660377358494
+edificio,Caballito,42.94117647058823
+casa,Godoy Cruz,42.9921553978334
+oficina,Santa María de Punilla,43.0
+edificio,Villa Carlos Paz,43.0
+cochera,Las Heras,43.0
+edificio,Bahía Blanca,43.017391304347825
+galpon,Parque Chacabuco,43.08421052631579
+departamento,El Sauce,43.08823529411765
+quinta,La Plata,43.112994350282484
+departamento,La Granja,43.15384615384617
+departamento,Unquillo,43.16019417475728
+quinta,Florencio Varela,43.196850393700785
+casa,San Telmo,43.242177722152675
+departamento,San José del Rincón,43.2534435261708
+casa,Vicente López,43.26794311947153
+departamento,Mar Chiquita,43.2915291529153
+departamento,Comodoro Rivadavia,43.303392444101775
+casa,Salta,43.31477449455677
+local,Villa Devoto,43.34731934731934
+departamento,Almirante Brown,43.35620354488278
+casa,San Miguel,43.35997120230382
+casa,Villa Urquiza,43.375460360535016
+departamento,San Rafael,43.37773882559158
+casa,Núñez,43.39202733485193
+terreno,Villa General Mitre,43.401606425702816
+ph,Escobar,43.40499822757886
+oficina,Villa Crespo,43.44055944055944
+departamento,Recreo,43.5
+ph,Villa Pueyrredón,43.52755905511811
+casa,Villa Giardino,43.53947368421053
+oficina,Monserrat,43.57413249211357
+casa,Tigre,43.59303430580638
+casa,Uruguay,43.66238540437506
+departamento,Juana Koslay,43.68589743589743
+casa,Rafaela,43.7864935064935
+ph,San Miguel de Tucumán,43.79069767441861
+cochera,Caballito,43.82616822429907
+cochera,Venado Tuerto,43.83516483516483
+terreno,Tanti,43.84025974025975
+departamento,Cariló,43.84042553191489
+local,Flores,43.913953488372094
+oficina,Perdriel,43.93023255813954
+galpon,Mataderos,43.9375
+quinta,Villa Real,44.0
+edificio,Villa Yacanto,44.0
+edificio,Sauce Viejo,44.01818181818182
+ph,Tandil,44.023809523809526
+galpon,Palermo,44.040043290043286
+departamento,Cañuelas,44.059605316149835
+departamento,La Matanza,44.07733161264704
+quinta,Constitución,44.15384615384616
+local,San Miguel,44.16301703163017
+local,La Plata,44.2003105590062
+ph,Malvinas Argentinas,44.27777777777778
+departamento,Villa Gesell,44.28028350515464
+casa,Balvanera,44.346938775510196
+casa,Pompeya,44.38494318181817
+casa,Barrio Norte,44.39653679653681
+departamento,Villa La Angostura,44.397122302158266
+oficina,Luján,44.43030303030303
+casa,Cipolletti,44.444915254237294
+galpon,Caballito,44.44548286604361
+ph,Santa María de Punilla,44.472222222222214
+ph,Boedo,44.48611111111112
+departamento,Chascomús,44.5016077170418
+casa,Villa Cerro Azul,44.54335260115607
+galpon,Villa Real,44.61538461538461
+casa,Coghlan,44.632137030995096
+departamento,Russell,44.67540029112081
+casa,Santa Clara del Mar,44.73791348600508
+ph,Cañuelas,44.74353205849268
+ph,Ciudad de Santa Fe,44.83408273381294
+terreno,General Roca,44.853960396039604
+terreno,Juana Koslay,44.86475409836065
+local,Cañuelas,44.89592760180996
+galpon,Uruguay,44.903013182674194
+local,Núñez,44.91698841698842
+oficina,Almagro,44.9385593220339
+cochera,San Fernando,44.96710526315789
+ph,San Isidro,44.967252396166145
+local,Congreso,44.973684210526315
+ph,Capilla del Monte,45.0
+oficina,Berisso,45.0
+cochera,Recreo,45.0
+terreno,San Cristobal,45.0
+casa,Mar de Ajó,45.007920792079204
+ph,Neuquén,45.0197628458498
+terreno,Pompeya,45.056716417910444
+ph,Recreo,45.098214285714285
+departamento,Esperanza,45.15603799185888
+terreno,General Rodríguez,45.177588466579294
+edificio,Esteban Echeverría,45.199999999999996
+ph,Versalles,45.2
+casa,Almirante Brown,45.21834944906678
+casa,Arroyo Leyes,45.219626168224295
+ph,La Plata,45.263266004792875
+galpon,Núñez,45.271889400921665
+local,Godoy Cruz,45.27403846153847
+departamento,Cosquín,45.29887640449438
+galpon,Mar del Plata,45.37907608695653
+casa,Perdriel,45.39848197343455
+departamento,Monte Hermoso,45.40605520926091
+departamento,Chacras de Coria,45.42244224422443
+casa,San Vicente,45.42638837122622
+ph,Once,45.43749999999999
+terreno,San Telmo,45.46924004825092
+terreno,Coronel Rosales,45.47953216374269
+ph,Pueblo Andino,45.484375
+quinta,Ezeiza,45.544
+departamento,Mar de Ajó,45.59212598425197
+casa,Cosquín,45.59791666666666
+casa,Liniers,45.61941533370104
+cochera,Toay,45.62
+casa,Santo Tomé,45.62203978528575
+local,Mar del Plata,45.68578161822467
+local,San Carlos de Bariloche,45.6869918699187
+departamento,Berisso,45.763803680981596
+terreno,Villa Ortuzar,45.859971711456865
+galpon,San Telmo,45.86725663716814
+casa,Tornquist,45.87755102040816
+local,Caballito,45.91830065359478
+departamento,Malagueño,45.926618705035985
+departamento,Pueblo Andino,45.94632768361581
+galpon,Villa Amelia,46.0
+quinta,Colonia Popular,46.0
+galpon,Escobar,46.008382229673096
+oficina,Parque Avellaneda,46.010989010989015
+casa,San Andrés de Giles,46.080078125
+casa,Belgrano,46.16899109792284
+casa,General Rodríguez,46.17297762478487
+departamento,Capitán Bermúdez,46.23102310231023
+oficina,Funes,46.28
+casa,Villa Yacanto,46.290780141843975
+ph,Lanús,46.329133064516135
+casa,Cariló,46.332317073170735
+galpon,Morón,46.3481228668942
+oficina,Villa Real,46.35897435897436
+galpon,Monte Castro,46.42307692307692
+terreno,Vicente López,46.43561584840654
+casa,Villa Gesell,46.4375
+terreno,Parque Chacabuco,46.47663551401869
+ph,Vicente López,46.49774011299434
+oficina,Pehuajó,46.54347826086956
+departamento,Necochea,46.56840934371524
+quinta,Luján de Cuyo,46.61904761904763
+departamento,Nuevo Torino,46.6282722513089
+departamento,San Miguel del Monte,46.68649885583525
+casa,Abasto,46.73076923076923
+oficina,Liniers,46.75
+casa,Ezeiza,46.85318319618884
+local,Arroyo Leyes,46.86896551724137
+casa,Ostende,46.86971830985915
+departamento,Pueblo Esther,46.898058252427184
+casa,Villa Amelia,46.91310344827587
+casa,Sierras de Calamuchita,46.93675889328063
+local,Río Ceballos,46.94736842105263
+casa,Villa Santa Rita,46.958775029446414
+departamento,Brandsen,46.97289745739031
+quinta,Rosario,46.99055330634278
+cochera,Rosario,47.026497085320614
+local,Saavedra,47.07196969696969
+casa,Coronel Rosales,47.11330049261083
+galpon,Moreno,47.14767932489452
+ph,Recoleta,47.152887139107605
+oficina,Arroyo Leyes,47.16
+casa,San Isidro,47.247355851245295
+cochera,Zárate,47.24999999999999
+oficina,Coghlan,47.30434782608695
+casa,Exaltación de la Cruz,47.315021876519204
+ph,Balvanera,47.34388009991673
+casa,Villa Icho Cruz,47.370892018779344
+ph,Comodoro Rivadavia,47.398449612403105
+departamento,Ituzaingó,47.4090068895984
+departamento,Mari Menuco,47.42
+ph,Unquillo,47.42528735632184
+quinta,Lomas de Zamora,47.435
+local,Quilmes,47.458568738229765
+oficina,San Carlos de Bariloche,47.45955882352941
+galpon,Flores,47.47325102880659
+quinta,San Cristobal,47.47747747747748
+oficina,Córdoba,47.50252383623107
+departamento,Roldán,47.502546689303905
+departamento,Dina Huapi,47.51016949152543
+local,Tornquist,47.51764705882353
+ph,Arroyo Leyes,47.54022988505748
+local,Pilar,47.58906291478631
+local,Ituzaingó,47.618762475049905
+casa,Villa General Mitre,47.624
+cochera,Resistencia,47.77215189873418
+local,La Matanza,47.82026920031671
+departamento,San Clemente del Tuyú,47.868493150684934
+casa,San Nicolás,47.87689629445411
+departamento,Ibarlucea,47.88854805725971
+departamento,Magdalena,47.89726027397261
+local,Los Molinos,48.0
+edificio,San Miguel de Tucumán,48.0
+edificio,Villa Allende,48.0
+edificio,San Martín,48.0
+local,Villa Ortuzar,48.06140350877193
+departamento,Bahía Blanca,48.07676130389064
+casa,Florencio Varela,48.127862595419856
+local,Córdoba,48.12907735321529
+casa,Lobos,48.15468409586056
+casa,Pilar,48.21184620211915
+cochera,Miramar,48.25
+casa,Escobar,48.25114420913813
+casa,Villa Carlos Paz,48.26483233018056
+local,Rosario,48.28660130718955
+terreno,Villa del Parque,48.31343283582089
+casa,Goya,48.35334872979215
+ph,Ituzaingó,48.375284306292656
+casa,Rosario,48.37545396898595
+galpon,Balvanera,48.38333333333334
+ph,San Vicente,48.41423001949317
+departamento,Río Ceballos,48.44200807847664
+galpon,San Nicolás de los Arroyos,48.476190476190474
+casa,Villa María,48.495626822157426
+ph,Esteban Echeverría,48.57760814249364
+casa,Chacarita,48.65616207090603
+departamento,Coronel Rosales,48.68804664723032
+casa,Córdoba,48.71409193085801
+casa,Los Corralitos,48.738461538461536
+local,Belgrano,48.79085714285715
+departamento,Cerrillos,48.81728395061729
+ph,Chivilcoy,48.872727272727275
+casa,Ciudad de Santa Fe,48.938631346578376
+ph,General San Martín,48.95434462444771
+ph,Quilmes,48.99245852187029
+edificio,Ángel Gallardo,49.0
+quinta,Once,49.0
+ph,Mar de las Pampas,49.00000000000001
+departamento,San Carlos de Bariloche,49.05100830367736
+terreno,Toay,49.051612903225816
+galpon,Villa Crespo,49.07377049180329
+casa,Venado Tuerto,49.074367088607595
+casa,Villa Pueyrredón,49.07664233576642
+oficina,Mar del Plata,49.11216216216217
+terreno,San Vicente,49.20513675783855
+galpon,Maipú,49.21951219512196
+quinta,Tribunales,49.2247191011236
+oficina,Tres de Febrero,49.273115220483646
+casa,Luján,49.30990712074304
+casa,General San Martín,49.360732917674014
+terreno,Pueblo Esther,49.42137096774193
+cochera,Palermo,49.45700824499412
+terreno,Malvinas Argentinas,49.46141479099678
+local,San Isidro,49.5010060362173
+casa,Morón,49.51447661469933
+casa,Mar del Plata,49.51778170366389
+oficina,General San Martín,49.535135135135135
+local,Berazategui,49.5809768637532
+terreno,Recreo,49.64508393285372
+casa,Mayor Drummond,49.64716312056736
+casa,Luján de Cuyo,49.65164342629482
+quinta,Ciudad de Mendoza,49.67391304347826
+casa,Santa Teresita,49.70967741935484
+terreno,Merlo,49.71651495448634
+ph,Villa María,49.8
+terreno,General San Martín,49.80023710729105
+terreno,Carmen de Areco,49.81249999999999
+local,Monte Hermoso,49.818965517241374
+galpon,Tres de Febrero,49.859374999999986
+quinta,Palermo,49.864516129032246
+terreno,Cariló,49.879999999999995
+cochera,Villa General Mitre,49.92857142857143
+casa,Parque Chas,49.96397379912664
+terreno,Unquillo,49.96533333333333
+edificio,Miramar,50.0
+oficina,Goya,50.0
+ph,La Carrera,50.0
+local,Ibarlucea,50.10958904109589
+local,Cosquín,50.12820512820513
+departamento,San Martín de los Andes,50.209895052473755
+casa,Roldán,50.22883487007543
+ph,Almagro,50.26961325966851
+casa,Russell,50.29953198127926
+cochera,Núñez,50.36363636363637
+casa,Berazategui,50.432110528823245
+casa,La Plata,50.43434737850981
+edificio,San Nicolás,50.54237288135594
+local,Exaltación de la Cruz,50.60344827586207
+casa,Quilmes,50.6896515087123
+oficina,San Isidro,50.70979020979022
+cochera,Tres de Febrero,50.71713147410359
+local,San Nicolás,50.739612188365655
+local,Santo Tomé,50.77566539923954
+ph,Mar Chiquita,50.79629629629629
+departamento,Perdriel,50.809815950920246
+casa,Merlo,50.81788235294119
+ph,Congreso,50.824561403508774
+casa,Las Heras,50.85552865213883
+ph,San Nicolás,50.912998976458546
+casa,San Fernando,50.96885020613835
+local,Villa Los Aromos,51.0
+local,Pueblo Andino,51.0
+galpon,Belgrano,51.007633587786266
+casa,Malvinas Argentinas,51.0298013245033
+casa,La Matanza,51.05331957344341
+ph,Agronomía,51.08695652173913
+casa,Saavedra,51.10168625447113
+casa,Cañuelas,51.143268242548814
+local,Mataderos,51.161572052401745
+edificio,Centro / Microcentro,51.17460317460318
+casa,General Roca,51.17959617428268
+cochera,Funes,51.19791666666667
+local,Puerto Madero,51.204081632653065
+departamento,Villa del Dique,51.216346153846146
+galpon,Pilar,51.2549019607843
+casa,Velez Sarsfield,51.26911764705882
+local,Mar Chiquita,51.280991735537185
+oficina,Vicente López,51.30084745762713
+casa,Lanús,51.40700955848885
+local,Parque Chas,51.490683229813676
+terreno,Villa Lugano,51.56312625250501
+terreno,San Miguel de Tucumán,51.567460317460316
+galpon,San Bernardo,51.576086956521735
+casa,Tres de Febrero,51.6015495296071
+casa,Brandsen,51.619179027250766
+casa,Toay,51.63621262458472
+ph,Almirante Brown,51.65930018416207
+terreno,El Sauce,51.660000000000004
+casa,Unquillo,51.71380090497737
+casa,Puerto Madero,51.7416425918283
+casa,Santiago del Estero,51.76584507042254
+casa,Juana Koslay,51.79510703363915
+terreno,Goya,51.827338129496404
+casa,Resistencia,51.90812141099262
+oficina,Villa del Dique,52.0
+cochera,Rodeo de la Cruz,52.0
+galpon,Luján de Cuyo,52.04081632653062
+local,Malagueño,52.06382978723404
+oficina,Lanús,52.108925869894094
+departamento,Moreno,52.115296220633304
+oficina,Comodoro Rivadavia,52.2
+casa,San Salvador de Jujuy,52.21308411214953
+quinta,Mar del Plata,52.28174603174604
+departamento,Villa Carlos Paz,52.2875305623472
+cochera,Morón,52.2969696969697
+casa,Neuquén,52.357011200907415
+quinta,Parque Patricios,52.36
+quinta,Campana,52.36363636363636
+local,General Roca,52.38461538461538
+casa,Cruz de Piedra,52.51072124756336
+cochera,Plottier,52.522727272727266
+edificio,Morón,52.52863436123348
+casa,Boedo,52.54004252303332
+terreno,Anisacate,52.627450980392155
+terreno,Villa La Angostura,52.66961651917405
+casa,Agronomía,52.770114942528735
+galpon,Córdoba,52.79431072210063
+casa,Monte Hermoso,52.82995951417005
+departamento,Villa Nueva,52.900573613766724
+ph,Jesús Nazareno,52.93506493506493
+galpon,Salta,52.94186046511628
+cochera,La Plata,52.94188376753505
+galpon,Monserrat,52.95017793594305
+departamento,Tribunales,52.95522388059702
+cochera,Villa Urquiza,52.99047619047619
+oficina,Veinticinco de Mayo,53.0
+quinta,Santa Clara del Mar,53.0
+cochera,Santiago del Estero,53.0
+cochera,Congreso,53.0
+casa,Ushuaia,53.02164502164502
+casa,Barracas,53.05682715074981
+casa,La Falda,53.07949790794978
+terreno,Santa Rosa,53.15137614678899
+ph,San Carlos de Bariloche,53.190404797601204
+quinta,San Isidro,53.252873563218394
+casa,Potrero de Garay,53.351443123938886
+casa,Anisacate,53.3801652892562
+terreno,Santa Rosa de Calamuchita,53.380319148936174
+terreno,Pergamino,53.419313850063524
+local,Villa La Angostura,53.42622950819671
+terreno,Pueblo Andino,53.42907801418439
+ph,Guaymallén,53.45161290322581
+casa,Avellaneda,53.52254478072886
+edificio,Tanti,53.55555555555556
+casa,Río Ceballos,53.5614973262032
+galpon,Lomas de Zamora,53.576470588235296
+edificio,Avellaneda,53.59550561797752
+casa,Sauce Viejo,53.602954755309334
+departamento,Ataliva Roca,53.60420315236427
+quinta,Tres de Febrero,53.61825726141079
+terreno,Malagueño,53.62204724409448
+casa,Ituzaingó,53.656707062264935
+oficina,Brandsen,53.80978260869565
+casa,Comodoro Rivadavia,53.828608247422686
+terreno,Villa Nueva,53.84200385356455
+oficina,Río Ceballos,53.869565217391305
+casa,San Carlos de Bariloche,53.87325080731969
+quinta,La Paternal,53.91666666666668
+departamento,Rodeo de la Cruz,53.95593869731801
+galpon,Balcarce,54.0
+edificio,Zárate,54.0
+oficina,Las Toninas,54.0
+terreno,Villa Luro,54.00837988826816
+quinta,San Carlos de Bariloche,54.05882352941177
+ph,Chacras de Coria,54.059701492537314
+casa,Monte Castro,54.07247437774524
+galpon,Rafaela,54.11627906976745
+departamento,Lunlunta,54.12367864693446
+casa,Maipú,54.13825253063399
+casa,Mendiolaza,54.17806041335453
+terreno,Corrientes,54.28436018957345
+casa,Santa Rosa,54.38831168831168
+ph,San Nicolás de los Arroyos,54.3988603988604
+local,Almirante Brown,54.39904988123516
+terreno,Mendiolaza,54.42541436464088
+oficina,Villa Merlo,54.46153846153846
+terreno,Ituzaingó,54.563194444444434
+terreno,Chacarita,54.64140480591498
+casa,Santa María de Punilla,54.68247248094836
+casa,Mari Menuco,54.759036144578324
+cochera,San Salvador de Jujuy,54.78181818181818
+casa,Colonia Popular,54.87544483985764
+local,Parque Chacabuco,54.89940828402367
+ph,Villa Merlo,55.0
+local,Comodoro Rivadavia,55.01785714285714
+galpon,Mari Menuco,55.047619047619044
+terreno,Buena Nueva,55.093023255813954
+terreno,Mar de las Pampas,55.117647058823536
+terreno,Florencio Varela,55.120517928286844
+terreno,Villa Urquiza,55.132872815928486
+casa,Zárate,55.17745535714286
+cochera,Lomas de Zamora,55.1934306569343
+oficina,Monte Castro,55.220338983050844
+departamento,Santa Rosa,55.248752079866875
+terreno,Salta,55.27961736571008
+oficina,Hurlingham,55.32692307692308
+departamento,Santa Teresita,55.361271676300575
+terreno,Piñero,55.372222222222234
+ph,Lomas de Zamora,55.414396887159526
+quinta,Brandsen,55.46153846153845
+ph,San Telmo,55.472813238770684
+ph,Ciudad de Mendoza,55.47971781305115
+casa,Capilla del Monte,55.50714285714285
+quinta,Núñez,55.52482269503547
+casa,Ciudad de Mendoza,55.55696537139837
+cochera,Mar del Plata,55.57192575406032
+ph,La Matanza,55.57933579335793
+terreno,Liniers,55.619354838709675
+terreno,Monserrat,55.687546057479736
+ph,Villa Cerro Azul,55.78
+local,Las Paredes,55.839999999999996
+terreno,Granadero Baigorria,55.904153354632584
+quinta,Las Heras,56.0
+local,Avellaneda,56.067114093959724
+terreno,Venado Tuerto,56.094503375120546
+casa,Lomas de Zamora,56.1002175686701
+terreno,Mar del Tuyú,56.12169312169312
+casa,San Lorenzo,56.14333612740989
+local,Lanús,56.16460905349794
+oficina,Cerrillos,56.23529411764706
+departamento,Pehuajó,56.24852767962309
+local,Tigre,56.26043317485473
+terreno,Presidente Perón,56.26814988290397
+ph,Reconquista,56.2891156462585
+casa,Ataliva Roca,56.298969072164965
+terreno,Rafaela,56.324097397145266
+local,San Vicente,56.33333333333333
+galpon,Mendiolaza,56.333333333333336
+oficina,Velez Sarsfield,56.347826086956516
+casa,Funes,56.36171617161716
+ph,Villa Los Aromos,56.395604395604394
+casa,Lunlunta,56.47512437810946
+cochera,General San Martín,56.498168498168496
+terreno,San Clemente del Tuyú,56.50678733031674
+casa,San José,56.55202312138729
+terreno,Río Cuarto,56.57142857142858
+departamento,Guaymallén,56.5940170940171
+terreno,San Rafael,56.64494382022472
+departamento,La Carrera,56.66233766233766
+cochera,Boedo,56.666666666666664
+local,Malvinas Argentinas,56.70786516853933
+departamento,Jesús Nazareno,56.7538940809969
+terreno,Villa Devoto,56.784452296819794
+edificio,Luján,56.78688524590164
+terreno,San Miguel,56.81680672268908
+cochera,Uruguay,56.83437500000001
+cochera,Villa Crespo,56.9172932330827
+local,General Lagos,56.93333333333334
+departamento,San Jerónimo Norte,56.97943925233645
+terreno,Caballito,57.004042553191475
+departamento,Corrientes,57.06451612903225
+departamento,Pergamino,57.073326771653555
+quinta,Córdoba,57.1067821067821
+casa,Pergamino,57.110720562390156
+casa,Añelo,57.11741293532339
+casa,Veinticinco de Mayo,57.15042735042734
+terreno,General Lagos,57.1703056768559
+casa,Reconquista,57.32206759443339
+casa,Granadero Baigorria,57.44529262086513
+oficina,Pinamar,57.48430493273541
+terreno,La Paternal,57.506024096385545
+departamento,Las Compuertas,57.54957805907172
+casa,San Nicolás de los Arroyos,57.60240963855423
+local,Villa Urquiza,57.67916666666666
+departamento,Las Heras,57.70568561872908
+quinta,Los Molinos,57.70967741935483
+local,Barracas,57.721925133689844
+quinta,Salta,57.85000000000001
+ph,Liniers,57.891156462585045
+casa,Las Compuertas,57.96601941747573
+edificio,Berazategui,58.0
+cochera,General Juan Madariaga,58.0
+local,Cariló,58.0
+casa,Tanti,58.05959031657356
+quinta,Tanti,58.06122448979592
+departamento,Villa Icho Cruz,58.1014799154334
+casa,Campana,58.1462829736211
+ph,Berazategui,58.148102815177474
+edificio,Tandil,58.199999999999996
+terreno,Pilar,58.277718704688226
+casa,Plottier,58.32171110460008
+terreno,San Nicolás de los Arroyos,58.34931506849315
+departamento,San Luis,58.36829836829836
+cochera,San Isidro,58.385496183206115
+casa,Ibarlucea,58.38953488372093
+cochera,Balvanera,58.44654088050315
+casa,Bahía Blanca,58.45714285714285
+terreno,Parque Chas,58.50912778904666
+terreno,Esquel,58.53644314868806
+terreno,Nuevo Torino,58.576791808873715
+oficina,Pergamino,58.623655913978496
+cochera,Cruz de Piedra,58.66037735849057
+galpon,Quilmes,58.77694235588972
+cochera,Brandsen,58.78231292517007
+departamento,Mendiolaza,58.79443585780527
+terreno,Lanús,58.82020242111533
+local,Tanti,58.83132530120483
+terreno,Escobar,58.83166609175576
+oficina,San Martín,58.833333333333336
+terreno,Rada Tilly,58.92631578947368
+casa,Chapadmalal,58.94021739130436
+terreno,Bialet Massé,58.999999999999986
+local,Luján,59.07664233576643
+departamento,Valeria del Mar,59.17299578059072
+terreno,Pinamar,59.266042154566755
+departamento,Venado Tuerto,59.30352406214475
+terreno,Hurlingham,59.33020948180815
+casa,La Granja,59.40167364016737
+casa,Balcarce,59.43137254901961
+cochera,Mar de Ajó,59.56603773584905
+casa,Recreo,59.60990712074303
+terreno,Berazategui,59.651355838406204
+terreno,Luján,59.67570498915403
+terreno,José C Paz,59.68980797636633
+casa,Hurlingham,59.707129686539645
+casa,General Lagos,59.72686230248306
+oficina,Monte Hermoso,59.747572815533985
+edificio,Río Ceballos,59.810810810810814
+terreno,Mar de Ajó,59.958525345622114
+terreno,Villa Merlo,59.97252747252746
+galpon,Mercedes,60.0
+terreno,Boedo,60.15407854984893
+terreno,Lobos,60.18930041152264
+terreno,Quilmes,60.19575885033301
+local,Villa Crespo,60.23450134770889
+terreno,Ciudad de Mendoza,60.241770715096465
+terreno,Puerto Madero,60.32229185317815
+local,Brandsen,60.370967741935495
+ph,Russell,60.44230769230769
+departamento,Balcarce,60.442335766423355
+departamento,Reconquista,60.53734800231615
+terreno,Plottier,60.68446088794927
+departamento,Rada Tilly,60.6900826446281
+terreno,Villa Icho Cruz,60.74999999999999
+local,Tres de Febrero,60.86180422264874
+casa,El Challao,60.86363636363636
+edificio,Chacras de Coria,60.891891891891895
+terreno,Retiro,60.93489318413022
+casa,Nuevo Torino,60.94700460829494
+local,Cruz de Piedra,61.0
+terreno,Pehuajó,61.071684587813635
+terreno,Roldán,61.10090556274257
+local,La Cumbre,61.125
+terreno,Rodeo de la Cruz,61.29951690821257
+cochera,Lanús,61.31250000000001
+edificio,Pilar,61.456112852664575
+oficina,Costa Esmeralda,61.46938775510204
+casa,Esteban Echeverría,61.560471267131526
+local,Cipolletti,61.58015267175573
+galpon,La Matanza,61.6281112737921
+terreno,Neuquén,61.662366978394054
+terreno,Colonia Popular,61.6734693877551
+local,San Fernando,61.681114551083596
+terreno,Río Ceballos,61.759999999999984
+terreno,Cosquín,61.781609195402304
+ph,Exaltación de la Cruz,61.84328358208954
+casa,Pehuajó,61.84568372803666
+terreno,Cañuelas,61.85706594885598
+local,Reconquista,61.86290322580645
+oficina,Cipolletti,61.9
+ph,Balcarce,61.95348837209302
+terreno,Palermo,61.95738858483192
+galpon,Russell,61.990566037735846
+oficina,Esteban Echeverría,62.01544401544402
+casa,Mar Chiquita,62.031923383878706
+cochera,Las Compuertas,62.111111111111114
+departamento,San José,62.15483870967742
+local,San Salvador de Jujuy,62.222222222222214
+cochera,Cañuelas,62.23989898989899
+terreno,San Isidro,62.30641694811176
+local,Pehuajó,62.33823529411765
+departamento,Tafí Viejo,62.3406862745098
+terreno,Campana,62.36446700507615
+terreno,San Martín,62.36614853195165
+local,Villa Cerro Azul,62.37614678899082
+cochera,San Vicente,62.42187500000001
+edificio,Villa Nueva,62.44329896907216
+departamento,General Fernández Oro,62.56935270805812
+oficina,Mendiolaza,62.599999999999994
+terreno,San Jerónimo Norte,62.60089686098655
+terreno,Flores,62.61494471978651
+terreno,Recoleta,62.71214682443855
+terreno,Balvanera,62.72683124241198
+casa,Villa Los Aromos,62.72916666666667
+oficina,Bahía Blanca,62.74093264248704
+galpon,Cruz de Piedra,62.91489361702128
+terreno,Almirante Brown,62.91899070385129
+terreno,San Nicolás,63.08704997313272
+local,Resistencia,63.12222222222223
+casa,Carmen de Areco,63.14235500878735
+oficina,Ezeiza,63.142480211081796
+local,Balvanera,63.24105011933175
+local,Esteban Echeverría,63.33406113537118
+terreno,Mataderos,63.373376623376615
+terreno,Capilla del Monte,63.40740740740741
+terreno,Mar del Plata,63.439580764488284
+ph,Resistencia,63.71052631578947
+local,Luján de Cuyo,63.81896551724139
+terreno,Mari Menuco,63.93589743589744
+local,Sierras de Calamuchita,64.0
+local,Tribunales,64.0
+terreno,Ezeiza,64.00734557595992
+galpon,El Sauce,64.14035087719297
+terreno,Capitán Bermúdez,64.19591836734693
+terreno,Ciudad de Santa Fe,64.22044198895028
+terreno,Mayor Drummond,64.32717678100265
+terreno,Córdoba,64.35286478227654
+ph,Los Corralitos,64.42335766423358
+local,Salta,64.47384615384617
+terreno,Saavedra,64.48053691275167
+casa,Tafí Viejo,64.59717314487632
+terreno,Luján de Cuyo,64.60029017047516
+oficina,Presidente Perón,64.63725490196079
+terreno,Uruguay,64.66332497911446
+quinta,Caballito,64.77948717948718
+local,Villa Carlos Paz,64.8047619047619
+local,Ataliva Roca,64.80821917808218
+cochera,Pueblo Esther,64.88888888888889
+galpon,Tribunales,64.9
+quinta,Ituzaingó,64.92452830188678
+terreno,Lomas de Zamora,65.03018765297797
+edificio,La Matanza,65.13861386138615
+terreno,Miramar,65.25847457627118
+galpon,Esteban Echeverría,65.33050847457628
+casa,Moreno,65.36013125512716
+terreno,Tigre,65.39191123836792
+local,Ciudad de Mendoza,65.41423948220066
+terreno,Tafí Viejo,65.67289719626167
+local,Recoleta,65.6899441340782
+terreno,Moreno,65.70005327650506
+terreno,Avellaneda,65.73403524834056
+edificio,Plottier,65.75
+oficina,Chascomús,65.76923076923077
+terreno,Tres de Febrero,65.89881196231053
+terreno,Villa Giardino,65.91866028708135
+quinta,El Sauce,66.0
+terreno,San Fernando,66.01479289940829
+terreno,Centenario,66.03626943005182
+casa,Corrientes,66.1461716937355
+terreno,Rosario,66.20259056871082
+terreno,La Calera,66.30783582089552
+terreno,Velez Sarsfield,66.34725274725275
+ph,Brandsen,66.36419753086419
+local,Bahía Blanca,66.38909774436091
+terreno,Morón,66.41120468692785
+terreno,Añelo,66.72289156626505
+terreno,San Lorenzo,66.76437429537768
+terreno,Belgrano,66.7645192002539
+terreno,Chacras de Coria,66.85082872928176
+oficina,Villa del Parque,66.89719626168224
+galpon,Pueblo Esther,66.93181818181819
+local,Toay,66.94736842105263
+terreno,Tunuyán,66.99473684210527
+ph,Villa del Dique,67.0
+galpon,San Nicolás,67.05140186915888
+casa,La Carrera,67.19557195571956
+edificio,Ezeiza,67.2909090909091
+quinta,Rafaela,67.3076923076923
+terreno,San José,67.31414868105516
+ph,Rafaela,67.32972972972972
+ph,Villa Nueva,67.4326923076923
+casa,Villa Merlo,67.43870967741935
+casa,Chascomús,67.45118733509236
+terreno,La Plata,67.47988664639205
+terreno,Tandil,67.77170035671818
+galpon,Barrio Norte,67.7841726618705
+terreno,La Matanza,67.89148281169832
+departamento,General Roca,67.97955974842769
+casa,Goudge,67.98297872340426
+ph,Roldán,68.01239669421489
+casa,El Sauce,68.04607508532423
+galpon,Avellaneda,68.12953367875647
+casa,Potrerillos,68.13715710723191
+departamento,San Andrés de Giles,68.19047619047619
+quinta,General Roca,68.2
+terreno,Esteban Echeverría,68.27090443686008
+departamento,Capilla del Monte,68.27317073170731
+local,La Carrera,68.33333333333333
+terreno,San Carlos de Bariloche,68.4093620927031
+cochera,San Lorenzo,68.46153846153847
+casa,San Luis,68.5366568914956
+casa,Necochea,68.61433087460485
+ph,Coronel Rosales,68.61870503597122
+local,Moreno,68.72593800978794
+casa,Parque Avellaneda,68.84937611408199
+quinta,Morón,68.90782122905028
+edificio,San Miguel,69.0
+edificio,Lanús,69.04329004329006
+cochera,Ituzaingó,69.05084745762713
+casa,Versalles,69.08000000000001
+casa,Bialet Massé,69.085020242915
+terreno,Núñez,69.11145104895104
+terreno,Exaltación de la Cruz,69.12381852551985
+terreno,Santo Tomé,69.12631578947368
+galpon,Chacras de Coria,69.19148936170212
+ph,San Cristobal,69.48582995951418
+terreno,Mar Chiquita,69.56126482213439
+terreno,La Cumbre,69.57758620689654
+cochera,San Cristobal,69.99248120300753
+edificio,La Paternal,70.0
+ph,Venado Tuerto,70.04899777282853
+local,Añelo,70.05063291139241
+terreno,Villa Santa Rita,70.37439613526568
+oficina,Exaltación de la Cruz,70.43434343434342
+ph,San Jerónimo Norte,70.44554455445545
+cochera,Mataderos,70.44594594594595
+terreno,Barrio Norte,70.5124439004488
+terreno,Ángel Gallardo,70.82835820895522
+casa,Piñero,70.94256756756755
+local,Boedo,70.96335078534031
+edificio,Venado Tuerto,71.0
+quinta,Villa La Angostura,71.0
+ph,Río Cuarto,71.01190476190476
+terreno,Funes,71.08111533586819
+terreno,Congreso,71.1012658227848
+galpon,San Carlos de Bariloche,71.33333333333334
+quinta,San Vicente,71.37440758293839
+local,José C Paz,71.54320987654322
+oficina,Recreo,71.65137614678899
+galpon,Brandsen,71.71794871794872
+ph,Marcos Paz,71.72463768115942
+galpon,Pompeya,71.73333333333333
+casa,José C Paz,71.8127962085308
+casa,Alvear,71.90821256038647
+terreno,Las Heras,71.95890410958906
+terreno,Zárate,71.97829716193658
+oficina,Chapadmalal,72.0
+terreno,Monte Hermoso,72.05162523900574
+terreno,Vistalba,72.08421052631579
+terreno,Arroyo Leyes,72.09628378378379
+terreno,Villa Pueyrredón,72.10422535211268
+terreno,Villa Crespo,72.37586206896552
+terreno,Santa María de Punilla,72.4059829059829
+terreno,San Martín de los Andes,72.58823529411764
+terreno,Villa Gesell,72.77472527472528
+ph,San Rafael,72.95
+ph,La Granja,73.0
+casa,Río Cuarto,73.08433734939759
+local,Costa Esmeralda,73.39285714285715
+terreno,Maipú,73.56042368801155
+casa,San Jerónimo Norte,73.5621301775148
+oficina,San Rafael,73.74193548387096
+terreno,San Luis,73.88429752066116
+oficina,Almirante Brown,73.95297029702971
+local,Monte Castro,73.99285714285716
+oficina,San Andrés de Giles,74.0
+local,Mercedes,74.0
+local,La Granja,74.0
+local,Campana,74.01190476190476
+ph,Zárate,74.19658119658119
+terreno,Necochea,74.20338983050848
+terreno,Comodoro Rivadavia,74.30547263681592
+oficina,Mar Azul,74.35820895522387
+oficina,Quilmes,74.36661466458659
+terreno,La Granja,74.42056074766354
+casa,Valeria del Mar,74.71471471471472
+cochera,Villa Devoto,74.75102040816327
+casa,Buena Nueva,74.77142857142857
+terreno,Almagro,74.82842287694972
+oficina,Villa Nueva,74.95454545454547
+edificio,Rosario,75.01976284584981
+terreno,San Andrés de Giles,75.02403846153845
+terreno,Brandsen,75.16779279279278
+edificio,Córdoba,75.31543624161074
+ph,Ataliva Roca,75.5404411764706
+cochera,San José,75.54761904761905
+quinta,San Miguel de Tucumán,75.5945945945946
+galpon,Comodoro Rivadavia,75.59550561797752
+galpon,General San Martín,75.60535117056855
+terreno,Tornquist,75.68421052631578
+terreno,Once,75.71999999999998
+casa,Ángel Gallardo,75.7817109144543
+galpon,Reconquista,75.88888888888889
+quinta,Lanús,75.94490358126721
+quinta,Nuevo Torino,76.0
+galpon,Santa Rosa,76.17307692307692
+local,Liniers,76.18779342723003
+terreno,Chapadmalal,76.19742489270386
+terreno,Barracas,76.23407643312102
+ph,Tornquist,76.26804123711341
+casa,Alta Gracia,76.36216216216218
+galpon,Esperanza,76.45454545454547
+quinta,Venado Tuerto,76.72727272727272
+cochera,Coghlan,77.0
+galpon,Ezeiza,77.04268292682927
+quinta,La Boca,77.40625000000001
+terreno,Dina Huapi,77.68807339449542
+terreno,Ibarlucea,77.6963249516441
+terreno,Parque Avellaneda,77.7925
+terreno,Cruz de Piedra,77.84210526315789
+casa,Capitán Bermúdez,77.94716981132075
+oficina,Ciudad de Santa Fe,78.02549019607845
+quinta,Neuquén,78.15822784810126
+ph,Necochea,78.39043824701196
+quinta,Belgrano,78.50595238095237
+terreno,Potrero de Garay,78.81672025723472
+galpon,Añelo,79.0
+cochera,Once,79.0
+galpon,Vicente López,79.0642398286938
+local,Funes,79.1094527363184
+casa,Esquel,79.23708609271524
+terreno,Santa Clara del Mar,79.3142857142857
+terreno,La Falda,79.52542372881355
+terreno,Bahía Blanca,79.58873873873874
+local,Ciudad de Santa Fe,79.66232558139534
+galpon,Boedo,79.68367346938777
+departamento,Villa General Belgrano,79.72039473684212
+casa,Pujato Norte,79.87890625
+galpon,Tunuyán,80.0
+terreno,San José del Rincón,80.03267973856211
+terreno,Ostende,80.16296296296296
+terreno,Monte Castro,80.16616766467067
+edificio,La Plata,80.23266219239373
+terreno,Coghlan,80.39417989417989
+oficina,Santo Tomé,80.78481012658229
+casa,Villa del Dique,80.965
+oficina,Pueblo Esther,81.05050505050505
+oficina,Villa Gesell,81.15942028985506
+terreno,Marcos Paz,81.18518518518519
+galpon,Las Heras,81.23711340206185
+ph,Las Compuertas,81.37128712871288
+cochera,Godoy Cruz,81.38461538461539
+galpon,Potrero de Garay,81.41071428571429
+terreno,Villa Carlos Paz,81.41704918032787
+edificio,Balvanera,81.77906976744185
+cochera,Villa Carlos Paz,81.84693877551021
+quinta,Vicente López,81.90683229813666
+quinta,Tigre,81.91169977924945
+local,Villa Icho Cruz,81.91489361702128
+departamento,Tunuyán,81.91823899371072
+galpon,Lanús,81.99663299663301
+edificio,Reconquista,82.0
+cochera,Magdalena,82.0
+galpon,Pehuajó,82.07547169811322
+cochera,Ciudad de Mendoza,82.1889400921659
+casa,Tribunales,82.56538461538462
+local,Buena Nueva,82.71428571428572
+terreno,Berisso,82.91950464396284
+local,Villa Merlo,83.0
+galpon,Tornquist,83.0
+terreno,Versalles,83.0
+casa,Mar de las Pampas,83.06143344709898
+local,Pueblo Esther,83.6
+galpon,Santo Tomé,83.77419354838709
+departamento,Goudge,83.88815789473685
+terreno,Chivilcoy,83.92741935483872
+edificio,Campana,84.0
+edificio,Russell,84.0
+quinta,Marcos Paz,84.0
+ph,Cerrillos,84.0
+terreno,Esperanza,84.12527964205817
+terreno,Santiago del Estero,84.3102119460501
+edificio,Salta,84.5142857142857
+oficina,Barracas,84.7207792207792
+quinta,Pinamar,84.82089552238806
+local,San Rafael,85.21875
+local,Presidente Perón,85.29761904761905
+departamento,Goya,85.32128514056225
+terreno,Villa Los Aromos,85.35897435897436
+cochera,Comodoro Rivadavia,85.37951807228916
+oficina,San Miguel del Monte,85.77272727272728
+terreno,Villa Amelia,86.05970149253731
+terreno,Ataliva Roca,86.92134831460675
+casa,Villa Allende,86.9652777777778
+quinta,La Calera,87.0
+galpon,Ataliva Roca,87.0
+cochera,Monte Castro,87.11627906976744
+terreno,Sierras de Calamuchita,87.1949152542373
+terreno,Villa Yacanto,87.42670157068063
+terreno,Reconquista,87.55468750000001
+quinta,Velez Sarsfield,88.0
+oficina,Merlo,88.44897959183675
+edificio,Quilmes,88.56140350877192
+casa,Rada Tilly,89.57017543859651
+casa,Chivilcoy,89.9074074074074
+casa,Villa Riachuelo,89.92344497607654
+terreno,Las Compuertas,90.03095238095239
+casa,Magdalena,90.08812260536399
+terreno,Valeria del Mar,90.31818181818181
+cochera,Bahía Blanca,90.73006134969324
+edificio,San Telmo,91.0
+cochera,Salta,91.03875968992247
+cochera,San Luis,91.55294117647058
+edificio,Neuquén,91.57407407407406
+local,San Lorenzo,91.96721311475409
+quinta,Villa Luro,92.25000000000001
+cochera,Nuevo Torino,92.44444444444443
+quinta,Pergamino,92.81632653061224
+oficina,Posadas,92.9016393442623
+terreno,Perdriel,92.91836734693877
+local,Potrero de Garay,93.00000000000001
+ph,Anisacate,93.0449438202247
+terreno,San Salvador de Jujuy,93.04669260700388
+terreno,Villa Ciudad Parque Los Reartes,93.35344827586206
+terreno,Cipolletti,93.75037147102526
+cochera,Florencio Varela,93.8735632183908
+terreno,Chascomús,94.25
+local,Venado Tuerto,94.76758409785934
+edificio,Uruguay,94.82816901408451
+cochera,Flores,94.96862745098039
+quinta,Barracas,95.0
+ph,Merlo,95.00000000000001
+galpon,San Miguel,95.75647668393782
+galpon,Monte Hermoso,95.9322033898305
+edificio,Villa Urquiza,96.45901639344262
+edificio,General San Martín,96.46153846153847
+terreno,La Boca,96.81081081081082
+terreno,Agronomía,96.91304347826086
+cochera,Pinamar,97.24800000000002
+local,Rafaela,97.68400000000001
+local,San Miguel del Monte,97.95081967213115
+galpon,Bahía Blanca,98.22051282051282
+ph,Pompeya,98.35714285714285
+casa,Villa General Belgrano,98.80000000000003
+galpon,Presidente Perón,99.0
+cochera,Villa del Parque,99.17901234567901
+local,General Fernández Oro,99.19354838709677
+edificio,Mar del Plata,99.44242424242424
+edificio,Pinamar,100.10869565217392
+terreno,Pujato Norte,100.8019801980198
+ph,San Salvador de Jujuy,100.95652173913042
+terreno,San Miguel del Monte,101.3545918367347
+local,General Juan Madariaga,101.66666666666667
+oficina,Godoy Cruz,101.70503597122303
+ph,Mari Menuco,101.84482758620689
+edificio,Godoy Cruz,102.0
+edificio,Ituzaingó,103.67741935483872
+edificio,Tigre,104.43854748603351
+oficina,Esquel,104.61764705882354
+casa,Tunuyán,105.1
+terreno,General Fernández Oro,105.32317073170732
+local,Villa Allende,107.14999999999998
+terreno,Lunlunta,107.64126984126985
+galpon,Funes,107.80882352941177
+local,Tunuyán,108.0
+terreno,Cerrillos,108.26315789473685
+galpon,Zárate,108.3953488372093
+edificio,Ciudad de Santa Fe,108.82681564245809
+cochera,Arroyo Leyes,109.73333333333332
+quinta,Mendiolaza,110.0
+quinta,Villa Cerro Azul,110.05882352941177
+oficina,Lunlunta,110.62121212121212
+galpon,Lunlunta,110.70967741935483
+edificio,Pueblo Esther,111.0
+cochera,Esperanza,112.82978723404256
+terreno,Salsipuedes,113.0
+ph,Tunuyán,115.53684210526316
+terreno,Posadas,115.94949494949496
+quinta,Goya,116.0
+galpon,Santa María de Punilla,116.85714285714285
+cochera,Mar del Tuyú,117.6923076923077
+cochera,Juana Koslay,118.0
+galpon,Hurlingham,118.3134328358209
+terreno,El Challao,118.3348623853211
+quinta,Plottier,118.76162790697674
+quinta,Potrero de Garay,120.0
+edificio,Jesús Nazareno,120.0
+quinta,Pueblo Esther,120.76923076923076
+cochera,Villa Lugano,121.0
+edificio,Hurlingham,121.78947368421052
+galpon,Villa Nueva,125.0
+terreno,Constitución,125.55235602094243
+oficina,Los Corralitos,125.6
+oficina,La Granja,126.0
+oficina,Santa Rosa,126.17391304347827
+terreno,Villa Soldati,126.30208333333333
+oficina,Malvinas Argentinas,126.65882352941175
+edificio,Pergamino,127.0
+ph,Sierras de Calamuchita,127.75
+edificio,Merlo,128.0
+local,Villa Amelia,129.74468085106383
+cochera,Chacras de Coria,130.0
+galpon,Cariló,130.0
+terreno,Alta Gracia,131.0192926045016
+terreno,Balcarce,131.8188679245283
+local,La Falda,132.3469387755102
+edificio,Chacarita,133.58823529411765
+local,San Andrés de Giles,134.0
+edificio,Luján de Cuyo,134.56164383561642
+edificio,Almirante Brown,135.15533980582524
+terreno,Guaymallén,135.61344537815125
+galpon,Sauce Viejo,136.0
+oficina,Lobos,136.0
+edificio,Belgrano,136.67499999999998
+local,Chascomús,140.3191489361702
+local,Goya,141.02739726027397
+cochera,General Roca,142.0
+oficina,General Fernández Oro,144.95652173913047
+galpon,Necochea,151.0
+local,Anisacate,151.7837837837838
+cochera,Pergamino,152.01162790697674
+local,Villa Giardino,153.66666666666669
+ph,El Sauce,155.0
+galpon,Unquillo,156.92592592592592
+cochera,La Calera,160.0
+quinta,Ataliva Roca,160.35294117647058
+cochera,La Cumbre,168.0
+local,Corrientes,169.3783783783784
+cochera,Abasto,170.0
+terreno,Villa Cerro Azul,172.1969696969697
+oficina,Villa Cerro Azul,174.0
+cochera,Tribunales,174.0
+local,Carmen de Areco,190.59701492537314
+ph,Mar del Tuyú,194.91860465116278
+edificio,Santa Clara del Mar,195.0
+edificio,Parque Chacabuco,198.0
+local,Zárate,210.4074074074074
+edificio,Villa Crespo,217.3875
+edificio,Parque Chas,238.0
+ph,Goya,238.7572815533981
+quinta,Río Ceballos,250.0
+local,Mar Azul,280.0
+edificio,Cipolletti,293.0
+edificio,Florencio Varela,296.0
+galpon,El Challao,298.0

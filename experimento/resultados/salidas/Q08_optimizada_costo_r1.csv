@@ -1,0 +1,289 @@
+periodo,provincia,total_listings
+202511,Buenos Aires (fuera de GBA),646
+202511,Buenos Aires Costa Atlántica,1148
+202511,Capital Federal,5743
+202511,Chaco,50
+202511,Chubut,122
+202511,Corrientes,41
+202511,Córdoba,1730
+202511,GBA Norte,5087
+202511,GBA Oeste,2358
+202511,GBA Sur,3977
+202511,Jujuy,21
+202511,La Pampa,86
+202511,Mendoza,1141
+202511,Misiones,13
+202511,Neuquen,493
+202511,Otros Paises,885
+202511,Rio Negro,275
+202511,Salta,136
+202511,San Juan,11
+202511,San Luis,42
+202511,Santa Fe,2873
+202511,Santiago del Estero,31
+202511,Tierra del Fuego,19
+202511,Tucuman,42
+202512,Buenos Aires (fuera de GBA),657
+202512,Buenos Aires Costa Atlántica,1170
+202512,Capital Federal,5917
+202512,Chaco,55
+202512,Chubut,123
+202512,Corrientes,38
+202512,Córdoba,1869
+202512,GBA Norte,5324
+202512,GBA Oeste,2498
+202512,GBA Sur,4253
+202512,Jujuy,25
+202512,La Pampa,92
+202512,Mendoza,1213
+202512,Misiones,16
+202512,Neuquen,538
+202512,Otros Paises,939
+202512,Rio Negro,281
+202512,Salta,136
+202512,San Juan,13
+202512,San Luis,45
+202512,Santa Fe,3027
+202512,Santiago del Estero,37
+202512,Tierra del Fuego,21
+202512,Tucuman,44
+202601,Buenos Aires (fuera de GBA),763
+202601,Buenos Aires Costa Atlántica,1287
+202601,Capital Federal,6622
+202601,Chaco,58
+202601,Chubut,138
+202601,Corrientes,44
+202601,Córdoba,2095
+202601,GBA Norte,5913
+202601,GBA Oeste,2709
+202601,GBA Sur,4703
+202601,Jujuy,26
+202601,La Pampa,97
+202601,Mendoza,1347
+202601,Misiones,20
+202601,Neuquen,619
+202601,Otros Paises,1069
+202601,Rio Negro,315
+202601,Salta,160
+202601,San Juan,19
+202601,San Luis,48
+202601,Santa Fe,3462
+202601,Santiago del Estero,41
+202601,Tierra del Fuego,27
+202601,Tucuman,48
+202602,Buenos Aires (fuera de GBA),871
+202602,Buenos Aires Costa Atlántica,1442
+202602,Capital Federal,7675
+202602,Chaco,69
+202602,Chubut,159
+202602,Corrientes,48
+202602,Córdoba,2415
+202602,GBA Norte,6737
+202602,GBA Oeste,3116
+202602,GBA Sur,5306
+202602,Jujuy,32
+202602,La Pampa,114
+202602,Mendoza,1534
+202602,Misiones,22
+202602,Neuquen,698
+202602,Otros Paises,1212
+202602,Rio Negro,370
+202602,Salta,183
+202602,San Juan,19
+202602,San Luis,52
+202602,Santa Fe,3896
+202602,Santiago del Estero,47
+202602,Tierra del Fuego,28
+202602,Tucuman,59
+202603,Buenos Aires (fuera de GBA),971
+202603,Buenos Aires Costa Atlántica,1573
+202603,Capital Federal,8543
+202603,Chaco,74
+202603,Chubut,178
+202603,Corrientes,49
+202603,Córdoba,2640
+202603,GBA Norte,7483
+202603,GBA Oeste,3446
+202603,GBA Sur,5837
+202603,Jujuy,32
+202603,La Pampa,119
+202603,Mendoza,1661
+202603,Misiones,21
+202603,Neuquen,766
+202603,Otros Paises,1347
+202603,Rio Negro,398
+202603,Salta,217
+202603,San Juan,17
+202603,San Luis,51
+202603,Santa Fe,4291
+202603,Santiago del Estero,63
+202603,Tierra del Fuego,28
+202603,Tucuman,59
+202604,Buenos Aires (fuera de GBA),997
+202604,Buenos Aires Costa Atlántica,1609
+202604,Capital Federal,8666
+202604,Chaco,82
+202604,Chubut,181
+202604,Corrientes,44
+202604,Córdoba,2744
+202604,GBA Norte,7592
+202604,GBA Oeste,3497
+202604,GBA Sur,5951
+202604,Jujuy,38
+202604,La Pampa,119
+202604,Mendoza,1691
+202604,Misiones,20
+202604,Neuquen,753
+202604,Otros Paises,1371
+202604,Rio Negro,427
+202604,Salta,218
+202604,San Juan,17
+202604,San Luis,54
+202604,Santa Fe,4385
+202604,Santiago del Estero,60
+202604,Tierra del Fuego,36
+202604,Tucuman,52
+202605,Buenos Aires (fuera de GBA),1046
+202605,Buenos Aires Costa Atlántica,1672
+202605,Capital Federal,8612
+202605,Chaco,74
+202605,Chubut,187
+202605,Corrientes,43
+202605,Córdoba,2774
+202605,GBA Norte,7777
+202605,GBA Oeste,3605
+202605,GBA Sur,6115
+202605,Jujuy,36
+202605,La Pampa,121
+202605,Mendoza,1705
+202605,Misiones,19
+202605,Neuquen,779
+202605,Otros Paises,1357
+202605,Rio Negro,421
+202605,Salta,220
+202605,San Juan,14
+202605,San Luis,54
+202605,Santa Fe,4467
+202605,Santiago del Estero,62
+202605,Tierra del Fuego,36
+202605,Tucuman,51
+202606,Buenos Aires (fuera de GBA),1036
+202606,Buenos Aires Costa Atlántica,1685
+202606,Capital Federal,8414
+202606,Chaco,75
+202606,Chubut,190
+202606,Corrientes,44
+202606,Córdoba,2797
+202606,GBA Norte,7730
+202606,GBA Oeste,3508
+202606,GBA Sur,6070
+202606,Jujuy,34
+202606,La Pampa,115
+202606,Mendoza,1706
+202606,Misiones,18
+202606,Neuquen,781
+202606,Otros Paises,1308
+202606,Rio Negro,426
+202606,Salta,213
+202606,San Juan,13
+202606,San Luis,66
+202606,Santa Fe,4352
+202606,Santiago del Estero,64
+202606,Tierra del Fuego,34
+202606,Tucuman,48
+202607,Buenos Aires (fuera de GBA),1089
+202607,Buenos Aires Costa Atlántica,1730
+202607,Capital Federal,8770
+202607,Chaco,83
+202607,Chubut,199
+202607,Corrientes,49
+202607,Córdoba,2837
+202607,GBA Norte,8042
+202607,GBA Oeste,3579
+202607,GBA Sur,6309
+202607,Jujuy,42
+202607,La Pampa,122
+202607,Mendoza,1803
+202607,Misiones,18
+202607,Neuquen,778
+202607,Otros Paises,1357
+202607,Rio Negro,444
+202607,Salta,231
+202607,San Juan,15
+202607,San Luis,60
+202607,Santa Fe,4440
+202607,Santiago del Estero,74
+202607,Tierra del Fuego,28
+202607,Tucuman,57
+202608,Buenos Aires (fuera de GBA),1115
+202608,Buenos Aires Costa Atlántica,1800
+202608,Capital Federal,8898
+202608,Chaco,83
+202608,Chubut,196
+202608,Corrientes,49
+202608,Córdoba,2808
+202608,GBA Norte,8250
+202608,GBA Oeste,3690
+202608,GBA Sur,6325
+202608,Jujuy,42
+202608,La Pampa,131
+202608,Mendoza,1734
+202608,Misiones,10
+202608,Neuquen,805
+202608,Otros Paises,1409
+202608,Rio Negro,439
+202608,Salta,234
+202608,San Juan,12
+202608,San Luis,58
+202608,Santa Fe,4619
+202608,Santiago del Estero,65
+202608,Tierra del Fuego,33
+202608,Tucuman,67
+202609,Buenos Aires (fuera de GBA),1094
+202609,Buenos Aires Costa Atlántica,1708
+202609,Capital Federal,8705
+202609,Chaco,82
+202609,Chubut,200
+202609,Corrientes,57
+202609,Córdoba,2815
+202609,GBA Norte,8044
+202609,GBA Oeste,3632
+202609,GBA Sur,6287
+202609,Jujuy,37
+202609,La Pampa,119
+202609,Mendoza,1756
+202609,Misiones,18
+202609,Neuquen,785
+202609,Otros Paises,1394
+202609,Rio Negro,432
+202609,Salta,217
+202609,San Juan,14
+202609,San Luis,67
+202609,Santa Fe,4573
+202609,Santiago del Estero,75
+202609,Tierra del Fuego,27
+202609,Tucuman,70
+202610,Buenos Aires (fuera de GBA),1055
+202610,Buenos Aires Costa Atlántica,1728
+202610,Capital Federal,8648
+202610,Chaco,85
+202610,Chubut,188
+202610,Corrientes,57
+202610,Córdoba,2812
+202610,GBA Norte,8042
+202610,GBA Oeste,3642
+202610,GBA Sur,6298
+202610,Jujuy,38
+202610,La Pampa,113
+202610,Mendoza,1786
+202610,Misiones,15
+202610,Neuquen,794
+202610,Otros Paises,1409
+202610,Rio Negro,418
+202610,Salta,223
+202610,San Juan,11
+202610,San Luis,67
+202610,Santa Fe,4623
+202610,Santiago del Estero,76
+202610,Tierra del Fuego,23
+202610,Tucuman,71

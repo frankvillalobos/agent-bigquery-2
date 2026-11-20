@@ -1,0 +1,289 @@
+year,month,provincia,total_listings
+2025,11,Buenos Aires (fuera de GBA),646
+2025,11,Buenos Aires Costa Atlántica,1148
+2025,11,Capital Federal,5743
+2025,11,Chaco,50
+2025,11,Chubut,122
+2025,11,Corrientes,41
+2025,11,Córdoba,1730
+2025,11,GBA Norte,5087
+2025,11,GBA Oeste,2358
+2025,11,GBA Sur,3977
+2025,11,Jujuy,21
+2025,11,La Pampa,86
+2025,11,Mendoza,1141
+2025,11,Misiones,13
+2025,11,Neuquen,493
+2025,11,Otros Paises,885
+2025,11,Rio Negro,275
+2025,11,Salta,136
+2025,11,San Juan,11
+2025,11,San Luis,42
+2025,11,Santa Fe,2873
+2025,11,Santiago del Estero,31
+2025,11,Tierra del Fuego,19
+2025,11,Tucuman,42
+2025,12,Buenos Aires (fuera de GBA),657
+2025,12,Buenos Aires Costa Atlántica,1170
+2025,12,Capital Federal,5917
+2025,12,Chaco,55
+2025,12,Chubut,123
+2025,12,Corrientes,38
+2025,12,Córdoba,1869
+2025,12,GBA Norte,5324
+2025,12,GBA Oeste,2498
+2025,12,GBA Sur,4253
+2025,12,Jujuy,25
+2025,12,La Pampa,92
+2025,12,Mendoza,1213
+2025,12,Misiones,16
+2025,12,Neuquen,538
+2025,12,Otros Paises,939
+2025,12,Rio Negro,281
+2025,12,Salta,136
+2025,12,San Juan,13
+2025,12,San Luis,45
+2025,12,Santa Fe,3027
+2025,12,Santiago del Estero,37
+2025,12,Tierra del Fuego,21
+2025,12,Tucuman,44
+2026,1,Buenos Aires (fuera de GBA),763
+2026,1,Buenos Aires Costa Atlántica,1287
+2026,1,Capital Federal,6622
+2026,1,Chaco,58
+2026,1,Chubut,138
+2026,1,Corrientes,44
+2026,1,Córdoba,2095
+2026,1,GBA Norte,5913
+2026,1,GBA Oeste,2709
+2026,1,GBA Sur,4703
+2026,1,Jujuy,26
+2026,1,La Pampa,97
+2026,1,Mendoza,1347
+2026,1,Misiones,20
+2026,1,Neuquen,619
+2026,1,Otros Paises,1069
+2026,1,Rio Negro,315
+2026,1,Salta,160
+2026,1,San Juan,19
+2026,1,San Luis,48
+2026,1,Santa Fe,3462
+2026,1,Santiago del Estero,41
+2026,1,Tierra del Fuego,27
+2026,1,Tucuman,48
+2026,2,Buenos Aires (fuera de GBA),871
+2026,2,Buenos Aires Costa Atlántica,1442
+2026,2,Capital Federal,7675
+2026,2,Chaco,69
+2026,2,Chubut,159
+2026,2,Corrientes,48
+2026,2,Córdoba,2415
+2026,2,GBA Norte,6737
+2026,2,GBA Oeste,3116
+2026,2,GBA Sur,5306
+2026,2,Jujuy,32
+2026,2,La Pampa,114
+2026,2,Mendoza,1534
+2026,2,Misiones,22
+2026,2,Neuquen,698
+2026,2,Otros Paises,1212
+2026,2,Rio Negro,370
+2026,2,Salta,183
+2026,2,San Juan,19
+2026,2,San Luis,52
+2026,2,Santa Fe,3896
+2026,2,Santiago del Estero,47
+2026,2,Tierra del Fuego,28
+2026,2,Tucuman,59
+2026,3,Buenos Aires (fuera de GBA),971
+2026,3,Buenos Aires Costa Atlántica,1573
+2026,3,Capital Federal,8543
+2026,3,Chaco,74
+2026,3,Chubut,178
+2026,3,Corrientes,49
+2026,3,Córdoba,2640
+2026,3,GBA Norte,7483
+2026,3,GBA Oeste,3446
+2026,3,GBA Sur,5837
+2026,3,Jujuy,32
+2026,3,La Pampa,119
+2026,3,Mendoza,1661
+2026,3,Misiones,21
+2026,3,Neuquen,766
+2026,3,Otros Paises,1347
+2026,3,Rio Negro,398
+2026,3,Salta,217
+2026,3,San Juan,17
+2026,3,San Luis,51
+2026,3,Santa Fe,4291
+2026,3,Santiago del Estero,63
+2026,3,Tierra del Fuego,28
+2026,3,Tucuman,59
+2026,4,Buenos Aires (fuera de GBA),997
+2026,4,Buenos Aires Costa Atlántica,1609
+2026,4,Capital Federal,8666
+2026,4,Chaco,82
+2026,4,Chubut,181
+2026,4,Corrientes,44
+2026,4,Córdoba,2744
+2026,4,GBA Norte,7592
+2026,4,GBA Oeste,3497
+2026,4,GBA Sur,5951
+2026,4,Jujuy,38
+2026,4,La Pampa,119
+2026,4,Mendoza,1691
+2026,4,Misiones,20
+2026,4,Neuquen,753
+2026,4,Otros Paises,1371
+2026,4,Rio Negro,427
+2026,4,Salta,218
+2026,4,San Juan,17
+2026,4,San Luis,54
+2026,4,Santa Fe,4385
+2026,4,Santiago del Estero,60
+2026,4,Tierra del Fuego,36
+2026,4,Tucuman,52
+2026,5,Buenos Aires (fuera de GBA),1046
+2026,5,Buenos Aires Costa Atlántica,1672
+2026,5,Capital Federal,8612
+2026,5,Chaco,74
+2026,5,Chubut,187
+2026,5,Corrientes,43
+2026,5,Córdoba,2774
+2026,5,GBA Norte,7777
+2026,5,GBA Oeste,3605
+2026,5,GBA Sur,6115
+2026,5,Jujuy,36
+2026,5,La Pampa,121
+2026,5,Mendoza,1705
+2026,5,Misiones,19
+2026,5,Neuquen,779
+2026,5,Otros Paises,1357
+2026,5,Rio Negro,421
+2026,5,Salta,220
+2026,5,San Juan,14
+2026,5,San Luis,54
+2026,5,Santa Fe,4467
+2026,5,Santiago del Estero,62
+2026,5,Tierra del Fuego,36
+2026,5,Tucuman,51
+2026,6,Buenos Aires (fuera de GBA),1036
+2026,6,Buenos Aires Costa Atlántica,1685
+2026,6,Capital Federal,8414
+2026,6,Chaco,75
+2026,6,Chubut,190
+2026,6,Corrientes,44
+2026,6,Córdoba,2797
+2026,6,GBA Norte,7730
+2026,6,GBA Oeste,3508
+2026,6,GBA Sur,6070
+2026,6,Jujuy,34
+2026,6,La Pampa,115
+2026,6,Mendoza,1706
+2026,6,Misiones,18
+2026,6,Neuquen,781
+2026,6,Otros Paises,1308
+2026,6,Rio Negro,426
+2026,6,Salta,213
+2026,6,San Juan,13
+2026,6,San Luis,66
+2026,6,Santa Fe,4352
+2026,6,Santiago del Estero,64
+2026,6,Tierra del Fuego,34
+2026,6,Tucuman,48
+2026,7,Buenos Aires (fuera de GBA),1089
+2026,7,Buenos Aires Costa Atlántica,1730
+2026,7,Capital Federal,8770
+2026,7,Chaco,83
+2026,7,Chubut,199
+2026,7,Corrientes,49
+2026,7,Córdoba,2837
+2026,7,GBA Norte,8042
+2026,7,GBA Oeste,3579
+2026,7,GBA Sur,6309
+2026,7,Jujuy,42
+2026,7,La Pampa,122
+2026,7,Mendoza,1803
+2026,7,Misiones,18
+2026,7,Neuquen,778
+2026,7,Otros Paises,1357
+2026,7,Rio Negro,444
+2026,7,Salta,231
+2026,7,San Juan,15
+2026,7,San Luis,60
+2026,7,Santa Fe,4440
+2026,7,Santiago del Estero,74
+2026,7,Tierra del Fuego,28
+2026,7,Tucuman,57
+2026,8,Buenos Aires (fuera de GBA),1115
+2026,8,Buenos Aires Costa Atlántica,1800
+2026,8,Capital Federal,8898
+2026,8,Chaco,83
+2026,8,Chubut,196
+2026,8,Corrientes,49
+2026,8,Córdoba,2808
+2026,8,GBA Norte,8250
+2026,8,GBA Oeste,3690
+2026,8,GBA Sur,6325
+2026,8,Jujuy,42
+2026,8,La Pampa,131
+2026,8,Mendoza,1734
+2026,8,Misiones,10
+2026,8,Neuquen,805
+2026,8,Otros Paises,1409
+2026,8,Rio Negro,439
+2026,8,Salta,234
+2026,8,San Juan,12
+2026,8,San Luis,58
+2026,8,Santa Fe,4619
+2026,8,Santiago del Estero,65
+2026,8,Tierra del Fuego,33
+2026,8,Tucuman,67
+2026,9,Buenos Aires (fuera de GBA),1094
+2026,9,Buenos Aires Costa Atlántica,1708
+2026,9,Capital Federal,8705
+2026,9,Chaco,82
+2026,9,Chubut,200
+2026,9,Corrientes,57
+2026,9,Córdoba,2815
+2026,9,GBA Norte,8044
+2026,9,GBA Oeste,3632
+2026,9,GBA Sur,6287
+2026,9,Jujuy,37
+2026,9,La Pampa,119
+2026,9,Mendoza,1756
+2026,9,Misiones,18
+2026,9,Neuquen,785
+2026,9,Otros Paises,1394
+2026,9,Rio Negro,432
+2026,9,Salta,217
+2026,9,San Juan,14
+2026,9,San Luis,67
+2026,9,Santa Fe,4573
+2026,9,Santiago del Estero,75
+2026,9,Tierra del Fuego,27
+2026,9,Tucuman,70
+2026,10,Buenos Aires (fuera de GBA),1055
+2026,10,Buenos Aires Costa Atlántica,1728
+2026,10,Capital Federal,8648
+2026,10,Chaco,85
+2026,10,Chubut,188
+2026,10,Corrientes,57
+2026,10,Córdoba,2812
+2026,10,GBA Norte,8042
+2026,10,GBA Oeste,3642
+2026,10,GBA Sur,6298
+2026,10,Jujuy,38
+2026,10,La Pampa,113
+2026,10,Mendoza,1786
+2026,10,Misiones,15
+2026,10,Neuquen,794
+2026,10,Otros Paises,1409
+2026,10,Rio Negro,418
+2026,10,Salta,223
+2026,10,San Juan,11
+2026,10,San Luis,67
+2026,10,Santa Fe,4623
+2026,10,Santiago del Estero,76
+2026,10,Tierra del Fuego,23
+2026,10,Tucuman,71

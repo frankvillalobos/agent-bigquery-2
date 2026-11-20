@@ -1,0 +1,25 @@
+plan_publicacion,tipo_de_operacion,tipo_lead,total_leads,total_avisos,leads_por_aviso
+destacado,alquiler,campaña paga,2046,1046,1.9560229445506692
+destacado,alquiler,orgánico,3895,1394,2.7941176470588234
+destacado,alquiler_temporal,campaña paga,143,96,1.4895833333333333
+destacado,alquiler_temporal,orgánico,259,118,2.194915254237288
+destacado,venta,campaña paga,6270,2714,2.3102431834929993
+destacado,venta,orgánico,11997,3396,3.532685512367491
+gratis,alquiler,campaña paga,1998,1508,1.3249336870026525
+gratis,alquiler,orgánico,3992,2416,1.6523178807947019
+gratis,alquiler_temporal,campaña paga,123,100,1.23
+gratis,alquiler_temporal,orgánico,246,191,1.287958115183246
+gratis,venta,campaña paga,5709,4029,1.4169769173492182
+gratis,venta,orgánico,11459,6305,1.8174464710547185
+simple,alquiler,campaña paga,22456,15012,1.4958699706901146
+simple,alquiler,orgánico,43988,22042,1.9956446783413484
+simple,alquiler_temporal,campaña paga,1311,1026,1.2777777777777777
+simple,alquiler_temporal,orgánico,2632,1708,1.540983606557377
+simple,venta,campaña paga,64728,39213,1.6506770713793895
+simple,venta,orgánico,127724,55511,2.300877303597485
+super_destacado,alquiler,campaña paga,6370,2935,2.1703577512776833
+super_destacado,alquiler,orgánico,12394,3676,3.371599564744287
+super_destacado,alquiler_temporal,campaña paga,385,229,1.6812227074235808
+super_destacado,alquiler_temporal,orgánico,748,331,2.2598187311178246
+super_destacado,venta,campaña paga,18158,7047,2.5766993046686535
+super_destacado,venta,orgánico,35635,8556,4.164913510986442

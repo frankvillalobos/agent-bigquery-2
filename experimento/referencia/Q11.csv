@@ -1,0 +1,2127 @@
+tipo_propiedad,ciudad,avisos_con_lead,dias_promedio_primer_lead
+casa,Pilar,1768,28.2
+casa,Rosario,1433,30.6
+casa,Escobar,1158,27.8
+casa,La Plata,1157,29.6
+casa,Córdoba,1076,30.4
+casa,Uruguay,1022,26.7
+casa,Tigre,915,25.6
+casa,Palermo,820,24.5
+casa,Mar del Plata,588,28.2
+casa,La Matanza,570,32.8
+casa,Ciudad de Santa Fe,449,29.0
+casa,Caballito,436,23.8
+casa,Lanús,431,31.9
+casa,Morón,430,29.7
+casa,Recoleta,415,23.4
+casa,Quilmes,413,33.0
+casa,Vicente López,397,28.4
+casa,Tres de Febrero,386,30.2
+casa,Avellaneda,342,32.4
+casa,General San Martín,334,27.0
+casa,Belgrano,331,27.1
+casa,Lomas de Zamora,311,29.9
+casa,Ezeiza,288,29.7
+casa,Neuquén,279,31.0
+casa,San Isidro,258,25.5
+casa,Villa Urquiza,236,20.9
+casa,Almagro,235,24.4
+casa,Flores,232,23.8
+casa,San Vicente,230,28.3
+casa,Villa Crespo,229,25.8
+casa,Núñez,209,23.5
+casa,Cañuelas,207,28.8
+casa,Ituzaingó,203,34.3
+casa,Balvanera,203,25.5
+casa,Pinamar,195,28.0
+casa,Barrio Norte,190,20.1
+casa,Bahía Blanca,188,38.2
+casa,Almirante Brown,187,27.8
+casa,Moreno,185,34.2
+casa,San Nicolás,181,25.4
+casa,San Miguel,180,24.4
+casa,Luján de Cuyo,174,34.1
+casa,Villa Devoto,168,25.2
+casa,Esteban Echeverría,164,32.9
+casa,Ciudad de Mendoza,159,32.7
+casa,Maipú,157,31.3
+casa,Berazategui,156,30.7
+casa,General Rodríguez,153,27.0
+casa,San Carlos de Bariloche,147,29.8
+casa,Salta,146,28.5
+casa,Monserrat,143,25.7
+casa,Plottier,134,33.1
+casa,Santo Tomé,132,32.1
+casa,Luján,129,27.7
+casa,Mataderos,122,21.0
+casa,Hurlingham,120,32.0
+casa,Colegiales,117,22.8
+casa,Godoy Cruz,117,27.9
+casa,Parque Patricios,113,16.2
+casa,Funes,112,35.7
+casa,Villa del Parque,109,30.1
+casa,Retiro,107,17.6
+casa,Brandsen,107,25.7
+casa,Puerto Madero,106,22.9
+casa,Villa Carlos Paz,102,28.4
+casa,Venado Tuerto,101,33.3
+casa,Comodoro Rivadavia,101,32.0
+casa,San Fernando,95,32.2
+casa,Exaltación de la Cruz,92,29.7
+casa,Villa Ortuzar,91,21.2
+casa,Liniers,86,31.0
+casa,Chacarita,83,32.5
+casa,Florencio Varela,80,38.0
+casa,Rafaela,79,26.7
+casa,Saavedra,77,28.9
+casa,San Cristobal,76,22.6
+casa,Villa Luro,76,23.1
+casa,Centro / Microcentro,75,19.1
+casa,Tandil,75,23.1
+casa,San Telmo,73,26.8
+casa,Floresta,72,26.1
+casa,José C Paz,72,35.4
+casa,Parque Chacabuco,71,21.1
+casa,Campana,71,38.4
+casa,Presidente Perón,70,25.6
+casa,Merlo,70,34.8
+casa,Boedo,63,28.1
+casa,Villa Nueva,62,26.3
+casa,Barracas,61,25.5
+casa,Parque Avellaneda,59,27.1
+casa,Pergamino,59,39.4
+casa,Malvinas Argentinas,59,25.1
+casa,Cipolletti,58,31.1
+casa,San Lorenzo,58,26.1
+casa,Potrero de Garay,57,31.2
+casa,Monte Castro,55,25.8
+casa,Reconquista,55,37.3
+casa,San Martín,54,22.4
+casa,Sauce Viejo,53,33.5
+casa,Villa Pueyrredón,52,27.1
+casa,Las Heras,51,28.2
+casa,Villa Lugano,49,27.6
+casa,Resistencia,49,31.1
+casa,Pehuajó,48,36.9
+casa,Roldán,48,28.8
+casa,Mar Chiquita,48,38.2
+casa,Monte Hermoso,47,29.4
+casa,Costa Esmeralda,47,22.0
+casa,Parque Chas,47,23.4
+casa,Río Ceballos,46,33.5
+casa,Villa Gesell,46,29.7
+casa,Tanti,46,29.2
+casa,San Nicolás de los Arroyos,44,25.2
+casa,Pueblo Esther,42,27.5
+casa,Villa Santa Rita,42,24.2
+casa,Santiago del Estero,42,32.9
+casa,Las Compuertas,41,31.5
+casa,Constitución,41,18.6
+casa,Coghlan,41,30.1
+casa,Miramar,40,22.5
+casa,Santa María de Punilla,40,34.3
+casa,Añelo,39,29.5
+casa,Esperanza,38,26.2
+casa,La Calera,38,29.3
+casa,Zárate,37,26.9
+casa,Arroyo Leyes,37,34.2
+casa,Santa Clara del Mar,37,27.9
+casa,Necochea,37,46.1
+casa,Unquillo,35,29.7
+casa,Pompeya,35,31.2
+casa,Los Reartes,34,34.2
+casa,Ibarlucea,33,39.6
+casa,General Roca,33,40.0
+casa,San Bernardo,33,28.1
+casa,Villa Allende,32,33.6
+casa,Alta Gracia,32,37.0
+casa,Santa Rosa,32,35.1
+casa,Vistalba,31,31.9
+casa,Velez Sarsfield,31,27.2
+casa,San José del Rincón,30,29.0
+casa,San Miguel del Monte,30,21.8
+casa,Esquel,30,36.7
+casa,Los Corralitos,30,38.6
+casa,Villa Yacanto,29,27.0
+casa,San Miguel de Tucumán,28,21.3
+casa,Villa Amelia,27,28.3
+casa,Centenario,27,30.1
+casa,Congreso,27,27.9
+casa,Mendiolaza,27,38.0
+casa,Lunlunta,25,41.9
+casa,La Paternal,25,31.0
+casa,Villa General Mitre,25,24.3
+casa,Russell,25,42.0
+casa,San Rafael,24,29.8
+casa,Villa La Angostura,24,19.4
+casa,San Martín de los Andes,24,28.8
+casa,Mayor Drummond,24,36.3
+casa,Nuevo Torino,23,41.0
+casa,Colastiné,23,28.4
+casa,Villa Real,23,16.8
+casa,San Andrés de Giles,23,35.1
+casa,Mar del Tuyú,23,27.0
+casa,La Boca,22,24.0
+casa,Ataliva Roca,22,37.9
+casa,General Fernández Oro,22,16.5
+casa,Cruz de Piedra,22,35.6
+casa,Veinticinco de Mayo,21,24.9
+casa,San Salvador de Jujuy,21,31.2
+casa,El Sauce,21,40.6
+casa,Coronel Rosales,21,37.6
+casa,Rodeo de la Cruz,21,39.7
+casa,Mar de Ajó,20,28.1
+casa,Toay,20,37.1
+casa,Alvear,20,25.7
+casa,Pueblo Andino,20,19.7
+casa,Perdriel,20,29.0
+casa,Cosquín,20,30.5
+casa,Corrientes,19,43.2
+casa,La Cumbre,19,26.1
+casa,Chapadmalal,19,40.9
+casa,Goya,19,31.4
+casa,Chacras de Coria,19,24.9
+casa,Berisso,18,22.6
+casa,Malagueño,18,24.7
+casa,Dina Huapi,18,23.8
+casa,Villa María,18,33.1
+casa,Rada Tilly,17,62.2
+casa,Tornquist,17,34.1
+casa,Santa Rosa de Calamuchita,17,21.4
+casa,La Falda,17,24.8
+casa,Carmen de Areco,17,35.8
+casa,Ushuaia,17,38.1
+casa,Parque Centenario,16,20.0
+casa,Villa Soldati,16,21.3
+casa,General Lagos,16,28.1
+casa,Marcos Paz,16,26.4
+casa,San José,16,30.1
+casa,Mar Azul,16,20.1
+casa,Anisacate,16,42.4
+casa,Once,15,18.2
+casa,Lobos,15,30.1
+casa,Cariló,14,27.4
+casa,Villa Giardino,14,28.7
+casa,Abasto,14,35.1
+casa,El Challao,14,39.8
+casa,Piñero,14,38.1
+casa,Recreo,14,37.9
+casa,Granadero Baigorria,14,17.7
+casa,San Jerónimo Norte,14,53.1
+casa,Potrerillos,13,34.5
+casa,Magdalena,13,32.1
+casa,Jesús Nazareno,13,14.5
+casa,Pujato Norte,13,42.5
+casa,Sierras de Calamuchita,13,32.7
+casa,Colonia Popular,13,41.1
+casa,Chascomús,12,55.6
+casa,General Juan Madariaga,12,23.5
+casa,Valeria del Mar,12,32.9
+casa,San Agustín,12,14.1
+casa,Posadas,12,14.9
+casa,Mayu Sumaj,12,25.3
+casa,Juana Koslay,12,22.9
+casa,Mercedes,11,22.5
+casa,Bialet Massé,11,39.9
+casa,Las Toninas,11,28.9
+casa,Villa Merlo,11,52.1
+casa,Ostende,11,22.2
+casa,Santa Teresita,11,38.3
+casa,Versalles,11,18.1
+casa,Tribunales,10,52.8
+casa,Cerrillos,10,19.6
+casa,Las Paredes,10,18.0
+casa,Goudge,10,22.9
+casa,Villa General Belgrano,10,52.4
+casa,Mari Menuco,10,44.1
+casa,Tafí Viejo,10,43.9
+casa,Salsipuedes,10,18.9
+casa,Ángel Gallardo,10,42.7
+casa,San Clemente del Tuyú,10,17.6
+casa,Balcarce,9,52.9
+casa,Colonia Segovia,9,19.7
+casa,La Carrera,9,32.3
+casa,Villa Icho Cruz,9,29.4
+casa,San Luis,8,54.2
+casa,La Granja,8,29.0
+casa,Chivilcoy,8,50.2
+casa,Mar de las Pampas,8,24.4
+casa,Capitán Bermúdez,8,45.6
+casa,Villa Los Aromos,8,47.1
+casa,Tunuyán,7,67.4
+casa,Villa Cerro Azul,7,20.7
+casa,Capilla del Monte,7,23.3
+casa,San Juan,7,16.6
+casa,Villa del Dique,7,32.9
+casa,Villa Riachuelo,6,30.3
+casa,Guaymallén,6,25.7
+casa,Buena Nueva,5,58.6
+casa,Villa Ciudad Parque Los Reartes,5,5.4
+casa,Río Cuarto,5,44.2
+casa,Los Molinos,4,25.3
+casa,Agronomía,2,40.0
+cochera,Pilar,102,26.5
+cochera,Rosario,85,33.2
+cochera,Escobar,60,22.5
+cochera,Córdoba,53,20.3
+cochera,Tigre,48,26.3
+cochera,Palermo,46,31.2
+cochera,La Plata,42,32.3
+cochera,Uruguay,37,19.7
+cochera,La Matanza,34,20.8
+cochera,Morón,29,35.2
+cochera,Mar del Plata,29,36.7
+cochera,Caballito,25,27.6
+cochera,Lanús,25,38.4
+cochera,Tres de Febrero,22,38.8
+cochera,Recoleta,20,25.5
+cochera,Ciudad de Santa Fe,18,21.3
+cochera,Moreno,18,22.3
+cochera,Avellaneda,18,25.0
+cochera,Lomas de Zamora,17,37.7
+cochera,Belgrano,16,16.6
+cochera,Villa Urquiza,15,36.7
+cochera,Quilmes,14,29.0
+cochera,San Vicente,12,48.9
+cochera,General San Martín,12,34.5
+cochera,Villa Devoto,11,27.8
+cochera,Almirante Brown,11,23.8
+cochera,Ezeiza,11,18.7
+cochera,Flores,11,47.1
+cochera,General Rodríguez,11,22.7
+cochera,Balvanera,10,31.9
+cochera,Vicente López,10,28.2
+cochera,Maipú,10,19.7
+cochera,Neuquén,10,34.1
+cochera,Almagro,10,22.1
+cochera,Cañuelas,10,27.1
+cochera,Barrio Norte,9,17.4
+cochera,Godoy Cruz,9,50.2
+cochera,Esteban Echeverría,9,16.2
+cochera,San Isidro,9,35.9
+cochera,Luján,8,21.1
+cochera,Tandil,8,27.0
+cochera,Berazategui,8,27.9
+cochera,San Fernando,7,44.7
+cochera,Luján de Cuyo,7,17.4
+cochera,Ciudad de Mendoza,7,39.7
+cochera,Salta,7,23.4
+cochera,Brandsen,6,46.2
+cochera,San Telmo,6,30.2
+cochera,San Miguel,6,19.2
+cochera,Tanti,6,22.7
+cochera,Villa Yacanto,5,12.4
+cochera,Ituzaingó,5,27.2
+cochera,Monserrat,5,12.2
+cochera,Villa Crespo,5,25.0
+cochera,Pehuajó,5,37.8
+cochera,Plottier,5,33.6
+cochera,Funes,5,32.0
+cochera,Pinamar,5,31.6
+cochera,Rafaela,5,18.6
+cochera,Santo Tomé,5,27.2
+cochera,San Cristobal,5,17.6
+cochera,Comodoro Rivadavia,5,61.6
+cochera,San Carlos de Bariloche,5,29.2
+cochera,Puerto Madero,5,15.0
+cochera,Bahía Blanca,5,69.6
+cochera,Retiro,5,21.0
+cochera,Centro / Microcentro,5,13.4
+cochera,Venado Tuerto,5,33.6
+cochera,Villa Luro,5,27.4
+cochera,Campana,5,26.2
+cochera,Chacarita,4,22.3
+cochera,Mataderos,4,71.3
+cochera,Barracas,4,20.5
+cochera,Colegiales,4,20.3
+cochera,Santa Rosa de Calamuchita,4,30.8
+cochera,Mar Chiquita,4,12.0
+cochera,Exaltación de la Cruz,4,14.8
+cochera,Potrero de Garay,4,21.3
+cochera,Alvear,4,23.0
+cochera,Núñez,4,31.0
+cochera,Liniers,4,12.0
+cochera,San Nicolás,4,6.0
+cochera,Florencio Varela,4,51.8
+cochera,Ibarlucea,3,11.0
+cochera,San Martín,3,13.7
+cochera,Villa Pueyrredón,3,13.0
+cochera,Río Ceballos,3,9.7
+cochera,Malvinas Argentinas,3,34.7
+cochera,Sauce Viejo,3,28.3
+cochera,Pompeya,3,8.3
+cochera,Toay,3,29.7
+cochera,Saavedra,3,28.3
+cochera,Parque Chas,3,30.7
+cochera,Costa Esmeralda,3,16.7
+cochera,Villa Ortuzar,3,24.3
+cochera,Malagueño,3,10.3
+cochera,San Luis,3,38.7
+cochera,Parque Patricios,3,14.0
+cochera,Chapadmalal,3,10.0
+cochera,Tornquist,3,7.3
+cochera,Parque Chacabuco,3,3.0
+cochera,Villa Nueva,3,30.3
+cochera,Villa Carlos Paz,3,76.3
+cochera,José C Paz,3,15.3
+cochera,Resistencia,3,43.7
+cochera,Esperanza,2,35.5
+cochera,Cipolletti,2,14.5
+cochera,Lobos,2,6.5
+cochera,Villa General Mitre,2,23.0
+cochera,Sierras de Calamuchita,2,26.0
+cochera,Pergamino,2,169.0
+cochera,Veinticinco de Mayo,2,13.5
+cochera,Santiago del Estero,2,53.0
+cochera,Alta Gracia,2,10.5
+cochera,La Falda,2,1.0
+cochera,El Sauce,2,16.0
+cochera,Bialet Massé,2,26.5
+cochera,Mar del Tuyú,2,17.5
+cochera,Villa María,2,7.0
+cochera,Las Compuertas,2,64.0
+cochera,Esquel,2,22.0
+cochera,Villa Real,2,15.0
+cochera,San Salvador de Jujuy,2,39.0
+cochera,Monte Castro,2,40.5
+cochera,Berisso,2,10.0
+cochera,Villa Merlo,2,36.5
+cochera,Nuevo Torino,2,84.5
+cochera,Boedo,2,34.0
+cochera,Pueblo Esther,2,64.5
+cochera,San José del Rincón,2,13.5
+cochera,San Lorenzo,2,65.0
+cochera,San Rafael,2,12.0
+cochera,Corrientes,2,23.5
+cochera,Parque Centenario,2,8.0
+cochera,Merlo,2,26.5
+cochera,Santa María de Punilla,2,21.0
+cochera,Zárate,2,39.5
+cochera,Villa Amelia,2,13.0
+cochera,Reconquista,2,16.5
+cochera,Cruz de Piedra,2,51.5
+cochera,Ángel Gallardo,2,22.5
+cochera,Floresta,2,21.5
+cochera,Perdriel,2,16.5
+cochera,Villa Gesell,2,3.5
+cochera,Villa del Parque,2,2.0
+cochera,Villa Santa Rita,2,11.0
+cochera,Villa Los Aromos,1,1.0
+cochera,Villa Lugano,1,121.0
+cochera,Monte Hermoso,1,0.0
+cochera,General Lagos,1,41.0
+cochera,San Agustín,1,2.0
+cochera,Potrerillos,1,42.0
+cochera,San Nicolás de los Arroyos,1,3.0
+cochera,Lunlunta,1,4.0
+cochera,San Andrés de Giles,1,24.0
+cochera,Valeria del Mar,1,18.0
+cochera,Arroyo Leyes,1,36.0
+cochera,General Fernández Oro,1,6.0
+cochera,San Bernardo,1,10.0
+cochera,Santa Clara del Mar,1,18.0
+cochera,Magdalena,1,82.0
+cochera,La Paternal,1,9.0
+cochera,Las Paredes,1,3.0
+cochera,Villa del Dique,1,38.0
+cochera,General Roca,1,142.0
+cochera,Constitución,1,28.0
+cochera,Las Heras,1,43.0
+cochera,Roldán,1,27.0
+cochera,San Miguel del Monte,1,0.0
+cochera,Villa Cerro Azul,1,13.0
+cochera,Russell,1,15.0
+cochera,Goya,1,33.0
+cochera,Buena Nueva,1,16.0
+cochera,Miramar,1,39.0
+cochera,Vistalba,1,15.0
+cochera,Los Reartes,1,4.0
+cochera,Tunuyán,1,20.0
+cochera,Parque Avellaneda,1,31.0
+cochera,Pueblo Andino,1,0.0
+cochera,Necochea,1,20.0
+cochera,Villa Ciudad Parque Los Reartes,1,25.0
+cochera,Cosquín,1,2.0
+cochera,Rodeo de la Cruz,1,52.0
+cochera,General Juan Madariaga,1,58.0
+cochera,Villa Allende,1,20.0
+cochera,San Martín de los Andes,1,34.0
+cochera,Goudge,1,17.0
+cochera,Tafí Viejo,1,29.0
+cochera,Hurlingham,1,8.0
+cochera,San José,1,46.0
+cochera,Unquillo,1,17.0
+cochera,Centenario,1,10.0
+cochera,Recreo,1,45.0
+cochera,Mar de las Pampas,1,25.0
+cochera,Mar de Ajó,1,11.0
+cochera,Villa Giardino,1,6.0
+cochera,Rada Tilly,1,19.0
+departamento,Pilar,3118,20.1
+departamento,Rosario,2271,24.2
+departamento,Escobar,2179,20.7
+departamento,Uruguay,1862,17.8
+departamento,Córdoba,1800,21.2
+departamento,La Plata,1773,25.0
+departamento,Tigre,1656,18.9
+departamento,Palermo,1624,17.8
+departamento,Caballito,1033,18.0
+departamento,La Matanza,961,24.2
+departamento,Mar del Plata,942,20.4
+departamento,Recoleta,837,17.5
+departamento,Morón,746,22.1
+departamento,Belgrano,736,17.1
+departamento,Ciudad de Santa Fe,716,23.0
+departamento,Quilmes,713,24.0
+departamento,Lanús,687,23.5
+departamento,Vicente López,662,20.7
+departamento,Tres de Febrero,618,21.9
+departamento,Avellaneda,565,21.5
+departamento,Almagro,547,16.5
+departamento,General San Martín,543,20.9
+departamento,Villa Urquiza,538,16.8
+departamento,Flores,476,18.1
+departamento,San Isidro,473,21.8
+departamento,San Nicolás,466,19.1
+departamento,Núñez,454,19.2
+departamento,Neuquén,453,21.5
+departamento,Balvanera,452,18.7
+departamento,Villa Crespo,449,19.8
+departamento,Lomas de Zamora,443,22.1
+departamento,Ezeiza,381,22.8
+departamento,Barrio Norte,379,17.2
+departamento,Moreno,374,26.1
+departamento,Villa Devoto,373,16.0
+departamento,Cañuelas,362,26.5
+departamento,San Vicente,346,21.1
+departamento,Monserrat,320,16.1
+departamento,Ituzaingó,309,25.6
+departamento,Pinamar,307,19.2
+departamento,Retiro,299,16.1
+departamento,Esteban Echeverría,280,22.5
+departamento,San Miguel,262,18.2
+departamento,Luján de Cuyo,262,24.8
+departamento,Mataderos,257,17.9
+departamento,Almirante Brown,256,26.5
+departamento,Colegiales,251,17.8
+departamento,Bahía Blanca,239,25.3
+departamento,Berazategui,237,20.9
+departamento,San Telmo,235,16.6
+departamento,General Rodríguez,235,22.4
+departamento,San Carlos de Bariloche,234,27.4
+departamento,Maipú,233,23.9
+departamento,Parque Patricios,231,10.8
+departamento,Santo Tomé,228,23.6
+departamento,Puerto Madero,223,17.8
+departamento,Hurlingham,222,22.8
+departamento,Plottier,221,22.4
+departamento,Villa Carlos Paz,220,23.2
+departamento,Ciudad de Mendoza,220,21.8
+departamento,Luján,212,23.2
+departamento,Salta,206,23.1
+departamento,Godoy Cruz,202,24.6
+departamento,Villa del Parque,195,17.6
+departamento,Centro / Microcentro,187,15.2
+departamento,San Fernando,186,23.1
+departamento,San Cristobal,184,17.6
+departamento,Brandsen,176,27.9
+departamento,Liniers,171,18.6
+departamento,Funes,170,25.2
+departamento,Villa Luro,169,15.9
+departamento,Parque Chacabuco,167,19.4
+departamento,Villa Ortuzar,164,15.9
+departamento,Barracas,164,19.9
+departamento,Chacarita,158,19.1
+departamento,Rafaela,151,24.1
+departamento,Exaltación de la Cruz,150,19.4
+departamento,Saavedra,149,19.2
+departamento,Floresta,146,18.1
+departamento,Venado Tuerto,132,33.1
+departamento,Campana,130,20.7
+departamento,Monte Castro,130,19.4
+departamento,Parque Avellaneda,130,18.3
+departamento,Boedo,128,19.0
+departamento,Merlo,125,26.0
+departamento,Florencio Varela,125,25.3
+departamento,Villa Lugano,123,15.6
+departamento,Tandil,117,29.0
+departamento,Villa Pueyrredón,116,22.6
+departamento,Malvinas Argentinas,114,21.3
+departamento,Comodoro Rivadavia,114,30.2
+departamento,Villa Santa Rita,113,14.7
+departamento,Potrero de Garay,95,21.2
+departamento,José C Paz,95,21.6
+departamento,Parque Chas,94,21.0
+departamento,Villa General Mitre,93,18.8
+departamento,Constitución,91,19.6
+departamento,Roldán,89,24.8
+departamento,Villa Gesell,85,23.8
+departamento,Presidente Perón,85,26.3
+departamento,Cipolletti,84,24.1
+departamento,Pergamino,84,30.5
+departamento,Río Ceballos,83,25.4
+departamento,Reconquista,82,27.1
+departamento,Miramar,82,17.4
+departamento,Pompeya,81,19.4
+departamento,Resistencia,80,20.0
+departamento,Tanti,78,18.2
+departamento,La Calera,77,22.4
+departamento,Coghlan,77,19.5
+departamento,Sauce Viejo,77,21.3
+departamento,La Paternal,75,18.6
+departamento,Villa Allende,74,25.8
+departamento,Villa Nueva,73,30.1
+departamento,Zárate,73,19.0
+departamento,Arroyo Leyes,71,21.0
+departamento,Monte Hermoso,68,26.5
+departamento,Las Heras,67,30.2
+departamento,Unquillo,66,21.0
+departamento,San Miguel de Tucumán,64,17.6
+departamento,Villa Real,62,17.5
+departamento,Pueblo Esther,61,24.4
+departamento,San Lorenzo,61,20.4
+departamento,Pehuajó,61,33.0
+departamento,Posadas,60,12.2
+departamento,Ibarlucea,60,23.4
+departamento,San Martín,60,20.6
+departamento,Congreso,60,21.2
+departamento,San Rafael,59,26.3
+departamento,San Nicolás de los Arroyos,57,19.1
+departamento,La Boca,56,19.0
+departamento,Velez Sarsfield,54,21.5
+departamento,Añelo,53,20.9
+departamento,Santiago del Estero,52,29.9
+departamento,Santa María de Punilla,52,20.6
+departamento,Vistalba,52,23.6
+departamento,Villa Amelia,51,23.2
+departamento,Lunlunta,51,26.0
+departamento,San Bernardo,50,20.7
+departamento,Alta Gracia,49,18.9
+departamento,Ushuaia,48,23.0
+departamento,Mar Chiquita,48,24.1
+departamento,Necochea,48,20.5
+departamento,Santa Clara del Mar,47,19.7
+departamento,Las Compuertas,46,28.0
+departamento,San Salvador de Jujuy,45,24.0
+departamento,Los Reartes,43,14.0
+departamento,Esperanza,43,18.1
+departamento,Villa Yacanto,43,19.4
+departamento,Costa Esmeralda,42,20.8
+departamento,Santa Rosa,41,28.6
+departamento,Mayor Drummond,41,24.9
+departamento,Villa Soldati,40,17.8
+departamento,San Miguel del Monte,38,27.6
+departamento,Cruz de Piedra,38,27.2
+departamento,San Juan,37,17.2
+departamento,Santa Rosa de Calamuchita,37,16.9
+departamento,Esquel,36,27.0
+departamento,Toay,36,31.8
+departamento,Mar Azul,36,20.6
+departamento,Mar de las Pampas,36,17.6
+departamento,Mendiolaza,35,25.2
+departamento,Carmen de Areco,35,29.5
+departamento,General Roca,35,27.4
+departamento,Mar de Ajó,35,26.9
+departamento,Tribunales,34,22.2
+departamento,Granadero Baigorria,34,27.4
+departamento,Nuevo Torino,34,29.1
+departamento,Centenario,33,25.2
+departamento,Parque Centenario,33,14.4
+departamento,Perdriel,33,31.4
+departamento,Jesús Nazareno,32,15.1
+departamento,El Sauce,32,21.4
+departamento,San Martín de los Andes,32,33.8
+departamento,San José del Rincón,32,22.7
+departamento,Malagueño,31,22.5
+departamento,General Fernández Oro,31,31.1
+departamento,Los Corralitos,31,27.0
+departamento,Recreo,31,26.7
+departamento,Agronomía,30,21.4
+departamento,Dina Huapi,30,21.7
+departamento,General Lagos,30,22.3
+departamento,Berisso,30,23.3
+departamento,Balcarce,30,39.2
+departamento,Abasto,29,21.6
+departamento,Russell,29,35.6
+departamento,Santa Teresita,29,22.1
+departamento,Mar del Tuyú,29,19.3
+departamento,Magdalena,28,32.0
+departamento,Chacras de Coria,28,27.1
+departamento,Chapadmalal,28,16.5
+departamento,San Jerónimo Norte,28,27.0
+departamento,Veinticinco de Mayo,28,25.0
+departamento,Alvear,27,25.8
+departamento,Chascomús,27,35.4
+departamento,Rodeo de la Cruz,27,34.5
+departamento,La Cumbre,27,24.9
+departamento,Villa Giardino,26,13.5
+departamento,Villa La Angostura,26,26.1
+departamento,Villa Ciudad Parque Los Reartes,25,27.0
+departamento,Marcos Paz,25,25.0
+departamento,Versalles,23,11.9
+departamento,Las Paredes,23,18.7
+departamento,Salsipuedes,23,21.2
+departamento,Once,22,12.2
+departamento,Ángel Gallardo,22,26.2
+departamento,San Agustín,22,15.1
+departamento,Lobos,22,27.2
+departamento,Pueblo Andino,22,29.0
+departamento,Ostende,22,10.4
+departamento,Piñero,22,18.7
+departamento,Anisacate,22,19.2
+departamento,La Falda,22,20.5
+departamento,Cosquín,22,28.7
+departamento,Río Cuarto,21,18.6
+departamento,San Andrés de Giles,21,27.0
+departamento,El Challao,21,17.9
+departamento,Ataliva Roca,20,24.1
+departamento,Goya,20,36.9
+departamento,Tornquist,20,23.8
+departamento,Bialet Massé,20,21.9
+departamento,San José,20,29.4
+departamento,Colastiné,19,26.2
+departamento,Villa Icho Cruz,19,29.3
+departamento,Corrientes,19,34.6
+departamento,Villa Cerro Azul,19,25.4
+departamento,Tafí Viejo,19,29.8
+departamento,Villa Merlo,19,20.3
+departamento,Mayu Sumaj,18,15.8
+departamento,San Luis,18,27.7
+departamento,Villa Riachuelo,18,19.1
+departamento,General Juan Madariaga,18,24.2
+departamento,Cerrillos,17,32.9
+departamento,San Clemente del Tuyú,17,15.6
+departamento,Villa María,17,26.8
+departamento,Los Molinos,16,25.3
+departamento,Sierras de Calamuchita,16,21.3
+departamento,Coronel Rosales,15,36.8
+departamento,Colonia Popular,15,16.8
+departamento,Pujato Norte,15,26.7
+departamento,Juana Koslay,15,25.7
+departamento,Chivilcoy,15,25.7
+departamento,Goudge,15,32.5
+departamento,La Granja,15,20.3
+departamento,Villa del Dique,14,18.5
+departamento,Capitán Bermúdez,14,26.9
+departamento,Tunuyán,13,21.9
+departamento,Cariló,13,24.5
+departamento,La Carrera,13,24.2
+departamento,Villa Los Aromos,12,23.6
+departamento,Capilla del Monte,11,38.3
+departamento,Mercedes,11,18.8
+departamento,Villa General Belgrano,11,42.8
+departamento,Las Toninas,11,19.5
+departamento,Guaymallén,10,30.1
+departamento,Potrerillos,10,11.8
+departamento,Colonia Segovia,9,21.9
+departamento,Rada Tilly,8,14.6
+departamento,Valeria del Mar,7,17.6
+departamento,Buena Nueva,5,25.8
+departamento,Mari Menuco,4,40.0
+edificio,Pilar,23,46.5
+edificio,Uruguay,13,38.2
+edificio,La Plata,12,58.0
+edificio,Tigre,10,47.3
+edificio,Morón,9,46.8
+edificio,Rosario,8,56.1
+edificio,Palermo,7,33.7
+edificio,Escobar,7,19.6
+edificio,Lanús,5,55.6
+edificio,Mar del Plata,5,32.8
+edificio,Córdoba,5,68.4
+edificio,Tres de Febrero,5,14.2
+edificio,San Nicolás,4,42.0
+edificio,Belgrano,4,99.0
+edificio,Avellaneda,4,45.5
+edificio,Almagro,4,13.8
+edificio,Ezeiza,4,62.0
+edificio,Núñez,4,31.3
+edificio,Ituzaingó,3,64.0
+edificio,Vicente López,3,6.7
+edificio,Lomas de Zamora,3,34.7
+edificio,Tanti,3,28.0
+edificio,Moreno,3,31.3
+edificio,La Matanza,3,52.7
+edificio,Bahía Blanca,3,45.3
+edificio,Balvanera,3,60.7
+edificio,Neuquén,3,81.3
+edificio,Ciudad de Santa Fe,3,20.7
+edificio,Cañuelas,3,21.7
+edificio,Villa Devoto,2,32.0
+edificio,Santa María de Punilla,2,45.0
+edificio,Esteban Echeverría,2,41.0
+edificio,Río Ceballos,2,59.0
+edificio,San Cristobal,2,23.5
+edificio,Marcos Paz,2,10.5
+edificio,Villa Urquiza,2,81.5
+edificio,Centro / Microcentro,2,26.0
+edificio,Brandsen,2,33.0
+edificio,Hurlingham,2,68.5
+edificio,San Isidro,2,34.5
+edificio,Barrio Norte,2,19.5
+edificio,Sauce Viejo,2,39.5
+edificio,Quilmes,2,70.5
+edificio,Chacras de Coria,2,39.0
+edificio,Caballito,2,57.5
+edificio,Luján,2,61.5
+edificio,La Calera,2,32.5
+edificio,General Rodríguez,2,9.0
+edificio,Almirante Brown,2,44.5
+edificio,Villa del Parque,2,14.0
+edificio,Plottier,2,51.5
+edificio,Luján de Cuyo,2,57.5
+edificio,Chacarita,2,87.0
+edificio,Monserrat,2,38.0
+edificio,Tandil,2,56.0
+edificio,Pinamar,1,116.0
+edificio,San Miguel de Tucumán,1,48.0
+edificio,Presidente Perón,1,27.0
+edificio,San Miguel,1,69.0
+edificio,General Roca,1,17.0
+edificio,Mataderos,1,28.0
+edificio,Zárate,1,54.0
+edificio,Monte Castro,1,30.0
+edificio,Veinticinco de Mayo,1,0.0
+edificio,Recreo,1,42.0
+edificio,Villa General Mitre,1,36.0
+edificio,Villa Carlos Paz,1,43.0
+edificio,Villa Soldati,1,15.0
+edificio,Colonia Segovia,1,28.0
+edificio,Salta,1,51.0
+edificio,Godoy Cruz,1,102.0
+edificio,Maipú,1,14.0
+edificio,Unquillo,1,3.0
+edificio,Pueblo Esther,1,111.0
+edificio,Ciudad de Mendoza,1,32.0
+edificio,San Carlos de Bariloche,1,9.0
+edificio,Alta Gracia,1,3.0
+edificio,San Martín,1,48.0
+edificio,Malvinas Argentinas,1,15.0
+edificio,Russell,1,84.0
+edificio,Monte Hermoso,1,19.0
+edificio,Las Compuertas,1,4.0
+edificio,Los Corralitos,1,29.0
+edificio,Villa Ciudad Parque Los Reartes,1,8.0
+edificio,Florencio Varela,1,296.0
+edificio,Miramar,1,50.0
+edificio,La Boca,1,16.0
+edificio,Pergamino,1,127.0
+edificio,Mar del Tuyú,1,15.0
+edificio,General San Martín,1,6.0
+edificio,Costa Esmeralda,1,13.0
+edificio,Merlo,1,128.0
+edificio,Recoleta,1,14.0
+edificio,Venado Tuerto,1,71.0
+edificio,Puerto Madero,1,9.0
+edificio,Resistencia,1,10.0
+edificio,Ángel Gallardo,1,49.0
+edificio,Liniers,1,42.0
+edificio,Mayu Sumaj,1,10.0
+edificio,Colegiales,1,23.0
+edificio,Berazategui,1,58.0
+edificio,Reconquista,1,82.0
+galpon,Pilar,95,25.8
+galpon,Rosario,81,22.5
+galpon,Escobar,77,24.0
+galpon,La Plata,62,22.6
+galpon,Uruguay,58,30.6
+galpon,Palermo,52,31.8
+galpon,Córdoba,46,23.3
+galpon,Tigre,45,21.5
+galpon,Caballito,35,30.1
+galpon,Mar del Plata,33,32.7
+galpon,Tres de Febrero,32,38.7
+galpon,La Matanza,32,38.6
+galpon,Vicente López,26,36.2
+galpon,Belgrano,26,29.4
+galpon,Ciudad de Santa Fe,24,23.2
+galpon,Villa Crespo,22,24.5
+galpon,Quilmes,22,27.2
+galpon,Recoleta,22,31.2
+galpon,Colegiales,18,16.3
+galpon,Almagro,18,20.9
+galpon,Flores,17,24.2
+galpon,San Isidro,17,29.8
+galpon,Avellaneda,17,37.4
+galpon,Lanús,16,45.8
+galpon,Neuquén,15,23.8
+galpon,Villa Devoto,15,20.9
+galpon,General San Martín,15,49.1
+galpon,Morón,15,18.2
+galpon,Monserrat,14,35.1
+galpon,Moreno,14,41.5
+galpon,Villa Urquiza,14,21.1
+galpon,Núñez,13,23.2
+galpon,Barrio Norte,13,34.2
+galpon,Parque Patricios,12,15.1
+galpon,Pinamar,12,26.5
+galpon,San Vicente,12,25.2
+galpon,Balvanera,11,19.5
+galpon,Cañuelas,11,35.1
+galpon,Berazategui,11,25.8
+galpon,San Nicolás,11,27.6
+galpon,Ituzaingó,10,31.9
+galpon,Plottier,10,23.2
+galpon,Lomas de Zamora,10,36.4
+galpon,Luján de Cuyo,10,25.4
+galpon,Floresta,9,11.8
+galpon,San Miguel,9,45.3
+galpon,Potrero de Garay,9,60.8
+galpon,Villa Luro,9,30.4
+galpon,Florencio Varela,9,27.4
+galpon,Retiro,8,19.1
+galpon,Campana,8,19.9
+galpon,Ciudad de Mendoza,8,32.3
+galpon,Maipú,8,39.1
+galpon,Centro / Microcentro,7,25.1
+galpon,General Rodríguez,7,17.3
+galpon,Bahía Blanca,7,34.0
+galpon,Villa Carlos Paz,6,14.7
+galpon,Brandsen,6,47.5
+galpon,Chacarita,6,26.3
+galpon,Ezeiza,6,56.0
+galpon,Salta,6,43.2
+galpon,Exaltación de la Cruz,6,6.0
+galpon,Rafaela,6,36.3
+galpon,San Telmo,6,36.8
+galpon,Tandil,6,23.0
+galpon,General Fernández Oro,5,19.0
+galpon,Villa Pueyrredón,5,10.8
+galpon,Coghlan,5,25.2
+galpon,Saavedra,5,8.8
+galpon,San Cristobal,5,16.2
+galpon,Hurlingham,5,28.4
+galpon,Parque Chacabuco,5,17.4
+galpon,Monte Castro,5,46.0
+galpon,Puerto Madero,5,7.4
+galpon,Godoy Cruz,5,20.0
+galpon,Mataderos,5,35.2
+galpon,Santo Tomé,5,16.6
+galpon,Parque Chas,5,14.4
+galpon,Esteban Echeverría,4,28.7
+galpon,El Sauce,4,36.8
+galpon,Velez Sarsfield,4,22.8
+galpon,Los Reartes,4,23.3
+galpon,Villa del Parque,4,25.8
+galpon,Merlo,4,26.0
+galpon,Parque Avellaneda,4,17.8
+galpon,Barracas,4,29.3
+galpon,Funes,4,86.0
+galpon,Mendiolaza,4,51.0
+galpon,Constitución,4,20.5
+galpon,Pompeya,4,44.3
+galpon,Malvinas Argentinas,4,33.5
+galpon,Rodeo de la Cruz,3,20.0
+galpon,Monte Hermoso,3,63.0
+galpon,Comodoro Rivadavia,3,74.7
+galpon,Villa Yacanto,3,17.3
+galpon,Santa Clara del Mar,3,6.0
+galpon,Liniers,3,20.0
+galpon,Mar Chiquita,3,36.7
+galpon,Villa Soldati,3,27.3
+galpon,San Bernardo,3,27.0
+galpon,Villa Real,3,41.7
+galpon,Roldán,3,12.3
+galpon,Pergamino,3,9.3
+galpon,Santa Rosa,3,62.3
+galpon,Villa Ortuzar,3,10.7
+galpon,San Carlos de Bariloche,3,25.7
+galpon,Boedo,3,34.0
+galpon,Almirante Brown,3,20.7
+galpon,San Miguel de Tucumán,3,13.7
+galpon,Ibarlucea,3,5.7
+galpon,Resistencia,3,31.7
+galpon,Venado Tuerto,3,11.7
+galpon,Santiago del Estero,3,17.7
+galpon,Lunlunta,2,71.5
+galpon,Villa Merlo,2,43.0
+galpon,Rada Tilly,2,16.5
+galpon,Tribunales,2,36.5
+galpon,Unquillo,2,91.0
+galpon,Río Ceballos,2,12.0
+galpon,Villa Gesell,2,56.0
+galpon,Los Corralitos,2,20.0
+galpon,Russell,2,2.5
+galpon,Berisso,2,9.0
+galpon,Luján,2,31.0
+galpon,Posadas,2,21.5
+galpon,Cipolletti,2,7.5
+galpon,San Lorenzo,2,21.5
+galpon,Parque Centenario,2,15.5
+galpon,Villa Santa Rita,2,15.5
+galpon,Goudge,2,19.0
+galpon,Pehuajó,2,82.5
+galpon,San Rafael,2,15.5
+galpon,Santa Rosa de Calamuchita,2,23.0
+galpon,Nuevo Torino,2,25.0
+galpon,La Calera,2,9.5
+galpon,Reconquista,2,60.0
+galpon,Colastiné,2,15.0
+galpon,General Juan Madariaga,2,9.5
+galpon,José C Paz,2,20.5
+galpon,Esperanza,2,79.5
+galpon,San Nicolás de los Arroyos,2,49.0
+galpon,Ataliva Roca,2,59.0
+galpon,Mari Menuco,2,44.0
+galpon,Santa María de Punilla,2,95.0
+galpon,Mar de las Pampas,2,4.0
+galpon,Chacras de Coria,2,44.0
+galpon,Las Heras,2,33.0
+galpon,Mayu Sumaj,1,14.0
+galpon,Guaymallén,1,23.0
+galpon,San Luis,1,30.0
+galpon,Malagueño,1,25.0
+galpon,Potrerillos,1,16.0
+galpon,San Juan,1,12.0
+galpon,Zárate,1,5.0
+galpon,Presidente Perón,1,99.0
+galpon,Tunuyán,1,80.0
+galpon,San José,1,2.0
+galpon,Congreso,1,21.0
+galpon,Tanti,1,21.0
+galpon,Cruz de Piedra,1,24.0
+galpon,Villa General Mitre,1,2.0
+galpon,Jesús Nazareno,1,27.0
+galpon,San Andrés de Giles,1,4.0
+galpon,Carmen de Areco,1,17.0
+galpon,Costa Esmeralda,1,3.0
+galpon,Salsipuedes,1,12.0
+galpon,Abasto,1,0.0
+galpon,San Salvador de Jujuy,1,10.0
+galpon,Chapadmalal,1,37.0
+galpon,Mar del Tuyú,1,15.0
+galpon,Once,1,7.0
+galpon,Anisacate,1,29.0
+galpon,La Granja,1,10.0
+galpon,Añelo,1,79.0
+galpon,Bialet Massé,1,11.0
+galpon,Corrientes,1,28.0
+galpon,La Paternal,1,19.0
+galpon,Mar Azul,1,2.0
+galpon,San Agustín,1,15.0
+galpon,Pueblo Esther,1,19.0
+galpon,Villa General Belgrano,1,35.0
+galpon,San Miguel del Monte,1,35.0
+galpon,Sauce Viejo,1,136.0
+galpon,Goya,1,1.0
+galpon,Alvear,1,16.0
+galpon,Necochea,1,8.0
+galpon,Ushuaia,1,25.0
+galpon,Balcarce,1,54.0
+galpon,Las Compuertas,1,11.0
+galpon,Villa Lugano,1,5.0
+galpon,Valeria del Mar,1,24.0
+galpon,Villa Allende,1,9.0
+galpon,Las Toninas,1,37.0
+local,Pilar,203,25.5
+local,Escobar,158,24.8
+local,Rosario,138,31.6
+local,La Plata,129,25.8
+local,Córdoba,111,29.2
+local,Palermo,104,22.4
+local,Uruguay,96,19.4
+local,Tigre,94,27.5
+local,Mar del Plata,64,29.1
+local,La Matanza,62,28.7
+local,Caballito,60,25.8
+local,Quilmes,53,26.5
+local,Avellaneda,46,23.8
+local,Ciudad de Santa Fe,46,33.6
+local,Vicente López,46,21.2
+local,Morón,44,30.1
+local,Belgrano,43,20.6
+local,Recoleta,42,26.9
+local,Lanús,40,22.8
+local,Villa Urquiza,39,22.6
+local,Almagro,36,18.8
+local,General San Martín,35,23.9
+local,San Isidro,32,25.7
+local,Tres de Febrero,28,27.2
+local,Núñez,28,20.5
+local,Retiro,27,14.9
+local,Ezeiza,27,22.7
+local,Pinamar,27,20.0
+local,Villa Devoto,26,20.6
+local,San Nicolás,26,32.9
+local,Barrio Norte,26,21.2
+local,Luján de Cuyo,26,46.5
+local,Flores,26,28.6
+local,Balvanera,25,30.1
+local,Neuquén,25,24.2
+local,Cañuelas,24,32.1
+local,San Miguel,24,27.9
+local,Moreno,23,47.7
+local,Ituzaingó,23,31.4
+local,Lomas de Zamora,23,29.5
+local,Villa Crespo,22,30.5
+local,San Carlos de Bariloche,22,31.8
+local,Almirante Brown,20,37.9
+local,Esteban Echeverría,19,28.6
+local,San Telmo,18,25.0
+local,Colegiales,17,19.9
+local,Monserrat,17,17.8
+local,Centro / Microcentro,17,22.8
+local,Villa Luro,17,20.5
+local,Santo Tomé,17,29.4
+local,Maipú,16,23.9
+local,Bahía Blanca,16,46.4
+local,Brandsen,16,44.4
+local,Saavedra,16,31.8
+local,Berazategui,16,36.4
+local,San Fernando,16,39.1
+local,San Vicente,16,32.1
+local,Salta,14,52.9
+local,Villa del Parque,14,12.5
+local,Hurlingham,14,24.4
+local,Ciudad de Mendoza,14,28.3
+local,Funes,13,51.2
+local,Villa Ortuzar,13,18.1
+local,Liniers,12,51.6
+local,Parque Patricios,12,11.7
+local,General Rodríguez,12,30.7
+local,Luján,12,38.8
+local,Monte Castro,12,27.3
+local,Rafaela,11,55.1
+local,Mataderos,11,30.4
+local,Venado Tuerto,11,34.9
+local,Campana,11,48.8
+local,Parque Chacabuco,10,21.4
+local,Plottier,10,24.4
+local,Villa Carlos Paz,10,44.8
+local,Reconquista,10,35.7
+local,Villa Pueyrredón,10,24.2
+local,Arroyo Leyes,9,39.6
+local,Exaltación de la Cruz,9,31.1
+local,Floresta,9,15.2
+local,Parque Avellaneda,9,16.9
+local,Costa Esmeralda,8,10.6
+local,Tandil,8,31.4
+local,Potrero de Garay,8,45.6
+local,Malvinas Argentinas,8,42.6
+local,Boedo,8,37.8
+local,Godoy Cruz,8,29.9
+local,Villa Yacanto,8,34.8
+local,Barracas,8,35.6
+local,San Rafael,7,55.1
+local,San Lorenzo,7,8.7
+local,Villa Lugano,7,10.0
+local,San Cristobal,7,8.7
+local,Velez Sarsfield,7,15.3
+local,Miramar,7,15.1
+local,Florencio Varela,7,13.7
+local,Pompeya,6,28.5
+local,San José del Rincón,6,36.7
+local,La Paternal,6,14.0
+local,Parque Chas,6,11.2
+local,La Calera,6,22.2
+local,Puerto Madero,6,39.8
+local,José C Paz,5,30.2
+local,Villa Gesell,5,6.2
+local,Tanti,5,38.0
+local,San Miguel de Tucumán,5,22.8
+local,Necochea,5,14.4
+local,Villa Santa Rita,5,17.4
+local,Resistencia,5,35.4
+local,Monte Hermoso,5,55.2
+local,General Roca,5,42.2
+local,Cosquín,5,35.8
+local,Chacras de Coria,5,18.6
+local,Presidente Perón,5,34.8
+local,Ushuaia,5,19.8
+local,Comodoro Rivadavia,5,41.8
+local,Lunlunta,5,18.8
+local,Merlo,4,8.3
+local,San José,4,30.5
+local,La Boca,4,7.5
+local,Malagueño,4,32.0
+local,Ibarlucea,4,45.0
+local,Vistalba,4,28.5
+local,Las Heras,4,24.0
+local,Constitución,4,9.8
+local,Santa Clara del Mar,4,23.3
+local,Posadas,4,26.0
+local,Mendiolaza,4,14.3
+local,Añelo,4,7.3
+local,Santiago del Estero,4,9.5
+local,Esperanza,4,28.0
+local,Alta Gracia,4,15.0
+local,Tribunales,4,29.8
+local,Magdalena,4,18.0
+local,Villa Real,4,18.5
+local,Pergamino,4,23.0
+local,Coghlan,4,9.8
+local,Villa Allende,4,14.8
+local,Parque Centenario,3,24.3
+local,Roldán,3,30.3
+local,Tafí Viejo,3,2.3
+local,San Martín,3,11.3
+local,Marcos Paz,3,7.7
+local,Berisso,3,22.7
+local,Villa Nueva,3,19.7
+local,San Miguel del Monte,3,83.0
+local,Villa La Angostura,3,40.3
+local,Río Ceballos,3,22.3
+local,Chacarita,3,2.3
+local,Villa General Mitre,3,15.7
+local,Buena Nueva,3,69.7
+local,Pehuajó,3,15.3
+local,Ataliva Roca,3,54.3
+local,Alvear,3,16.7
+local,Sauce Viejo,3,15.0
+local,Mar Chiquita,3,48.3
+local,Santa María de Punilla,3,16.7
+local,Villa Icho Cruz,3,69.0
+local,Cipolletti,3,25.3
+local,Mar del Tuyú,3,30.0
+local,Unquillo,3,30.0
+local,San Salvador de Jujuy,3,9.7
+local,Esquel,2,2.5
+local,Carmen de Areco,2,37.5
+local,Toay,2,60.0
+local,Ostende,2,28.0
+local,Las Paredes,2,40.5
+local,Perdriel,2,17.5
+local,General Juan Madariaga,2,60.0
+local,La Carrera,2,55.5
+local,Sierras de Calamuchita,2,54.0
+local,Ángel Gallardo,2,37.0
+local,Jesús Nazareno,2,3.5
+local,Villa Amelia,2,142.5
+local,Chapadmalal,2,9.5
+local,San Agustín,2,24.5
+local,Rodeo de la Cruz,2,43.5
+local,Villa María,2,13.0
+local,La Cumbre,2,34.0
+local,San Nicolás de los Arroyos,2,10.5
+local,General Fernández Oro,2,6.0
+local,Goudge,2,21.5
+local,Villa Riachuelo,2,33.5
+local,Tornquist,2,41.5
+local,Villa Giardino,2,9.5
+local,Villa Cerro Azul,2,12.0
+local,San Bernardo,2,10.5
+local,Congreso,2,30.5
+local,General Lagos,2,33.5
+local,Santa Teresita,2,45.5
+local,Villa Soldati,2,20.5
+local,Potrerillos,2,17.0
+local,Chivilcoy,1,14.0
+local,Anisacate,1,35.0
+local,Valeria del Mar,1,39.0
+local,Once,1,27.0
+local,Los Reartes,1,9.0
+local,Cruz de Piedra,1,61.0
+local,Río Cuarto,1,4.0
+local,San Andrés de Giles,1,134.0
+local,Santa Rosa,1,34.0
+local,Los Corralitos,1,11.0
+local,San Juan,1,12.0
+local,Villa Merlo,1,83.0
+local,Villa del Dique,1,21.0
+local,Bialet Massé,1,0.0
+local,Agronomía,1,17.0
+local,Colonia Popular,1,9.0
+local,Veinticinco de Mayo,1,8.0
+local,Los Molinos,1,48.0
+local,Mayor Drummond,1,11.0
+local,Dina Huapi,1,42.0
+local,Pueblo Andino,1,51.0
+local,Colonia Segovia,1,17.0
+local,Mercedes,1,74.0
+local,Villa Los Aromos,1,51.0
+local,Guaymallén,1,4.0
+local,El Sauce,1,33.0
+local,Zárate,1,23.0
+local,La Granja,1,74.0
+local,Mari Menuco,1,39.0
+local,El Challao,1,34.0
+local,Chascomús,1,17.0
+local,Pueblo Esther,1,21.0
+local,Abasto,1,14.0
+local,Goya,1,39.0
+oficina,Pilar,154,24.5
+oficina,Rosario,137,25.0
+oficina,Palermo,124,21.7
+oficina,Escobar,104,24.2
+oficina,Uruguay,96,22.3
+oficina,Córdoba,94,30.3
+oficina,La Plata,87,24.5
+oficina,Tigre,76,18.7
+oficina,Caballito,63,23.3
+oficina,Mar del Plata,54,30.4
+oficina,Recoleta,47,18.1
+oficina,La Matanza,47,26.1
+oficina,Belgrano,45,23.2
+oficina,Lanús,40,35.6
+oficina,Tres de Febrero,37,30.3
+oficina,Flores,35,21.0
+oficina,Morón,35,21.2
+oficina,Ciudad de Santa Fe,34,21.7
+oficina,Quilmes,33,40.4
+oficina,Balvanera,31,22.9
+oficina,Neuquén,30,36.0
+oficina,Barrio Norte,30,18.3
+oficina,Núñez,30,17.6
+oficina,Vicente López,29,25.8
+oficina,Almagro,29,23.6
+oficina,Villa Urquiza,28,17.3
+oficina,Avellaneda,27,20.6
+oficina,Villa Devoto,27,24.3
+oficina,Monserrat,25,32.2
+oficina,San Miguel,23,23.3
+oficina,Villa Crespo,22,23.4
+oficina,Retiro,22,21.5
+oficina,General San Martín,21,33.7
+oficina,San Isidro,20,18.7
+oficina,Lomas de Zamora,20,18.4
+oficina,Moreno,19,19.9
+oficina,Cañuelas,19,22.5
+oficina,Berazategui,19,21.4
+oficina,San Nicolás,19,22.9
+oficina,Ituzaingó,17,28.3
+oficina,Mataderos,17,16.1
+oficina,San Carlos de Bariloche,15,33.0
+oficina,Colegiales,15,18.5
+oficina,Maipú,14,23.9
+oficina,Esteban Echeverría,14,38.0
+oficina,Almirante Brown,14,35.7
+oficina,Ezeiza,14,23.2
+oficina,Villa Carlos Paz,13,28.5
+oficina,Floresta,12,18.6
+oficina,Luján de Cuyo,12,18.4
+oficina,Plottier,12,28.9
+oficina,San Telmo,12,12.6
+oficina,Pinamar,12,35.6
+oficina,San Vicente,12,24.2
+oficina,Santo Tomé,11,22.6
+oficina,San Cristobal,11,18.5
+oficina,Villa Luro,11,12.4
+oficina,Centro / Microcentro,11,13.0
+oficina,Bahía Blanca,11,16.0
+oficina,Parque Patricios,11,17.0
+oficina,Chacarita,11,30.9
+oficina,General Rodríguez,10,24.8
+oficina,Presidente Perón,9,55.1
+oficina,Hurlingham,9,18.1
+oficina,Brandsen,9,38.9
+oficina,San Fernando,9,21.4
+oficina,Villa Lugano,9,18.8
+oficina,Villa Ortuzar,9,13.3
+oficina,Villa del Parque,8,37.4
+oficina,Liniers,8,18.3
+oficina,Villa Santa Rita,8,26.4
+oficina,Parque Avellaneda,8,30.5
+oficina,Salta,8,17.5
+oficina,Luján,8,26.4
+oficina,Resistencia,8,12.5
+oficina,La Calera,8,26.9
+oficina,Saavedra,7,14.7
+oficina,Funes,7,24.7
+oficina,Boedo,7,10.3
+oficina,Godoy Cruz,7,16.6
+oficina,Parque Chacabuco,7,8.4
+oficina,Barracas,7,26.6
+oficina,San Lorenzo,7,13.4
+oficina,Villa Gesell,7,45.1
+oficina,San Bernardo,7,36.6
+oficina,Villa Pueyrredón,7,9.3
+oficina,Monte Castro,6,39.2
+oficina,Merlo,6,44.5
+oficina,Florencio Varela,6,17.7
+oficina,Ciudad de Mendoza,6,17.7
+oficina,Puerto Madero,6,21.2
+oficina,Tandil,6,28.0
+oficina,Venado Tuerto,5,15.2
+oficina,Rafaela,5,19.2
+oficina,Potrero de Garay,5,26.2
+oficina,Pergamino,5,58.8
+oficina,Parque Chas,5,7.6
+oficina,Sauce Viejo,5,26.6
+oficina,Pueblo Esther,5,45.0
+oficina,Constitución,5,28.2
+oficina,Unquillo,5,19.6
+oficina,Roldán,5,18.6
+oficina,Villa General Mitre,4,12.8
+oficina,Reconquista,4,5.3
+oficina,Añelo,4,30.8
+oficina,Esperanza,4,28.0
+oficina,Villa Real,4,7.5
+oficina,Recreo,4,56.5
+oficina,La Boca,4,7.5
+oficina,San Martín de los Andes,4,18.5
+oficina,Campana,4,17.0
+oficina,Necochea,4,12.3
+oficina,San Miguel de Tucumán,4,12.8
+oficina,Congreso,4,8.8
+oficina,Posadas,3,58.7
+oficina,Carmen de Areco,3,11.7
+oficina,Monte Hermoso,3,16.0
+oficina,Cipolletti,3,53.0
+oficina,Las Compuertas,3,31.3
+oficina,San Rafael,3,72.0
+oficina,San Juan,3,17.3
+oficina,Sierras de Calamuchita,3,31.0
+oficina,San José,3,9.3
+oficina,Pehuajó,3,16.7
+oficina,Pompeya,3,13.0
+oficina,Mar Azul,3,62.7
+oficina,San Martín,3,40.7
+oficina,Costa Esmeralda,3,53.3
+oficina,Malagueño,3,8.3
+oficina,Arroyo Leyes,3,35.7
+oficina,Ushuaia,2,15.0
+oficina,Exaltación de la Cruz,2,42.5
+oficina,Villa Merlo,2,30.0
+oficina,Santa María de Punilla,2,36.5
+oficina,Perdriel,2,45.5
+oficina,Villa Giardino,2,12.5
+oficina,Mar Chiquita,2,6.5
+oficina,Velez Sarsfield,2,26.0
+oficina,Centenario,2,36.5
+oficina,Zárate,2,19.5
+oficina,Villa Yacanto,2,16.0
+oficina,Russell,2,36.5
+oficina,San Jerónimo Norte,2,14.5
+oficina,San Agustín,2,15.0
+oficina,Chacras de Coria,2,11.0
+oficina,Ibarlucea,2,14.0
+oficina,La Paternal,2,6.5
+oficina,Versalles,2,23.0
+oficina,La Cumbre,2,11.5
+oficina,Santa Clara del Mar,2,33.5
+oficina,Coghlan,2,40.0
+oficina,Santiago del Estero,2,32.0
+oficina,Mendiolaza,2,10.0
+oficina,General Fernández Oro,2,108.5
+oficina,Granadero Baigorria,2,13.5
+oficina,Chascomús,2,50.0
+oficina,Mar del Tuyú,2,11.0
+oficina,General Lagos,2,27.0
+oficina,Río Ceballos,2,33.0
+oficina,Los Reartes,2,27.0
+oficina,Comodoro Rivadavia,2,45.0
+oficina,Parque Centenario,2,27.5
+oficina,Toay,2,12.0
+oficina,Mayu Sumaj,2,13.0
+oficina,Villa Nueva,2,54.5
+oficina,Marcos Paz,2,12.0
+oficina,Lunlunta,2,28.5
+oficina,Mar de Ajó,2,16.0
+oficina,Malvinas Argentinas,2,7.5
+oficina,Alvear,2,13.5
+oficina,General Juan Madariaga,2,15.5
+oficina,Los Molinos,1,3.0
+oficina,General Roca,1,2.0
+oficina,Juana Koslay,1,40.0
+oficina,Capitán Bermúdez,1,33.0
+oficina,Villa Riachuelo,1,13.0
+oficina,Esquel,1,83.0
+oficina,Cerrillos,1,56.0
+oficina,Vistalba,1,34.0
+oficina,Las Heras,1,14.0
+oficina,Veinticinco de Mayo,1,53.0
+oficina,San Nicolás de los Arroyos,1,11.0
+oficina,San Andrés de Giles,1,74.0
+oficina,Villa La Angostura,1,11.0
+oficina,José C Paz,1,27.0
+oficina,Rada Tilly,1,21.0
+oficina,Nuevo Torino,1,6.0
+oficina,Villa General Belgrano,1,31.0
+oficina,Mari Menuco,1,38.0
+oficina,Rodeo de la Cruz,1,21.0
+oficina,San Salvador de Jujuy,1,9.0
+oficina,Villa Cerro Azul,1,174.0
+oficina,Ataliva Roca,1,13.0
+oficina,Abasto,1,20.0
+oficina,Tafí Viejo,1,42.0
+oficina,Villa del Dique,1,52.0
+oficina,Berisso,1,45.0
+oficina,Pujato Norte,1,16.0
+oficina,Tribunales,1,1.0
+oficina,Santa Rosa,1,9.0
+oficina,Ostende,1,25.0
+oficina,Villa Ciudad Parque Los Reartes,1,1.0
+oficina,Mar de las Pampas,1,17.0
+oficina,Colonia Popular,1,6.0
+oficina,Coronel Rosales,1,23.0
+oficina,Cariló,1,18.0
+oficina,Alta Gracia,1,32.0
+oficina,La Granja,1,126.0
+oficina,Once,1,18.0
+oficina,Dina Huapi,1,12.0
+oficina,Santa Rosa de Calamuchita,1,21.0
+oficina,Goya,1,50.0
+oficina,La Falda,1,2.0
+oficina,Los Corralitos,1,149.0
+oficina,Agronomía,1,6.0
+oficina,Piñero,1,1.0
+oficina,Colastiné,1,7.0
+oficina,San José del Rincón,1,32.0
+oficina,Las Toninas,1,54.0
+oficina,Villa Allende,1,6.0
+ph,Pilar,382,23.6
+ph,Rosario,276,23.9
+ph,Escobar,270,21.7
+ph,La Plata,247,24.2
+ph,Uruguay,234,22.8
+ph,Córdoba,206,23.7
+ph,Tigre,194,21.6
+ph,Palermo,160,24.4
+ph,La Matanza,135,30.9
+ph,Mar del Plata,103,22.2
+ph,Ciudad de Santa Fe,95,25.8
+ph,Tres de Febrero,93,25.2
+ph,Quilmes,88,31.2
+ph,Morón,87,24.0
+ph,Lanús,87,24.3
+ph,Caballito,82,22.7
+ph,Vicente López,82,25.0
+ph,Recoleta,78,20.3
+ph,Neuquén,73,30.9
+ph,Lomas de Zamora,73,23.5
+ph,Belgrano,66,17.6
+ph,General San Martín,63,22.9
+ph,Flores,61,19.4
+ph,Avellaneda,60,26.8
+ph,San Isidro,59,21.2
+ph,Villa Crespo,55,21.9
+ph,Almagro,53,26.4
+ph,Ezeiza,53,23.5
+ph,Balvanera,50,27.1
+ph,Ituzaingó,49,28.4
+ph,San Vicente,49,23.7
+ph,Villa Urquiza,49,17.8
+ph,Moreno,48,28.6
+ph,Núñez,47,20.7
+ph,Esteban Echeverría,43,22.5
+ph,San Nicolás,42,17.4
+ph,Pinamar,40,19.9
+ph,Luján de Cuyo,38,23.4
+ph,Cañuelas,37,27.9
+ph,Bahía Blanca,37,25.5
+ph,Barrio Norte,37,17.9
+ph,Monserrat,34,17.7
+ph,Santo Tomé,34,26.3
+ph,San Miguel,33,22.1
+ph,Hurlingham,33,21.3
+ph,Brandsen,32,25.7
+ph,Retiro,31,15.8
+ph,Godoy Cruz,30,30.8
+ph,Luján,30,22.1
+ph,Villa Devoto,29,16.4
+ph,Colegiales,29,21.4
+ph,Maipú,29,20.3
+ph,Berazategui,26,27.6
+ph,Almirante Brown,25,28.7
+ph,Mataderos,25,19.7
+ph,Puerto Madero,24,18.4
+ph,San Carlos de Bariloche,24,30.6
+ph,Plottier,24,21.3
+ph,General Rodríguez,24,27.8
+ph,Villa Carlos Paz,24,21.8
+ph,Centro / Microcentro,23,16.4
+ph,Salta,22,18.6
+ph,Villa del Parque,22,14.2
+ph,Ciudad de Mendoza,21,31.5
+ph,Comodoro Rivadavia,21,29.0
+ph,San Fernando,21,19.9
+ph,Tandil,21,31.2
+ph,Funes,19,22.6
+ph,Campana,18,23.6
+ph,Villa Ortuzar,18,17.9
+ph,Chacarita,18,8.8
+ph,Las Heras,17,33.7
+ph,Florencio Varela,17,25.4
+ph,Barracas,17,15.5
+ph,San Telmo,16,32.5
+ph,Sauce Viejo,16,20.8
+ph,Pergamino,16,20.6
+ph,Parque Avellaneda,16,23.3
+ph,Rafaela,16,33.8
+ph,Presidente Perón,15,28.4
+ph,Monte Castro,15,19.3
+ph,Malvinas Argentinas,15,33.6
+ph,Parque Patricios,15,8.4
+ph,Exaltación de la Cruz,15,29.5
+ph,Cipolletti,14,31.5
+ph,Parque Chacabuco,14,22.5
+ph,Floresta,13,19.9
+ph,Villa Luro,13,16.3
+ph,Villa Allende,13,33.2
+ph,Saavedra,13,28.2
+ph,San Miguel del Monte,12,27.8
+ph,San Nicolás de los Arroyos,12,33.4
+ph,Venado Tuerto,12,28.6
+ph,Villa Nueva,12,37.8
+ph,San Cristobal,12,20.5
+ph,Parque Chas,12,20.6
+ph,Tanti,12,22.6
+ph,Liniers,12,11.8
+ph,Chacras de Coria,11,18.8
+ph,Costa Esmeralda,11,26.8
+ph,Coghlan,11,29.3
+ph,Villa Gesell,11,27.4
+ph,Reconquista,11,29.9
+ph,Río Ceballos,11,22.0
+ph,Ibarlucea,10,18.3
+ph,Ataliva Roca,10,36.9
+ph,Arroyo Leyes,10,20.3
+ph,Villa Pueyrredón,10,16.4
+ph,Granadero Baigorria,10,21.4
+ph,Pueblo Esther,10,22.0
+ph,Alta Gracia,10,23.9
+ph,Monte Hermoso,9,22.9
+ph,Unquillo,9,47.2
+ph,Zárate,9,46.9
+ph,Boedo,9,29.9
+ph,Velez Sarsfield,8,19.4
+ph,Merlo,8,56.5
+ph,Santa Rosa,8,24.1
+ph,Resistencia,8,10.5
+ph,José C Paz,8,34.1
+ph,Villa Santa Rita,8,16.1
+ph,Villa Lugano,8,18.8
+ph,Santa María de Punilla,8,31.9
+ph,Necochea,8,57.9
+ph,Potrero de Garay,8,17.4
+ph,San Martín,8,13.5
+ph,General Roca,8,23.5
+ph,Pehuajó,8,18.0
+ph,Constitución,8,24.4
+ph,General Fernández Oro,8,27.4
+ph,San Miguel de Tucumán,8,23.9
+ph,San Lorenzo,8,15.1
+ph,Miramar,7,14.9
+ph,Mar de Ajó,7,35.7
+ph,Berisso,7,31.7
+ph,Santiago del Estero,7,25.4
+ph,San José,7,34.4
+ph,La Falda,7,17.3
+ph,La Paternal,7,17.7
+ph,Esperanza,7,31.7
+ph,Mar Chiquita,6,35.2
+ph,Santa Rosa de Calamuchita,6,19.3
+ph,Alvear,6,17.5
+ph,Abasto,6,26.5
+ph,Santa Clara del Mar,6,18.7
+ph,Mayor Drummond,6,10.0
+ph,Villa Yacanto,6,19.8
+ph,Vistalba,6,16.7
+ph,Jesús Nazareno,6,9.0
+ph,Chascomús,6,25.8
+ph,Roldán,6,43.2
+ph,Villa General Mitre,6,13.3
+ph,Villa Amelia,5,26.4
+ph,La Calera,5,19.0
+ph,Las Compuertas,5,43.8
+ph,Mendiolaza,5,4.8
+ph,Los Corralitos,5,25.2
+ph,Capitán Bermúdez,5,33.4
+ph,Esquel,5,20.8
+ph,La Boca,5,10.4
+ph,Villa Real,5,16.6
+ph,Chapadmalal,4,29.3
+ph,General Lagos,4,10.0
+ph,Villa Los Aromos,4,41.8
+ph,Piñero,4,20.8
+ph,San José del Rincón,4,13.0
+ph,Coronel Rosales,4,51.3
+ph,Toay,4,20.0
+ph,Veinticinco de Mayo,4,32.0
+ph,Ostende,4,20.5
+ph,Villa María,4,31.3
+ph,Rada Tilly,4,27.8
+ph,San Martín de los Andes,4,12.8
+ph,Posadas,4,10.3
+ph,Cosquín,4,36.5
+ph,Recreo,4,37.0
+ph,Villa Icho Cruz,4,6.8
+ph,Lunlunta,4,9.0
+ph,Magdalena,4,17.0
+ph,Los Reartes,4,18.8
+ph,Mar Azul,4,22.5
+ph,Guaymallén,4,37.0
+ph,San Agustín,4,12.0
+ph,Centenario,4,27.8
+ph,San Salvador de Jujuy,4,50.8
+ph,Villa Giardino,4,12.0
+ph,Las Toninas,4,13.5
+ph,Villa La Angostura,3,23.7
+ph,Mar del Tuyú,3,11.0
+ph,General Juan Madariaga,3,17.3
+ph,Rodeo de la Cruz,3,54.0
+ph,Once,3,36.7
+ph,Parque Centenario,3,29.3
+ph,San Bernardo,3,8.0
+ph,Pompeya,3,84.0
+ph,Perdriel,3,36.0
+ph,Valeria del Mar,3,12.7
+ph,Russell,3,60.7
+ph,San Andrés de Giles,3,8.7
+ph,Cruz de Piedra,3,6.7
+ph,San Jerónimo Norte,3,11.0
+ph,Salsipuedes,3,5.0
+ph,Tornquist,3,55.7
+ph,Dina Huapi,3,25.0
+ph,Goudge,3,14.0
+ph,La Cumbre,3,13.0
+ph,Nuevo Torino,3,24.7
+ph,Villa Ciudad Parque Los Reartes,3,12.0
+ph,Mayu Sumaj,3,22.3
+ph,Colastiné,3,27.7
+ph,Anisacate,2,21.5
+ph,Buena Nueva,2,39.0
+ph,Balcarce,2,41.5
+ph,Mari Menuco,2,71.0
+ph,Villa Soldati,2,31.5
+ph,Ushuaia,2,10.5
+ph,Congreso,2,39.5
+ph,Chivilcoy,2,28.5
+ph,San Luis,2,24.5
+ph,San Rafael,2,45.0
+ph,Villa General Belgrano,2,4.0
+ph,Santa Teresita,2,35.0
+ph,Sierras de Calamuchita,2,76.0
+ph,Pueblo Andino,2,37.5
+ph,El Challao,2,31.0
+ph,Pujato Norte,2,33.0
+ph,Villa Cerro Azul,2,7.5
+ph,San Juan,2,13.0
+ph,Marcos Paz,2,27.5
+ph,Villa Merlo,2,49.0
+ph,Las Paredes,2,11.5
+ph,Cariló,2,27.0
+ph,Lobos,2,6.0
+ph,Ángel Gallardo,2,11.0
+ph,Juana Koslay,2,3.0
+ph,Tunuyán,2,133.0
+ph,Carmen de Areco,2,12.5
+ph,La Carrera,1,50.0
+ph,Mar de las Pampas,1,19.0
+ph,Tafí Viejo,1,27.0
+ph,Malagueño,1,1.0
+ph,La Granja,1,73.0
+ph,Agronomía,1,52.0
+ph,Río Cuarto,1,8.0
+ph,Goya,1,46.0
+ph,Tribunales,1,2.0
+ph,Capilla del Monte,1,45.0
+ph,Villa del Dique,1,67.0
+ph,San Clemente del Tuyú,1,5.0
+ph,Añelo,1,12.0
+ph,Cerrillos,1,84.0
+ph,Corrientes,1,6.0
+ph,Versalles,1,25.0
+quinta,Pilar,50,21.6
+quinta,La Plata,35,27.1
+quinta,Rosario,31,28.6
+quinta,Uruguay,29,29.1
+quinta,Escobar,29,25.6
+quinta,Córdoba,25,34.4
+quinta,La Matanza,17,14.0
+quinta,Palermo,16,27.6
+quinta,Tigre,16,39.3
+quinta,Quilmes,13,23.5
+quinta,Avellaneda,12,32.8
+quinta,Lanús,11,59.5
+quinta,Mar del Plata,11,32.4
+quinta,Recoleta,11,16.5
+quinta,Ciudad de Santa Fe,10,21.1
+quinta,Tres de Febrero,10,22.7
+quinta,Almagro,9,19.8
+quinta,Morón,9,28.7
+quinta,General San Martín,9,42.3
+quinta,Vicente López,9,31.7
+quinta,San Vicente,9,57.9
+quinta,Caballito,8,42.9
+quinta,Villa Crespo,8,24.8
+quinta,Ezeiza,8,31.3
+quinta,San Miguel,7,22.1
+quinta,Flores,7,29.9
+quinta,Bahía Blanca,7,31.4
+quinta,Almirante Brown,7,11.9
+quinta,Belgrano,7,31.4
+quinta,Plottier,7,74.0
+quinta,General Rodríguez,6,27.3
+quinta,Lomas de Zamora,6,33.0
+quinta,Berazategui,6,28.7
+quinta,Neuquén,6,38.2
+quinta,Moreno,6,28.2
+quinta,Cañuelas,6,22.5
+quinta,Villa Urquiza,6,13.0
+quinta,Monserrat,5,23.0
+quinta,Floresta,5,15.8
+quinta,Barrio Norte,5,17.0
+quinta,San Isidro,5,50.0
+quinta,San Cristobal,5,37.0
+quinta,Balvanera,4,24.3
+quinta,Tandil,4,32.0
+quinta,Villa Devoto,4,24.8
+quinta,San Nicolás,4,26.5
+quinta,Maipú,4,28.8
+quinta,Núñez,4,23.5
+quinta,Salta,4,32.8
+quinta,Ciudad de Mendoza,4,31.8
+quinta,Esteban Echeverría,4,19.3
+quinta,Florencio Varela,4,42.8
+quinta,San Telmo,3,29.0
+quinta,Congreso,3,10.7
+quinta,Roldán,3,16.3
+quinta,Villa Nueva,3,48.7
+quinta,Tribunales,3,61.3
+quinta,Santo Tomé,3,30.7
+quinta,Luján de Cuyo,3,52.3
+quinta,Villa Carlos Paz,3,35.3
+quinta,Villa del Parque,3,31.3
+quinta,Cipolletti,3,23.7
+quinta,Ituzaingó,3,58.0
+quinta,Constitución,3,21.0
+quinta,Villa Lugano,2,20.0
+quinta,Godoy Cruz,2,28.5
+quinta,San Miguel de Tucumán,2,64.0
+quinta,Santa Rosa de Calamuchita,2,3.0
+quinta,San Lorenzo,2,23.0
+quinta,Campana,2,38.0
+quinta,Villa Luro,2,90.5
+quinta,Malvinas Argentinas,2,21.0
+quinta,San Martín,2,16.0
+quinta,Villa Ortuzar,2,19.0
+quinta,Los Molinos,2,55.0
+quinta,Arroyo Leyes,2,19.0
+quinta,Villa Gesell,2,14.0
+quinta,Luján,2,16.0
+quinta,Zárate,2,2.5
+quinta,General Roca,2,65.5
+quinta,Tanti,2,53.0
+quinta,San Fernando,2,26.0
+quinta,Exaltación de la Cruz,2,23.0
+quinta,General Juan Madariaga,2,19.0
+quinta,Rafaela,2,66.5
+quinta,Puerto Madero,2,9.0
+quinta,Villa Amelia,2,18.5
+quinta,Pueblo Esther,2,126.0
+quinta,Centro / Microcentro,2,16.0
+quinta,Resistencia,2,17.5
+quinta,La Boca,2,44.5
+quinta,San Martín de los Andes,2,11.5
+quinta,Villa General Mitre,2,25.0
+quinta,Agronomía,2,39.0
+quinta,Parque Patricios,2,47.0
+quinta,Pinamar,2,35.5
+quinta,Sauce Viejo,1,8.0
+quinta,Mataderos,1,12.0
+quinta,San Miguel del Monte,1,36.0
+quinta,Cariló,1,4.0
+quinta,Miramar,1,16.0
+quinta,Añelo,1,7.0
+quinta,Mayu Sumaj,1,28.0
+quinta,Esquel,1,4.0
+quinta,Capilla del Monte,1,4.0
+quinta,Rodeo de la Cruz,1,41.0
+quinta,El Sauce,1,66.0
+quinta,Santa Clara del Mar,1,53.0
+quinta,Presidente Perón,1,27.0
+quinta,Liniers,1,10.0
+quinta,Retiro,1,11.0
+quinta,Perdriel,1,7.0
+quinta,Berisso,1,0.0
+quinta,Coghlan,1,8.0
+quinta,Hurlingham,1,1.0
+quinta,Mayor Drummond,1,7.0
+quinta,Once,1,49.0
+quinta,Comodoro Rivadavia,1,20.0
+quinta,Parque Chacabuco,1,36.0
+quinta,Capitán Bermúdez,1,24.0
+quinta,Brandsen,1,5.0
+quinta,Posadas,1,25.0
+quinta,Unquillo,1,14.0
+quinta,Abasto,1,3.0
+quinta,Ataliva Roca,1,1.0
+quinta,Merlo,1,21.0
+quinta,Villa La Angostura,1,71.0
+quinta,Russell,1,0.0
+quinta,Las Paredes,1,39.0
+quinta,Jesús Nazareno,1,2.0
+quinta,Mendiolaza,1,110.0
+quinta,Boedo,1,36.0
+quinta,San Jerónimo Norte,1,7.0
+quinta,San Carlos de Bariloche,1,17.0
+quinta,Los Corralitos,1,7.0
+quinta,José C Paz,1,20.0
+quinta,Villa Real,1,44.0
+quinta,Villa Yacanto,1,22.0
+quinta,Monte Castro,1,34.0
+quinta,Colonia Popular,1,46.0
+quinta,Tafí Viejo,1,23.0
+quinta,Santa María de Punilla,1,4.0
+quinta,Ibarlucea,1,32.0
+quinta,Recreo,1,19.0
+quinta,Pergamino,1,18.0
+quinta,La Calera,1,87.0
+quinta,Chacarita,1,18.0
+quinta,Centenario,1,12.0
+quinta,La Carrera,1,32.0
+quinta,Venado Tuerto,1,50.0
+quinta,Villa Allende,1,14.0
+quinta,Villa Icho Cruz,1,38.0
+quinta,Villa Cerro Azul,1,60.0
+terreno,Pilar,769,40.1
+terreno,Rosario,707,40.9
+terreno,Escobar,542,36.4
+terreno,La Plata,526,41.3
+terreno,Córdoba,440,42.2
+terreno,Tigre,409,39.6
+terreno,Uruguay,377,40.9
+terreno,Palermo,291,34.6
+terreno,La Matanza,270,40.6
+terreno,Mar del Plata,220,41.4
+terreno,Quilmes,207,37.3
+terreno,Ciudad de Santa Fe,200,41.1
+terreno,Morón,191,40.5
+terreno,Caballito,187,38.1
+terreno,Lanús,186,36.6
+terreno,Vicente López,185,33.9
+terreno,Tres de Febrero,179,40.3
+terreno,Avellaneda,161,39.9
+terreno,Recoleta,153,39.3
+terreno,Lomas de Zamora,133,43.2
+terreno,Cañuelas,133,43.1
+terreno,Moreno,132,47.4
+terreno,General San Martín,128,38.1
+terreno,San Isidro,128,42.0
+terreno,Belgrano,126,42.3
+terreno,Neuquén,118,37.0
+terreno,Ezeiza,111,49.3
+terreno,San Vicente,111,35.9
+terreno,Flores,108,43.4
+terreno,Ituzaingó,98,43.1
+terreno,Luján de Cuyo,93,36.8
+terreno,Esteban Echeverría,91,41.5
+terreno,Villa Urquiza,88,40.8
+terreno,Almirante Brown,87,38.9
+terreno,Balvanera,86,38.9
+terreno,Núñez,79,46.7
+terreno,Barrio Norte,78,38.1
+terreno,Bahía Blanca,77,42.5
+terreno,Pinamar,77,39.3
+terreno,San Carlos de Bariloche,77,41.5
+terreno,Almagro,74,41.7
+terreno,San Miguel,74,36.3
+terreno,Hurlingham,72,39.9
+terreno,Ciudad de Mendoza,71,38.0
+terreno,Santo Tomé,70,41.2
+terreno,Berazategui,69,43.1
+terreno,Villa Devoto,66,37.5
+terreno,Luján,65,38.8
+terreno,Villa Crespo,64,38.9
+terreno,Plottier,64,39.3
+terreno,General Rodríguez,62,34.4
+terreno,San Nicolás,62,33.8
+terreno,Maipú,61,36.2
+terreno,Brandsen,58,44.3
+terreno,Parque Patricios,57,25.1
+terreno,Monserrat,56,40.0
+terreno,Godoy Cruz,51,32.5
+terreno,Villa Carlos Paz,50,44.9
+terreno,Colegiales,50,32.8
+terreno,Funes,49,46.8
+terreno,Salta,48,43.0
+terreno,San Fernando,48,48.4
+terreno,Retiro,44,44.2
+terreno,Rafaela,44,38.9
+terreno,Mataderos,43,35.7
+terreno,Puerto Madero,43,35.3
+terreno,Comodoro Rivadavia,42,50.4
+terreno,Villa del Parque,42,31.7
+terreno,Campana,40,35.4
+terreno,Liniers,39,42.5
+terreno,Centro / Microcentro,37,17.3
+terreno,Venado Tuerto,37,34.4
+terreno,Tandil,37,34.0
+terreno,Presidente Perón,35,42.4
+terreno,Exaltación de la Cruz,33,38.8
+terreno,Merlo,32,42.9
+terreno,San Telmo,31,29.8
+terreno,Florencio Varela,31,31.0
+terreno,San Cristobal,31,36.4
+terreno,Villa Ortuzar,31,29.6
+terreno,Pergamino,31,41.9
+terreno,Villa Luro,30,42.9
+terreno,Saavedra,29,48.8
+terreno,Tanti,29,40.0
+terreno,Floresta,27,34.3
+terreno,San Lorenzo,27,35.4
+terreno,Potrero de Garay,27,53.4
+terreno,Sauce Viejo,27,33.1
+terreno,Resistencia,27,34.4
+terreno,Malvinas Argentinas,27,32.6
+terreno,Monte Castro,26,44.2
+terreno,Roldán,26,41.8
+terreno,Parque Avellaneda,25,46.3
+terreno,San Nicolás de los Arroyos,24,39.9
+terreno,José C Paz,24,46.3
+terreno,Cipolletti,23,67.7
+terreno,Villa Pueyrredón,23,48.4
+terreno,Arroyo Leyes,23,52.4
+terreno,Chacarita,23,31.3
+terreno,Reconquista,22,53.6
+terreno,Villa Lugano,22,39.5
+terreno,Pehuajó,21,44.1
+terreno,Río Ceballos,21,39.0
+terreno,Parque Chacabuco,21,35.4
+terreno,Villa Gesell,21,57.8
+terreno,Santiago del Estero,21,41.4
+terreno,Esperanza,21,49.9
+terreno,Barracas,20,44.7
+terreno,Parque Chas,20,37.1
+terreno,Villa Nueva,19,36.6
+terreno,Los Corralitos,19,27.8
+terreno,Pueblo Esther,19,31.4
+terreno,Zárate,19,32.4
+terreno,Las Heras,19,44.4
+terreno,Veinticinco de Mayo,18,20.5
+terreno,Velez Sarsfield,18,51.7
+terreno,Mar Chiquita,18,50.7
+terreno,Esquel,17,35.5
+terreno,Miramar,17,44.9
+terreno,San Bernardo,17,21.6
+terreno,Santa Rosa de Calamuchita,17,23.7
+terreno,Santa Rosa,17,42.7
+terreno,Villa Allende,17,32.4
+terreno,Costa Esmeralda,17,23.2
+terreno,La Calera,17,47.7
+terreno,Añelo,16,32.1
+terreno,Villa Amelia,16,43.9
+terreno,Pompeya,16,26.3
+terreno,Vistalba,16,44.3
+terreno,Villa Santa Rita,16,39.7
+terreno,Coghlan,16,48.4
+terreno,Unquillo,16,31.5
+terreno,Mar del Tuyú,15,34.1
+terreno,San Martín,15,26.4
+terreno,Los Reartes,15,25.3
+terreno,Las Compuertas,15,48.3
+terreno,Santa Clara del Mar,15,50.8
+terreno,Santa María de Punilla,15,65.2
+terreno,Ibarlucea,15,64.1
+terreno,Monte Hermoso,14,51.5
+terreno,Mayor Drummond,13,32.5
+terreno,General Roca,13,35.5
+terreno,Boedo,13,36.2
+terreno,San Rafael,12,37.6
+terreno,Nuevo Torino,12,26.6
+terreno,Chacras de Coria,12,50.3
+terreno,Villa Yacanto,12,46.7
+terreno,San José del Rincón,12,54.3
+terreno,Villa General Mitre,11,38.7
+terreno,Necochea,11,69.6
+terreno,Ushuaia,11,28.8
+terreno,Ataliva Roca,11,58.5
+terreno,Abasto,11,28.3
+terreno,Granadero Baigorria,11,42.3
+terreno,Villa La Angostura,11,23.5
+terreno,San José,11,58.9
+terreno,Constitución,11,55.9
+terreno,Carmen de Areco,11,36.8
+terreno,San Salvador de Jujuy,10,49.0
+terreno,Piñero,10,39.9
+terreno,San Miguel del Monte,10,36.5
+terreno,San Miguel de Tucumán,10,45.2
+terreno,Lunlunta,10,59.4
+terreno,Magdalena,10,32.0
+terreno,Juana Koslay,10,38.9
+terreno,Pueblo Andino,10,47.9
+terreno,Villa Giardino,10,30.6
+terreno,Mendiolaza,9,25.4
+terreno,La Falda,9,53.6
+terreno,Berisso,9,55.0
+terreno,Malagueño,9,45.2
+terreno,Rodeo de la Cruz,9,47.4
+terreno,Corrientes,9,33.3
+terreno,San Jerónimo Norte,9,45.2
+terreno,Jesús Nazareno,9,27.0
+terreno,Alta Gracia,8,65.5
+terreno,Mercedes,8,31.9
+terreno,El Challao,8,65.0
+terreno,Villa Merlo,8,46.4
+terreno,El Sauce,8,17.1
+terreno,Recreo,8,38.1
+terreno,Coronel Rosales,8,35.3
+terreno,Centenario,8,30.5
+terreno,Lobos,8,30.5
+terreno,Mar de Ajó,7,59.4
+terreno,Dina Huapi,7,27.4
+terreno,Chascomús,7,69.1
+terreno,Cosquín,7,50.7
+terreno,San Agustín,7,14.0
+terreno,Tornquist,7,46.9
+terreno,Rada Tilly,7,37.7
+terreno,Villa María,7,42.6
+terreno,La Paternal,7,16.3
+terreno,San Clemente del Tuyú,7,44.4
+terreno,Cariló,7,31.0
+terreno,Toay,7,41.1
+terreno,Villa Real,6,27.7
+terreno,Ostende,6,73.5
+terreno,General Fernández Oro,6,54.2
+terreno,Las Paredes,6,29.2
+terreno,Tafí Viejo,6,52.8
+terreno,Cruz de Piedra,6,43.3
+terreno,San Martín de los Andes,6,63.2
+terreno,Potrerillos,6,17.8
+terreno,Los Molinos,6,30.2
+terreno,Buena Nueva,6,36.0
+terreno,Cerrillos,6,76.5
+terreno,Chapadmalal,6,59.7
+terreno,Russell,6,3.5
+terreno,San Luis,6,14.5
+terreno,Congreso,6,34.8
+terreno,San Andrés de Giles,6,33.3
+terreno,Goya,5,27.6
+terreno,General Juan Madariaga,5,40.4
+terreno,Balcarce,5,115.6
+terreno,La Boca,5,45.6
+terreno,Parque Centenario,5,20.6
+terreno,Mar Azul,5,18.8
+terreno,Marcos Paz,5,69.0
+terreno,Alvear,5,15.2
+terreno,Capitán Bermúdez,5,32.0
+terreno,Colonia Segovia,5,28.8
+terreno,Villa Cerro Azul,5,59.6
+terreno,La Granja,5,64.2
+terreno,Ángel Gallardo,5,52.0
+terreno,Tunuyán,5,32.8
+terreno,Chivilcoy,4,35.0
+terreno,Once,4,36.5
+terreno,La Carrera,4,32.5
+terreno,Mayu Sumaj,4,33.8
+terreno,La Cumbre,4,75.3
+terreno,Capilla del Monte,4,43.3
+terreno,Santa Teresita,4,40.3
+terreno,Sierras de Calamuchita,4,60.3
+terreno,Pujato Norte,4,72.3
+terreno,General Lagos,4,23.0
+terreno,Goudge,4,13.0
+terreno,Mari Menuco,4,40.5
+terreno,Mar de las Pampas,3,49.0
+terreno,Anisacate,3,40.7
+terreno,Agronomía,3,24.3
+terreno,Villa Los Aromos,3,63.0
+terreno,Villa Riachuelo,3,35.3
+terreno,Villa General Belgrano,3,16.7
+terreno,Villa Soldati,3,100.3
+terreno,Colastiné,3,29.0
+terreno,Villa Ciudad Parque Los Reartes,3,55.0
+terreno,Villa Icho Cruz,3,47.0
+terreno,Bialet Massé,2,22.5
+terreno,Villa del Dique,2,23.5
+terreno,Perdriel,2,66.5
+terreno,Tribunales,2,17.5
+terreno,Posadas,2,20.5
+terreno,Río Cuarto,2,64.5
+terreno,Colonia Popular,2,61.0
+terreno,Valeria del Mar,2,90.5
+terreno,Las Toninas,1,41.0
+terreno,Guaymallén,1,80.0
+terreno,Versalles,1,83.0
+terreno,San Juan,1,27.0

@@ -1,0 +1,147 @@
+[
+ {
+  "id": "Q01",
+  "nivel": 1,
+  "pregunta": "¿Cuántos listings hay publicados en Capital Federal?",
+  "columnas_clave": [
+   "listings_publicados"
+  ]
+ },
+ {
+  "id": "Q02",
+  "nivel": 1,
+  "pregunta": "¿Cuál es el precio promedio de un departamento en venta en La Plata en octubre 2026?",
+  "columnas_clave": [
+   "precio_promedio_usd"
+  ]
+ },
+ {
+  "id": "Q03",
+  "nivel": 1,
+  "pregunta": "¿Cuántos leads se recibieron en todo el país el mes pasado?",
+  "columnas_clave": [
+   "leads"
+  ]
+ },
+ {
+  "id": "Q04",
+  "nivel": 2,
+  "pregunta": "¿Cuántos leads generó cada propiedad en Capital Federal con precio entre USD 200.000 y 500.000 en los últimos 3 meses?",
+  "columnas_clave": [
+   "listing_id",
+   "leads"
+  ]
+ },
+ {
+  "id": "Q05",
+  "nivel": 2,
+  "pregunta": "¿Cuál es el precio por m2 en cada barrio de Capital Federal?",
+  "columnas_clave": [
+   "barrio_caba",
+   "precio_m2_usd"
+  ]
+ },
+ {
+  "id": "Q06",
+  "nivel": 2,
+  "pregunta": "¿Cuál es la tasa de conversión (leads sobre visitas) por tipo de propiedad?",
+  "columnas_clave": [
+   "tipo_propiedad",
+   "tasa_conversion_pct"
+  ]
+ },
+ {
+  "id": "Q07",
+  "nivel": 2,
+  "pregunta": "¿Cuál es el CPL (costo por lead) por campaña en el último trimestre?",
+  "columnas_clave": [
+   "campana",
+   "cpl_ars"
+  ]
+ },
+ {
+  "id": "Q08",
+  "nivel": 3,
+  "pregunta": "¿Cómo evolucionó el volumen de listings publicados mes a mes en los últimos 12 meses, separado por provincia?",
+  "columnas_clave": [
+   "periodo",
+   "provincia",
+   "listings_publicados"
+  ]
+ },
+ {
+  "id": "Q09",
+  "nivel": 3,
+  "pregunta": "¿Cuáles son las 10 propiedades con más leads y qué porcentaje del total de leads representa cada una?",
+  "columnas_clave": [
+   "leads",
+   "pct_del_total"
+  ]
+ },
+ {
+  "id": "Q10",
+  "nivel": 3,
+  "pregunta": "¿Cuáles son las 10 propiedades con más impresiones que no tienen leads en los últimos 60 días?",
+  "columnas_clave": [
+   "impresiones"
+  ]
+ },
+ {
+  "id": "Q11",
+  "nivel": 3,
+  "pregunta": "¿Cuál es el tiempo promedio desde la publicación hasta el primer lead, por tipo de propiedad y ciudad?",
+  "columnas_clave": [
+   "tipo_propiedad",
+   "ciudad",
+   "dias_promedio_primer_lead"
+  ]
+ },
+ {
+  "id": "Q12",
+  "nivel": 3,
+  "pregunta": "¿Cuántas visitas tiene cada rango de precios de propiedades (bajo, medio y alto), su precio mínimo, máximo y promedio?",
+  "columnas_clave": [
+   "rango_precio",
+   "visitas",
+   "precio_min",
+   "precio_max",
+   "precio_promedio"
+  ]
+ },
+ {
+  "id": "Q13",
+  "nivel": 4,
+  "pregunta": "Para departamentos en Capital Federal con precio entre USD 200.000 y 400.000 publicados hace menos de 6 meses, ¿cuál es el promedio de días desde que se publica hasta que se da de baja?",
+  "columnas_clave": [
+   "dias_promedio_hasta_baja"
+  ]
+ },
+ {
+  "id": "Q14",
+  "nivel": 4,
+  "pregunta": "¿Cuántos leads por aviso recibe cada plan de publicación, separando los leads que llegan por campañas pagas de los orgánicos, por tipo de operación?",
+  "columnas_clave": [
+   "operacion",
+   "plan",
+   "leads_pagos_por_aviso",
+   "leads_organicos_por_aviso"
+  ]
+ },
+ {
+  "id": "Q15",
+  "nivel": 4,
+  "pregunta": "¿Cuáles son los barrios con mayor crecimiento en oferta de propiedades (mes a mes) y cómo varía su precio medio en ese período?",
+  "columnas_clave": [
+   "barrio_caba",
+   "var_precio_pct"
+  ]
+ },
+ {
+  "id": "Q16",
+  "nivel": 4,
+  "pregunta": "¿Qué ubicaciones geográficas tienen demanda alta (leads) pero oferta baja (listings), y cuál es su precio promedio?",
+  "columnas_clave": [
+   "ciudad"
+  ]
+ }
+]

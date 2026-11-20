@@ -1,0 +1,13 @@
+plan_publicacion,tipo_de_operacion,leads_pagos,leads_organicos,total_avisos
+destacado,alquiler,2046,3895,1549
+destacado,alquiler_temporal,143,259,149
+destacado,venta,6270,11997,3691
+gratis,alquiler,1998,3992,3036
+gratis,alquiler_temporal,123,246,241
+gratis,venta,5709,11459,7560
+simple,alquiler,22456,43988,26293
+simple,alquiler_temporal,1311,2632,2162
+simple,venta,64728,127724,64272
+super_destacado,alquiler,6370,12394,4033
+super_destacado,alquiler_temporal,385,748,385
+super_destacado,venta,18158,35635,9168

@@ -1,0 +1,18 @@
+[
+  {
+    "pregunta": "¿Cuántos avisos de alquiler había online en Córdoba al cierre de septiembre de 2026?",
+    "sql": "SELECT COUNT(DISTINCT listing_id) AS avisos\nFROM `uean-493522.proptech.listings`\nWHERE provincia = 'Córdoba'\n  AND operacion = 'alquiler'\n  AND periodo = 202609\n  AND aviso_online_al_cierre = 1"
+  },
+  {
+    "pregunta": "¿Cuántas sesiones hubo por dispositivo en la app durante agosto de 2026?",
+    "sql": "SELECT device, COUNT(DISTINCT unique_session_id) AS sesiones\nFROM `uean-493522.proptech.ga4`\nWHERE event_date BETWEEN '2026-08-01' AND '2026-08-31'\n  AND platform = 'app'\nGROUP BY device\nORDER BY sesiones DESC"
+  },
+  {
+    "pregunta": "¿Qué 5 cuentas publicadoras recibieron más leads por WhatsApp en septiembre de 2026?",
+    "sql": "SELECT cuenta_publicadora, COUNT(*) AS leads\nFROM `uean-493522.proptech.leads`\nWHERE fecha_lead >= TIMESTAMP '2026-09-01'\n  AND fecha_lead < TIMESTAMP '2026-10-01'\n  AND canal = 'whatsapp'\n  AND lead_borrado = 0\nGROUP BY cuenta_publicadora\nORDER BY leads DESC\nLIMIT 5"
+  },
+  {
+    "pregunta": "¿Cuántos leads recibieron en 2026 los PH en venta de Rosario, según su cantidad de ambientes?",
+    "sql": "WITH ph AS (\n  SELECT DISTINCT listing_id, ambientes\n  FROM `uean-493522.proptech.listings`\n  WHERE ciudad = 'Rosario'\n    AND tipo_propiedad = 'ph'\n    AND operacion = 'venta'\n)\nSELECT ph.ambientes, COUNT(*) AS leads\nFROM `uean-493522.proptech.leads` AS l\nJOIN ph ON CAST(l.listing_id AS INT64) = ph.listing_id\nWHERE l.fecha_lead >= TIMESTAMP '2026-01-01'\n  AND l.lead_borrado = 0\nGROUP BY ph.ambientes\nORDER BY ph.ambientes"
+  }
+]

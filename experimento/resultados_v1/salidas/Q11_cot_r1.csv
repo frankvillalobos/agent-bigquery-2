@@ -1,0 +1,2182 @@
+tipo_propiedad,ciudad,avg_days_to_first_lead
+casa,Abasto,37.46666666666667
+casa,Agronomía,52.0
+casa,Almagro,31.666666666666664
+casa,Almirante Brown,37.45673076923077
+casa,Alta Gracia,60.888888888888886
+casa,Alvear,37.0
+casa,Anisacate,53.27777777777778
+casa,Arroyo Leyes,41.06976744186046
+casa,Ataliva Roca,51.896551724137936
+casa,Avellaneda,42.45812807881773
+casa,Añelo,49.608695652173914
+casa,Bahía Blanca,49.86818181818182
+casa,Balcarce,60.45454545454545
+casa,Balvanera,36.90756302521009
+casa,Barracas,41.45333333333333
+casa,Barrio Norte,30.626794258373206
+casa,Belgrano,35.92572944297082
+casa,Berazategui,42.39999999999999
+casa,Berisso,22.61111111111111
+casa,Bialet Massé,45.74999999999999
+casa,Boedo,39.30555555555556
+casa,Brandsen,43.15555555555556
+casa,Buena Nueva,54.57142857142857
+casa,Caballito,31.357723577235774
+casa,Campana,49.901234567901234
+casa,Capilla del Monte,53.3
+casa,Capitán Bermúdez,58.800000000000004
+casa,Cariló,35.93333333333333
+casa,Carmen de Areco,56.44
+casa,Cañuelas,40.587044534412954
+casa,Centenario,31.733333333333334
+casa,Centro / Microcentro,27.50574712643678
+casa,Cerrillos,46.25
+casa,Chacarita,36.702127659574465
+casa,Chacras de Coria,26.904761904761905
+casa,Chapadmalal,48.81818181818183
+casa,Chascomús,60.46666666666666
+casa,Chivilcoy,70.4
+casa,Cipolletti,35.21212121212121
+casa,Ciudad de Mendoza,44.28494623655913
+casa,Ciudad de Santa Fe,40.34701492537313
+casa,Coghlan,40.23529411764706
+casa,Colastiné,29.958333333333336
+casa,Colegiales,28.571428571428573
+casa,Colonia Popular,46.5
+casa,Colonia Segovia,31.2
+casa,Comodoro Rivadavia,42.46017699115044
+casa,Congreso,35.09090909090909
+casa,Constitución,26.41304347826087
+casa,Coronel Rosales,38.77272727272727
+casa,Corrientes,54.095238095238095
+casa,Cosquín,30.130434782608695
+casa,Costa Esmeralda,27.788461538461537
+casa,Cruz de Piedra,36.70833333333334
+casa,Córdoba,39.52833200319233
+casa,Dina Huapi,30.25
+casa,El Challao,40.25
+casa,El Sauce,45.846153846153854
+casa,Escobar,39.26691176470589
+casa,Esperanza,31.38095238095238
+casa,Esquel,47.60606060606061
+casa,Esteban Echeverría,49.517766497461935
+casa,Exaltación de la Cruz,39.445544554455445
+casa,Ezeiza,40.69069069069068
+casa,Florencio Varela,42.66666666666667
+casa,Flores,30.88973384030418
+casa,Floresta,36.8375
+casa,Funes,44.642857142857146
+casa,General Fernández Oro,33.96000000000001
+casa,General Juan Madariaga,27.538461538461537
+casa,General Lagos,51.699999999999996
+casa,General Roca,52.48780487804878
+casa,General Rodríguez,38.402234636871505
+casa,General San Martín,39.9004975124378
+casa,Godoy Cruz,41.68531468531469
+casa,Goudge,43.33333333333333
+casa,Goya,37.40909090909091
+casa,Granadero Baigorria,35.44444444444444
+casa,Guaymallén,35.857142857142854
+casa,Hurlingham,45.4765100671141
+casa,Ibarlucea,45.236842105263165
+casa,Ituzaingó,44.174273858921154
+casa,Jesús Nazareno,26.8
+casa,José C Paz,54.077777777777776
+casa,Juana Koslay,56.705882352941174
+casa,La Boca,34.60869565217391
+casa,La Calera,40.319148936170215
+casa,La Carrera,50.69230769230769
+casa,La Cumbre,26.05263157894737
+casa,La Falda,39.55555555555555
+casa,La Granja,44.69230769230769
+casa,La Matanza,42.93205317577548
+casa,La Paternal,35.58620689655172
+casa,La Plata,41.30903790087465
+casa,Lanús,42.38160469667319
+casa,Las Compuertas,44.08510638297873
+casa,Las Heras,37.53333333333334
+casa,Las Paredes,24.81818181818182
+casa,Las Toninas,28.90909090909091
+casa,Liniers,34.648936170212764
+casa,Lobos,43.11764705882353
+casa,Lomas de Zamora,43.498652291105124
+casa,Los Corralitos,42.93939393939394
+casa,Los Molinos,25.25
+casa,Los Reartes,36.60526315789474
+casa,Luján,39.24666666666666
+casa,Luján de Cuyo,40.958762886597945
+casa,Lunlunta,52.50000000000001
+casa,Magdalena,70.22727272727273
+casa,Maipú,41.69613259668508
+casa,Malagueño,28.105263157894736
+casa,Malvinas Argentinas,33.33846153846154
+casa,Mar Azul,22.111111111111107
+casa,Mar Chiquita,50.51785714285714
+casa,Mar de Ajó,39.72727272727273
+casa,Mar de las Pampas,53.45454545454545
+casa,Mar del Plata,38.34699853587116
+casa,Mar del Tuyú,32.25
+casa,Marcos Paz,37.99999999999999
+casa,Mari Menuco,41.81818181818182
+casa,Mataderos,30.450000000000003
+casa,Mayor Drummond,42.84615384615384
+casa,Mayu Sumaj,32.42857142857143
+casa,Mendiolaza,43.79310344827587
+casa,Mercedes,22.454545454545453
+casa,Merlo,46.27272727272728
+casa,Miramar,30.086956521739133
+casa,Monserrat,36.095238095238095
+casa,Monte Castro,41.18840579710145
+casa,Monte Hermoso,38.699999999999996
+casa,Moreno,51.5236051502146
+casa,Morón,39.66269841269842
+casa,Necochea,55.714285714285715
+casa,Neuquén,41.975903614457835
+casa,Nuevo Torino,40.95652173913044
+casa,Núñez,34.302904564315355
+casa,Once,26.823529411764707
+casa,Ostende,47.0
+casa,Palermo,34.63020833333335
+casa,Parque Avellaneda,41.13636363636364
+casa,Parque Centenario,19.999999999999996
+casa,Parque Chacabuco,29.817073170731703
+casa,Parque Chas,36.464285714285715
+casa,Parque Patricios,20.475806451612904
+casa,Pehuajó,51.17241379310345
+casa,Perdriel,37.458333333333336
+casa,Pergamino,53.28169014084507
+casa,Pilar,38.70718765074771
+casa,Pinamar,35.24299065420561
+casa,Piñero,65.05555555555556
+casa,Plottier,43.10897435897436
+casa,Pompeya,37.71052631578947
+casa,Posadas,22.76923076923077
+casa,Potrerillos,51.400000000000006
+casa,Potrero de Garay,40.25000000000001
+casa,Presidente Perón,31.853658536585364
+casa,Pueblo Andino,28.782608695652176
+casa,Pueblo Esther,31.0
+casa,Puerto Madero,37.58267716535433
+casa,Pujato Norte,51.07142857142857
+casa,Quilmes,41.520084566596196
+casa,Rada Tilly,69.21052631578948
+casa,Rafaela,36.54255319148936
+casa,Recoleta,33.137420718816074
+casa,Reconquista,47.984375
+casa,Recreo,57.5
+casa,Resistencia,40.35185185185185
+casa,Retiro,29.15151515151515
+casa,Rodeo de la Cruz,38.31818181818182
+casa,Roldán,45.9516129032258
+casa,Rosario,39.953265428400236
+casa,Russell,42.96296296296296
+casa,Río Ceballos,43.09615384615385
+casa,Río Cuarto,44.2
+casa,Saavedra,40.42391304347826
+casa,Salsipuedes,18.9
+casa,Salta,35.77300613496932
+casa,San Agustín,36.375
+casa,San Andrés de Giles,39.875
+casa,San Bernardo,35.28571428571429
+casa,San Carlos de Bariloche,41.79888268156425
+casa,San Clemente del Tuyú,23.909090909090907
+casa,San Cristobal,29.855421686746986
+casa,San Fernando,40.927927927927925
+casa,San Isidro,36.63548387096774
+casa,San Jerónimo Norte,58.05882352941176
+casa,San José,35.88235294117647
+casa,San José del Rincón,38.05882352941177
+casa,San Juan,40.8
+casa,San Lorenzo,36.359375
+casa,San Luis,62.18181818181819
+casa,San Martín,32.5
+casa,San Martín de los Andes,28.75
+casa,San Miguel,34.12796208530807
+casa,San Miguel de Tucumán,30.28125
+casa,San Miguel del Monte,34.69444444444445
+casa,San Nicolás,36.466346153846146
+casa,San Nicolás de los Arroyos,43.472727272727276
+casa,San Rafael,35.0
+casa,San Salvador de Jujuy,47.375
+casa,San Telmo,38.252873563218394
+casa,San Vicente,38.94444444444444
+casa,Santa Clara del Mar,32.199999999999996
+casa,Santa María de Punilla,48.019999999999996
+casa,Santa Rosa,48.8
+casa,Santa Rosa de Calamuchita,26.25
+casa,Santa Teresita,39.99999999999999
+casa,Santiago del Estero,47.59574468085106
+casa,Santo Tomé,40.28666666666667
+casa,Sauce Viejo,44.04838709677419
+casa,Sierras de Calamuchita,38.53333333333333
+casa,Tafí Viejo,57.18181818181818
+casa,Tandil,38.3956043956044
+casa,Tanti,43.07017543859649
+casa,Tigre,35.3824074074074
+casa,Toay,44.90909090909091
+casa,Tornquist,41.578947368421055
+casa,Tres de Febrero,40.45494505494505
+casa,Tribunales,53.45454545454545
+casa,Tunuyán,67.42857142857143
+casa,Unquillo,38.142857142857146
+casa,Uruguay,35.28681506849315
+casa,Ushuaia,47.608695652173914
+casa,Valeria del Mar,53.214285714285715
+casa,Veinticinco de Mayo,56.07407407407407
+casa,Velez Sarsfield,42.39473684210527
+casa,Venado Tuerto,43.14406779661017
+casa,Versalles,41.46153846153845
+casa,Vicente López,36.01552106430155
+casa,Villa Allende,59.22222222222223
+casa,Villa Amelia,50.8125
+casa,Villa Carlos Paz,39.516129032258064
+casa,Villa Cerro Azul,57.9
+casa,Villa Ciudad Parque Los Reartes,5.4
+casa,Villa Crespo,34.840304182509506
+casa,Villa Devoto,31.62886597938144
+casa,Villa General Belgrano,83.53846153846155
+casa,Villa General Mitre,48.21212121212121
+casa,Villa Gesell,38.52
+casa,Villa Giardino,28.714285714285715
+casa,Villa Icho Cruz,37.5
+casa,Villa La Angostura,19.416666666666668
+casa,Villa Los Aromos,45.333333333333336
+casa,Villa Lugano,34.88135593220339
+casa,Villa Luro,37.23655913978495
+casa,Villa María,40.18181818181818
+casa,Villa Merlo,66.0
+casa,Villa Nueva,29.867647058823533
+casa,Villa Ortuzar,32.04807692307692
+casa,Villa Pueyrredón,39.54237288135593
+casa,Villa Real,30.678571428571427
+casa,Villa Riachuelo,58.888888888888886
+casa,Villa Santa Rita,34.568627450980394
+casa,Villa Soldati,32.833333333333336
+casa,Villa Urquiza,32.27272727272727
+casa,Villa Yacanto,42.30555555555555
+casa,Villa del Dique,55.77777777777778
+casa,Villa del Parque,33.436974789915965
+casa,Vistalba,35.25714285714287
+casa,Zárate,47.62499999999999
+casa,Ángel Gallardo,68.61538461538461
+cochera,Abasto,170.0
+cochera,Almagro,23.285714285714285
+cochera,Almirante Brown,34.30769230769231
+cochera,Alta Gracia,10.5
+cochera,Alvear,23.0
+cochera,Arroyo Leyes,115.0
+cochera,Avellaneda,34.22727272727273
+cochera,Bahía Blanca,69.6
+cochera,Balvanera,47.0
+cochera,Barracas,20.5
+cochera,Barrio Norte,18.9
+cochera,Belgrano,16.5625
+cochera,Berazategui,33.77777777777778
+cochera,Berisso,10.0
+cochera,Bialet Massé,26.5
+cochera,Boedo,34.0
+cochera,Brandsen,46.166666666666664
+cochera,Buena Nueva,16.0
+cochera,Caballito,38.2
+cochera,Campana,26.2
+cochera,Cañuelas,54.0625
+cochera,Centenario,10.0
+cochera,Centro / Microcentro,17.0
+cochera,Chacarita,30.2
+cochera,Chacras de Coria,130.0
+cochera,Chapadmalal,10.0
+cochera,Cipolletti,14.5
+cochera,Ciudad de Mendoza,65.0
+cochera,Ciudad de Santa Fe,33.36363636363637
+cochera,Coghlan,77.0
+cochera,Colegiales,20.25
+cochera,Comodoro Rivadavia,69.14285714285715
+cochera,Congreso,53.0
+cochera,Constitución,28.0
+cochera,Corrientes,23.5
+cochera,Cosquín,4.0
+cochera,Costa Esmeralda,16.666666666666668
+cochera,Cruz de Piedra,51.5
+cochera,Córdoba,34.57377049180328
+cochera,El Sauce,16.0
+cochera,Escobar,36.23529411764706
+cochera,Esperanza,92.33333333333334
+cochera,Esquel,22.0
+cochera,Esteban Echeverría,16.22222222222222
+cochera,Exaltación de la Cruz,14.75
+cochera,Ezeiza,17.833333333333332
+cochera,Florencio Varela,57.2
+cochera,Flores,66.07692307692308
+cochera,Floresta,21.5
+cochera,Funes,33.0
+cochera,General Fernández Oro,6.0
+cochera,General Juan Madariaga,58.0
+cochera,General Lagos,41.0
+cochera,General Roca,142.0
+cochera,General Rodríguez,22.727272727272727
+cochera,General San Martín,43.214285714285715
+cochera,Godoy Cruz,62.66666666666667
+cochera,Goudge,17.0
+cochera,Goya,33.0
+cochera,Hurlingham,24.0
+cochera,Ibarlucea,11.0
+cochera,Ituzaingó,69.25
+cochera,José C Paz,15.333333333333334
+cochera,Juana Koslay,118.0
+cochera,La Calera,160.0
+cochera,La Cumbre,168.0
+cochera,La Falda,1.0
+cochera,La Matanza,24.594594594594593
+cochera,La Paternal,9.0
+cochera,La Plata,42.21568627450981
+cochera,Lanús,57.57142857142857
+cochera,Las Compuertas,64.0
+cochera,Las Heras,43.0
+cochera,Las Paredes,3.0
+cochera,Liniers,54.42857142857143
+cochera,Lobos,6.5
+cochera,Lomas de Zamora,43.04545454545455
+cochera,Los Reartes,4.0
+cochera,Luján,21.125
+cochera,Luján de Cuyo,19.0
+cochera,Lunlunta,4.0
+cochera,Magdalena,82.0
+cochera,Maipú,33.45454545454545
+cochera,Malagueño,10.333333333333332
+cochera,Malvinas Argentinas,34.666666666666664
+cochera,Mar Chiquita,12.0
+cochera,Mar de Ajó,50.0
+cochera,Mar de las Pampas,25.0
+cochera,Mar del Plata,42.08571428571429
+cochera,Mar del Tuyú,67.66666666666667
+cochera,Mataderos,57.166666666666664
+cochera,Mayu Sumaj,14.0
+cochera,Merlo,26.5
+cochera,Miramar,57.5
+cochera,Monserrat,19.166666666666668
+cochera,Monte Castro,80.33333333333333
+cochera,Monte Hermoso,0.0
+cochera,Moreno,32.8421052631579
+cochera,Morón,44.03030303030303
+cochera,Necochea,20.0
+cochera,Neuquén,38.09090909090909
+cochera,Nuevo Torino,84.5
+cochera,Núñez,39.2
+cochera,Once,79.0
+cochera,Palermo,34.52
+cochera,Parque Avellaneda,31.0
+cochera,Parque Centenario,8.0
+cochera,Parque Chacabuco,3.0
+cochera,Parque Chas,30.666666666666668
+cochera,Parque Patricios,39.2
+cochera,Pehuajó,37.8
+cochera,Perdriel,16.5
+cochera,Pergamino,151.0
+cochera,Pilar,32.48275862068965
+cochera,Pinamar,61.0
+cochera,Plottier,33.6
+cochera,Pompeya,8.333333333333334
+cochera,Potrerillos,42.0
+cochera,Potrero de Garay,21.25
+cochera,Pueblo Andino,0.0
+cochera,Pueblo Esther,64.5
+cochera,Puerto Madero,28.166666666666668
+cochera,Quilmes,28.999999999999996
+cochera,Rada Tilly,19.0
+cochera,Rafaela,32.5
+cochera,Recoleta,28.545454545454543
+cochera,Reconquista,16.5
+cochera,Recreo,45.0
+cochera,Resistencia,50.400000000000006
+cochera,Retiro,21.5
+cochera,Rodeo de la Cruz,52.0
+cochera,Roldán,27.0
+cochera,Rosario,35.95652173913044
+cochera,Russell,15.0
+cochera,Río Ceballos,9.666666666666666
+cochera,Saavedra,28.333333333333332
+cochera,Salta,55.875
+cochera,San Agustín,2.0
+cochera,San Andrés de Giles,24.0
+cochera,San Bernardo,10.0
+cochera,San Carlos de Bariloche,32.166666666666664
+cochera,San Cristobal,54.5
+cochera,San Fernando,44.714285714285715
+cochera,San Isidro,52.24999999999999
+cochera,San José,82.5
+cochera,San José del Rincón,13.5
+cochera,San Lorenzo,65.0
+cochera,San Luis,45.75
+cochera,San Martín,13.666666666666668
+cochera,San Martín de los Andes,34.0
+cochera,San Miguel,20.285714285714285
+cochera,San Miguel del Monte,0.0
+cochera,San Nicolás,27.400000000000002
+cochera,San Nicolás de los Arroyos,3.0
+cochera,San Rafael,61.333333333333336
+cochera,San Salvador de Jujuy,39.0
+cochera,San Telmo,40.285714285714285
+cochera,San Vicente,62.142857142857146
+cochera,Santa Clara del Mar,18.0
+cochera,Santa María de Punilla,21.0
+cochera,Santa Rosa de Calamuchita,30.75
+cochera,Santiago del Estero,53.0
+cochera,Santo Tomé,27.2
+cochera,Sauce Viejo,28.333333333333332
+cochera,Sierras de Calamuchita,26.0
+cochera,Tafí Viejo,29.0
+cochera,Tandil,26.999999999999996
+cochera,Tanti,22.666666666666664
+cochera,Tigre,34.05357142857143
+cochera,Toay,29.666666666666668
+cochera,Tornquist,7.333333333333333
+cochera,Tres de Febrero,45.08333333333333
+cochera,Tribunales,174.0
+cochera,Tunuyán,20.0
+cochera,Unquillo,17.0
+cochera,Uruguay,40.40425531914894
+cochera,Valeria del Mar,18.0
+cochera,Veinticinco de Mayo,13.5
+cochera,Venado Tuerto,33.6
+cochera,Vicente López,28.307692307692307
+cochera,Villa Allende,25.5
+cochera,Villa Amelia,13.0
+cochera,Villa Carlos Paz,108.2
+cochera,Villa Cerro Azul,13.0
+cochera,Villa Ciudad Parque Los Reartes,25.0
+cochera,Villa Crespo,93.11111111111111
+cochera,Villa Devoto,49.92307692307692
+cochera,Villa General Mitre,46.333333333333336
+cochera,Villa Gesell,36.5
+cochera,Villa Giardino,6.0
+cochera,Villa Los Aromos,1.0
+cochera,Villa Lugano,121.0
+cochera,Villa Luro,27.4
+cochera,Villa María,7.0
+cochera,Villa Merlo,36.5
+cochera,Villa Nueva,30.333333333333336
+cochera,Villa Ortuzar,24.333333333333336
+cochera,Villa Pueyrredón,13.0
+cochera,Villa Real,15.0
+cochera,Villa Santa Rita,14.0
+cochera,Villa Urquiza,36.94117647058823
+cochera,Villa Yacanto,12.4
+cochera,Villa del Dique,38.0
+cochera,Villa del Parque,52.0
+cochera,Vistalba,15.0
+cochera,Zárate,39.5
+cochera,Ángel Gallardo,22.5
+departamento,Abasto,30.23529411764706
+departamento,Agronomía,25.625
+departamento,Almagro,20.536912751677853
+departamento,Almirante Brown,33.478405315614616
+departamento,Alta Gracia,28.517857142857142
+departamento,Alvear,29.620689655172413
+departamento,Anisacate,20.375
+departamento,Arroyo Leyes,23.105263157894736
+departamento,Ataliva Roca,37.57692307692307
+departamento,Avellaneda,28.243980738362758
+departamento,Añelo,32.50819672131148
+departamento,Bahía Blanca,36.91319444444445
+departamento,Balcarce,40.70967741935484
+departamento,Balvanera,26.05304518664048
+departamento,Barracas,27.032432432432437
+departamento,Barrio Norte,26.308411214953267
+departamento,Belgrano,23.400488400488403
+departamento,Berazategui,30.358208955223883
+departamento,Berisso,29.21875
+departamento,Bialet Massé,32.45454545454546
+departamento,Boedo,28.11888111888112
+departamento,Brandsen,35.87939698492462
+departamento,Buena Nueva,25.8
+departamento,Caballito,22.920315236427328
+departamento,Campana,30.365384615384617
+departamento,Capilla del Monte,53.333333333333336
+departamento,Capitán Bermúdez,35.529411764705884
+departamento,Cariló,40.8125
+departamento,Carmen de Areco,39.46341463414634
+departamento,Cañuelas,34.15513126491647
+departamento,Centenario,28.611111111111114
+departamento,Centro / Microcentro,21.322115384615387
+departamento,Cerrillos,43.9
+departamento,Chacarita,23.97687861271676
+departamento,Chacras de Coria,39.09375
+departamento,Chapadmalal,33.2
+departamento,Chascomús,39.6
+departamento,Chivilcoy,30.647058823529413
+departamento,Cipolletti,30.45360824742268
+departamento,Ciudad de Mendoza,32.51538461538461
+departamento,Ciudad de Santa Fe,31.25214198286414
+departamento,Coghlan,28.923076923076923
+departamento,Colastiné,30.454545454545457
+departamento,Colegiales,24.722021660649816
+departamento,Colonia Popular,18.058823529411764
+departamento,Colonia Segovia,31.909090909090907
+departamento,Comodoro Rivadavia,36.36842105263158
+departamento,Congreso,25.323076923076925
+departamento,Constitución,25.41747572815534
+departamento,Coronel Rosales,46.578947368421055
+departamento,Corrientes,47.130434782608695
+departamento,Cosquín,33.32
+departamento,Costa Esmeralda,30.749999999999996
+departamento,Cruz de Piedra,32.146341463414636
+departamento,Córdoba,28.68973981345115
+departamento,Dina Huapi,41.89189189189189
+departamento,El Challao,21.636363636363633
+departamento,El Sauce,34.054054054054056
+departamento,Escobar,28.300927793465096
+departamento,Esperanza,26.959183673469386
+departamento,Esquel,32.21951219512196
+departamento,Esteban Echeverría,29.517350157728707
+departamento,Exaltación de la Cruz,25.47590361445783
+departamento,Ezeiza,30.230946882217097
+departamento,Florencio Varela,31.852112676056336
+departamento,Flores,24.36037735849057
+departamento,Floresta,23.362500000000004
+departamento,Funes,31.763440860215052
+departamento,General Fernández Oro,43.256410256410255
+departamento,General Juan Madariaga,33.0
+departamento,General Lagos,27.90909090909091
+departamento,General Roca,37.97435897435898
+departamento,General Rodríguez,32.75824175824176
+departamento,General San Martín,30.572567783094097
+departamento,Godoy Cruz,31.00900900900901
+departamento,Goudge,39.11111111111111
+departamento,Goya,52.65384615384615
+departamento,Granadero Baigorria,31.783783783783782
+departamento,Guaymallén,30.1
+departamento,Hurlingham,28.788
+departamento,Ibarlucea,29.5
+departamento,Ituzaingó,34.34957020057307
+departamento,Jesús Nazareno,25.38235294117647
+departamento,José C Paz,26.038834951456312
+departamento,Juana Koslay,39.0
+departamento,La Boca,25.476190476190474
+departamento,La Calera,23.30864197530864
+departamento,La Carrera,39.764705882352935
+departamento,La Cumbre,25.966666666666665
+departamento,La Falda,26.925925925925924
+departamento,La Granja,29.058823529411768
+departamento,La Matanza,33.89945652173914
+departamento,La Paternal,22.963414634146343
+departamento,La Plata,32.59183673469388
+departamento,Lanús,31.935779816513772
+departamento,Las Compuertas,38.0
+departamento,Las Heras,41.70886075949367
+departamento,Las Paredes,33.15384615384615
+departamento,Las Toninas,32.142857142857146
+departamento,Liniers,21.720430107526877
+departamento,Lobos,28.439999999999998
+departamento,Lomas de Zamora,31.526112185686657
+departamento,Los Corralitos,28.65625
+departamento,Los Molinos,30.88888888888889
+departamento,Los Reartes,17.479166666666668
+departamento,Luján,29.83539094650206
+departamento,Luján de Cuyo,30.761904761904763
+departamento,Lunlunta,42.24561403508772
+departamento,Magdalena,43.12903225806451
+departamento,Maipú,31.646153846153847
+departamento,Malagueño,35.12195121951219
+departamento,Malvinas Argentinas,27.137404580152673
+departamento,Mar Azul,20.605263157894736
+departamento,Mar Chiquita,34.5
+departamento,Mar de Ajó,31.75
+departamento,Mar de las Pampas,20.564102564102566
+departamento,Mar del Plata,31.167123287671235
+departamento,Mar del Tuyú,32.3125
+departamento,Marcos Paz,29.222222222222225
+departamento,Mari Menuco,37.2
+departamento,Mataderos,24.604895104895103
+departamento,Mayor Drummond,24.853658536585368
+departamento,Mayu Sumaj,22.904761904761905
+departamento,Mendiolaza,36.0
+departamento,Mercedes,35.28571428571428
+departamento,Merlo,31.48951048951049
+departamento,Miramar,21.36559139784946
+departamento,Monserrat,21.366477272727273
+departamento,Monte Castro,23.821428571428566
+departamento,Monte Hermoso,31.012820512820507
+departamento,Moreno,38.153669724770644
+departamento,Morón,30.07938388625592
+departamento,Necochea,33.36363636363637
+departamento,Neuquén,28.683693516699414
+departamento,Nuevo Torino,33.47368421052632
+departamento,Núñez,26.72340425531915
+departamento,Once,22.807692307692307
+departamento,Ostende,15.599999999999998
+departamento,Palermo,24.429434376716095
+departamento,Parque Avellaneda,22.964788732394368
+departamento,Parque Centenario,16.2
+departamento,Parque Chacabuco,25.901639344262293
+departamento,Parque Chas,25.919999999999998
+departamento,Parque Patricios,16.928286852589643
+departamento,Pehuajó,44.77215189873418
+departamento,Perdriel,36.25714285714285
+departamento,Pergamino,48.368932038834956
+departamento,Pilar,28.119121374260768
+departamento,Pinamar,29.429378531073443
+departamento,Piñero,26.68
+departamento,Plottier,30.783464566929133
+departamento,Pompeya,28.01098901098901
+departamento,Posadas,16.492537313432834
+departamento,Potrerillos,23.833333333333332
+departamento,Potrero de Garay,28.962962962962962
+departamento,Presidente Perón,30.231578947368423
+departamento,Pueblo Andino,36.48
+departamento,Pueblo Esther,39.33802816901408
+departamento,Puerto Madero,23.734939759036145
+departamento,Pujato Norte,33.82352941176471
+departamento,Quilmes,30.157430730478588
+departamento,Rada Tilly,48.69230769230769
+departamento,Rafaela,29.347305389221553
+departamento,Recoleta,23.14035087719299
+departamento,Reconquista,43.808510638297875
+departamento,Recreo,34.411764705882355
+departamento,Resistencia,30.21276595744681
+departamento,Retiro,20.732919254658377
+departamento,Rodeo de la Cruz,39.13793103448276
+departamento,Roldán,34.08
+departamento,Rosario,32.28448947778642
+departamento,Russell,41.56249999999999
+departamento,Río Ceballos,32.02150537634409
+departamento,Río Cuarto,19.454545454545453
+departamento,Saavedra,26.50306748466258
+departamento,Salsipuedes,24.04
+departamento,Salta,31.658119658119652
+departamento,San Agustín,23.962962962962962
+departamento,San Andrés de Giles,53.07407407407407
+departamento,San Bernardo,28.188679245283023
+departamento,San Carlos de Bariloche,37.412639405204466
+departamento,San Clemente del Tuyú,34.0
+departamento,San Cristobal,22.044117647058822
+departamento,San Fernando,27.80295566502463
+departamento,San Isidro,29.347504621072087
+departamento,San Jerónimo Norte,34.54838709677419
+departamento,San José,42.52173913043479
+departamento,San José del Rincón,34.25
+departamento,San Juan,23.139534883720927
+departamento,San Lorenzo,30.15714285714286
+departamento,San Luis,43.04347826086956
+departamento,San Martín,24.630769230769232
+departamento,San Martín de los Andes,39.69444444444444
+departamento,San Miguel,24.03716216216216
+departamento,San Miguel de Tucumán,21.732394366197184
+departamento,San Miguel del Monte,35.57777777777778
+departamento,San Nicolás,23.94891944990177
+departamento,San Nicolás de los Arroyos,27.703125
+departamento,San Rafael,34.40625
+departamento,San Salvador de Jujuy,30.51923076923077
+departamento,San Telmo,21.07905138339921
+departamento,San Vicente,31.194513715710727
+departamento,Santa Clara del Mar,25.49056603773585
+departamento,Santa María de Punilla,27.38983050847458
+departamento,Santa Rosa,45.44897959183673
+departamento,Santa Rosa de Calamuchita,26.904761904761905
+departamento,Santa Teresita,37.13513513513514
+departamento,Santiago del Estero,36.13793103448276
+departamento,Santo Tomé,28.771317829457367
+departamento,Sauce Viejo,31.688172043010752
+departamento,Sierras de Calamuchita,28.11764705882353
+departamento,Tafí Viejo,42.625
+departamento,Tandil,36.40298507462687
+departamento,Tanti,25.511111111111116
+departamento,Tigre,25.897311827956983
+departamento,Toay,41.340909090909086
+departamento,Tornquist,37.66666666666667
+departamento,Tres de Febrero,30.13012729844413
+departamento,Tribunales,30.36842105263158
+departamento,Tunuyán,48.47058823529412
+departamento,Unquillo,27.216216216216218
+departamento,Uruguay,25.23322227510709
+departamento,Ushuaia,24.627450980392158
+departamento,Valeria del Mar,33.4
+departamento,Veinticinco de Mayo,40.375
+departamento,Velez Sarsfield,26.896551724137936
+departamento,Venado Tuerto,39.8562091503268
+departamento,Versalles,17.12
+departamento,Vicente López,27.504032258064523
+departamento,Villa Allende,28.901234567901234
+departamento,Villa Amelia,29.892857142857142
+departamento,Villa Carlos Paz,34.43307086614173
+departamento,Villa Cerro Azul,25.36842105263158
+departamento,Villa Ciudad Parque Los Reartes,33.40740740740741
+departamento,Villa Crespo,25.498007968127492
+departamento,Villa Devoto,20.193384223918574
+departamento,Villa General Belgrano,49.85714285714286
+departamento,Villa General Mitre,20.232323232323232
+departamento,Villa Gesell,31.0
+departamento,Villa Giardino,16.214285714285715
+departamento,Villa Icho Cruz,45.12499999999999
+departamento,Villa La Angostura,38.714285714285715
+departamento,Villa Los Aromos,28.153846153846153
+departamento,Villa Lugano,20.963503649635037
+departamento,Villa Luro,20.579787234042552
+departamento,Villa María,34.142857142857146
+departamento,Villa Merlo,25.333333333333336
+departamento,Villa Nueva,39.529411764705884
+departamento,Villa Ortuzar,23.864130434782613
+departamento,Villa Pueyrredón,25.0
+departamento,Villa Real,21.545454545454547
+departamento,Villa Riachuelo,25.80952380952381
+departamento,Villa Santa Rita,19.12396694214876
+departamento,Villa Soldati,27.41860465116279
+departamento,Villa Urquiza,21.441077441077443
+departamento,Villa Yacanto,23.3921568627451
+departamento,Villa del Dique,22.5625
+departamento,Villa del Parque,27.48888888888889
+departamento,Vistalba,28.315789473684212
+departamento,Zárate,24.204819277108438
+departamento,Ángel Gallardo,27.666666666666664
+edificio,Almagro,13.75
+edificio,Almirante Brown,110.33333333333333
+edificio,Alta Gracia,3.0
+edificio,Avellaneda,45.4
+edificio,Bahía Blanca,45.333333333333336
+edificio,Balvanera,73.0
+edificio,Barrio Norte,19.5
+edificio,Belgrano,99.0
+edificio,Berazategui,58.0
+edificio,Brandsen,33.0
+edificio,Caballito,57.5
+edificio,Campana,84.0
+edificio,Cañuelas,21.75
+edificio,Centro / Microcentro,65.0
+edificio,Chacarita,87.0
+edificio,Chacras de Coria,39.0
+edificio,Cipolletti,293.0
+edificio,Ciudad de Mendoza,37.0
+edificio,Ciudad de Santa Fe,74.85714285714285
+edificio,Colegiales,23.0
+edificio,Colonia Segovia,28.0
+edificio,Costa Esmeralda,13.0
+edificio,Córdoba,68.39999999999999
+edificio,Escobar,35.111111111111114
+edificio,Esteban Echeverría,41.0
+edificio,Ezeiza,73.8
+edificio,Florencio Varela,296.0
+edificio,General Roca,17.0
+edificio,General Rodríguez,9.0
+edificio,General San Martín,79.5
+edificio,Godoy Cruz,102.0
+edificio,Hurlingham,68.5
+edificio,Ituzaingó,92.0
+edificio,Jesús Nazareno,120.0
+edificio,La Boca,16.0
+edificio,La Calera,32.5
+edificio,La Matanza,63.75
+edificio,La Paternal,70.0
+edificio,La Plata,75.53333333333335
+edificio,Lanús,53.57142857142857
+edificio,Las Compuertas,4.0
+edificio,Liniers,42.0
+edificio,Lomas de Zamora,34.666666666666664
+edificio,Los Corralitos,29.0
+edificio,Luján,61.5
+edificio,Luján de Cuyo,121.75
+edificio,Maipú,14.0
+edificio,Malvinas Argentinas,15.0
+edificio,Mar del Plata,56.14285714285714
+edificio,Mar del Tuyú,15.0
+edificio,Marcos Paz,10.5
+edificio,Mataderos,28.0
+edificio,Mayu Sumaj,10.0
+edificio,Merlo,128.0
+edificio,Miramar,50.0
+edificio,Monserrat,38.0
+edificio,Monte Castro,30.0
+edificio,Monte Hermoso,19.0
+edificio,Moreno,31.333333333333332
+edificio,Morón,47.7
+edificio,Neuquén,81.33333333333333
+edificio,Núñez,31.25
+edificio,Palermo,33.71428571428571
+edificio,Parque Chacabuco,198.0
+edificio,Parque Chas,238.0
+edificio,Pergamino,127.0
+edificio,Pilar,47.42307692307693
+edificio,Pinamar,94.5
+edificio,Plottier,62.0
+edificio,Presidente Perón,27.0
+edificio,Pueblo Esther,111.0
+edificio,Puerto Madero,9.0
+edificio,Quilmes,70.5
+edificio,Recoleta,14.0
+edificio,Reconquista,82.0
+edificio,Recreo,42.0
+edificio,Resistencia,10.0
+edificio,Rosario,67.22222222222223
+edificio,Russell,84.0
+edificio,Río Ceballos,59.0
+edificio,Salta,76.5
+edificio,San Carlos de Bariloche,9.0
+edificio,San Cristobal,23.5
+edificio,San Isidro,34.5
+edificio,San Martín,48.0
+edificio,San Miguel,69.0
+edificio,San Miguel de Tucumán,48.0
+edificio,San Nicolás,42.0
+edificio,San Salvador de Jujuy,33.0
+edificio,San Telmo,91.0
+edificio,Santa Clara del Mar,195.0
+edificio,Santa María de Punilla,45.0
+edificio,Sauce Viejo,39.5
+edificio,Tandil,56.0
+edificio,Tanti,50.5
+edificio,Tigre,71.41666666666667
+edificio,Tres de Febrero,42.833333333333336
+edificio,Unquillo,3.0
+edificio,Uruguay,74.0625
+edificio,Veinticinco de Mayo,0.0
+edificio,Venado Tuerto,71.0
+edificio,Vicente López,39.6
+edificio,Villa Allende,48.0
+edificio,Villa Carlos Paz,43.0
+edificio,Villa Ciudad Parque Los Reartes,8.0
+edificio,Villa Crespo,172.5
+edificio,Villa Devoto,32.0
+edificio,Villa General Mitre,36.0
+edificio,Villa Nueva,69.5
+edificio,Villa Soldati,15.0
+edificio,Villa Urquiza,81.5
+edificio,Villa Yacanto,44.0
+edificio,Villa del Parque,14.0
+edificio,Zárate,54.0
+edificio,Ángel Gallardo,49.0
+galpon,Abasto,0.0
+galpon,Almagro,20.88888888888889
+galpon,Almirante Brown,22.0
+galpon,Alvear,16.0
+galpon,Anisacate,29.0
+galpon,Arroyo Leyes,30.0
+galpon,Ataliva Roca,59.0
+galpon,Avellaneda,60.35
+galpon,Añelo,79.0
+galpon,Bahía Blanca,72.25
+galpon,Balcarce,54.0
+galpon,Balvanera,20.583333333333332
+galpon,Barracas,34.400000000000006
+galpon,Barrio Norte,49.705882352941174
+galpon,Belgrano,33.51851851851852
+galpon,Berazategui,37.333333333333336
+galpon,Berisso,9.0
+galpon,Bialet Massé,11.0
+galpon,Boedo,59.25
+galpon,Brandsen,47.5
+galpon,Caballito,33.75
+galpon,Campana,19.875
+galpon,Cariló,130.0
+galpon,Carmen de Areco,17.0
+galpon,Cañuelas,33.5
+galpon,Centenario,27.0
+galpon,Centro / Microcentro,44.777777777777786
+galpon,Chacarita,26.333333333333336
+galpon,Chacras de Coria,44.0
+galpon,Chapadmalal,37.0
+galpon,Chivilcoy,16.0
+galpon,Cipolletti,7.5
+galpon,Ciudad de Mendoza,35.33333333333333
+galpon,Ciudad de Santa Fe,27.999999999999996
+galpon,Coghlan,25.2
+galpon,Colastiné,15.0
+galpon,Colegiales,18.57894736842105
+galpon,Comodoro Rivadavia,74.66666666666666
+galpon,Congreso,21.0
+galpon,Constitución,30.400000000000002
+galpon,Corrientes,28.0
+galpon,Costa Esmeralda,3.0
+galpon,Cruz de Piedra,53.5
+galpon,Córdoba,35.473684210526315
+galpon,El Challao,298.0
+galpon,El Sauce,36.75
+galpon,Escobar,31.20930232558139
+galpon,Esperanza,79.5
+galpon,Esteban Echeverría,46.333333333333336
+galpon,Exaltación de la Cruz,17.0
+galpon,Ezeiza,56.0
+galpon,Florencio Varela,27.444444444444443
+galpon,Flores,29.555555555555557
+galpon,Floresta,11.777777777777779
+galpon,Funes,86.0
+galpon,General Fernández Oro,19.0
+galpon,General Juan Madariaga,9.5
+galpon,General Rodríguez,38.44444444444444
+galpon,General San Martín,49.13333333333333
+galpon,Godoy Cruz,35.166666666666664
+galpon,Goudge,19.0
+galpon,Goya,1.0
+galpon,Guaymallén,23.0
+galpon,Hurlingham,69.85714285714286
+galpon,Ibarlucea,5.666666666666666
+galpon,Ituzaingó,34.09090909090909
+galpon,Jesús Nazareno,27.0
+galpon,José C Paz,38.0
+galpon,La Calera,17.0
+galpon,La Granja,10.0
+galpon,La Matanza,42.83333333333333
+galpon,La Paternal,19.0
+galpon,La Plata,31.577464788732392
+galpon,Lanús,59.944444444444436
+galpon,Las Compuertas,11.0
+galpon,Las Heras,54.66666666666667
+galpon,Las Toninas,37.0
+galpon,Liniers,20.0
+galpon,Lomas de Zamora,40.64285714285714
+galpon,Los Corralitos,20.0
+galpon,Los Reartes,23.25
+galpon,Luján,39.75
+galpon,Luján de Cuyo,40.272727272727266
+galpon,Lunlunta,71.5
+galpon,Maipú,41.55555555555556
+galpon,Malagueño,25.0
+galpon,Malvinas Argentinas,33.5
+galpon,Mar Azul,2.0
+galpon,Mar Chiquita,36.666666666666664
+galpon,Mar de Ajó,29.0
+galpon,Mar de las Pampas,4.0
+galpon,Mar del Plata,40.71052631578947
+galpon,Mar del Tuyú,15.0
+galpon,Mari Menuco,44.0
+galpon,Mataderos,35.2
+galpon,Mayu Sumaj,14.0
+galpon,Mendiolaza,49.4
+galpon,Mercedes,60.0
+galpon,Merlo,26.0
+galpon,Monserrat,35.07142857142857
+galpon,Monte Castro,46.0
+galpon,Monte Hermoso,49.75
+galpon,Moreno,41.5
+galpon,Morón,52.61904761904761
+galpon,Necochea,86.0
+galpon,Neuquén,26.875
+galpon,Nuevo Torino,25.0
+galpon,Núñez,30.066666666666666
+galpon,Once,7.0
+galpon,Palermo,33.25
+galpon,Parque Avellaneda,17.75
+galpon,Parque Centenario,15.5
+galpon,Parque Chacabuco,29.375
+galpon,Parque Chas,14.4
+galpon,Parque Patricios,17.307692307692307
+galpon,Pehuajó,82.5
+galpon,Pergamino,9.333333333333334
+galpon,Pilar,34.79245283018868
+galpon,Pinamar,40.92857142857143
+galpon,Plottier,26.81818181818182
+galpon,Pompeya,44.25
+galpon,Posadas,21.5
+galpon,Potrerillos,16.0
+galpon,Potrero de Garay,60.77777777777778
+galpon,Presidente Perón,99.0
+galpon,Pueblo Esther,47.5
+galpon,Puerto Madero,7.4
+galpon,Quilmes,35.5
+galpon,Rada Tilly,16.5
+galpon,Rafaela,50.85714285714286
+galpon,Recoleta,33.964285714285715
+galpon,Reconquista,72.0
+galpon,Recreo,27.0
+galpon,Resistencia,31.666666666666668
+galpon,Retiro,19.125
+galpon,Rodeo de la Cruz,20.0
+galpon,Roldán,12.333333333333334
+galpon,Rosario,27.881720430107524
+galpon,Russell,35.666666666666664
+galpon,Río Ceballos,12.0
+galpon,Saavedra,30.249999999999996
+galpon,Salsipuedes,12.0
+galpon,Salta,43.16666666666667
+galpon,San Agustín,15.0
+galpon,San Andrés de Giles,4.0
+galpon,San Bernardo,65.4
+galpon,San Carlos de Bariloche,56.75
+galpon,San Cristobal,16.2
+galpon,San Isidro,29.764705882352942
+galpon,San José,2.0
+galpon,San Juan,12.0
+galpon,San Lorenzo,21.5
+galpon,San Luis,30.0
+galpon,San Miguel,76.0
+galpon,San Miguel de Tucumán,13.666666666666666
+galpon,San Miguel del Monte,35.0
+galpon,San Nicolás,40.0
+galpon,San Nicolás de los Arroyos,49.0
+galpon,San Rafael,15.5
+galpon,San Salvador de Jujuy,10.0
+galpon,San Telmo,36.833333333333336
+galpon,San Vicente,25.166666666666664
+galpon,Santa Clara del Mar,6.0
+galpon,Santa María de Punilla,95.0
+galpon,Santa Rosa,62.333333333333336
+galpon,Santa Rosa de Calamuchita,23.0
+galpon,Santiago del Estero,17.666666666666668
+galpon,Santo Tomé,60.857142857142854
+galpon,Sauce Viejo,136.0
+galpon,Tandil,21.42857142857143
+galpon,Tanti,21.0
+galpon,Tigre,28.53846153846154
+galpon,Tornquist,83.0
+galpon,Tres de Febrero,38.65625
+galpon,Tribunales,36.5
+galpon,Tunuyán,80.0
+galpon,Unquillo,91.0
+galpon,Uruguay,35.75
+galpon,Ushuaia,25.0
+galpon,Valeria del Mar,24.0
+galpon,Velez Sarsfield,38.4
+galpon,Venado Tuerto,11.666666666666666
+galpon,Vicente López,47.13333333333333
+galpon,Villa Allende,9.0
+galpon,Villa Amelia,46.0
+galpon,Villa Carlos Paz,37.57142857142857
+galpon,Villa Crespo,32.208333333333336
+galpon,Villa Devoto,19.70588235294118
+galpon,Villa General Belgrano,35.0
+galpon,Villa General Mitre,2.0
+galpon,Villa Gesell,44.33333333333333
+galpon,Villa Lugano,5.0
+galpon,Villa Luro,30.444444444444443
+galpon,Villa Merlo,43.0
+galpon,Villa Nueva,125.0
+galpon,Villa Ortuzar,31.4
+galpon,Villa Pueyrredón,21.0
+galpon,Villa Real,41.666666666666664
+galpon,Villa Santa Rita,36.0
+galpon,Villa Soldati,27.333333333333332
+galpon,Villa Urquiza,26.0625
+galpon,Villa Yacanto,17.333333333333332
+galpon,Villa del Parque,50.33333333333333
+galpon,Zárate,62.0
+local,Abasto,14.0
+local,Agronomía,17.0
+local,Almagro,29.289473684210524
+local,Almirante Brown,45.31818181818182
+local,Alta Gracia,15.0
+local,Alvear,16.666666666666664
+local,Anisacate,109.5
+local,Arroyo Leyes,39.55555555555556
+local,Ataliva Roca,54.33333333333333
+local,Avellaneda,40.32727272727273
+local,Añelo,41.5
+local,Bahía Blanca,61.3
+local,Balvanera,41.55172413793103
+local,Barracas,44.22222222222222
+local,Barrio Norte,28.8
+local,Belgrano,34.05555555555556
+local,Berazategui,36.8095238095238
+local,Berisso,22.666666666666664
+local,Bialet Massé,0.0
+local,Boedo,45.55555555555556
+local,Brandsen,51.05263157894737
+local,Buena Nueva,69.66666666666667
+local,Caballito,28.220588235294116
+local,Campana,54.61538461538461
+local,Cariló,58.0
+local,Carmen de Areco,126.66666666666666
+local,Cañuelas,33.4
+local,Centro / Microcentro,28.473684210526315
+local,Chacarita,17.5
+local,Chacras de Coria,18.6
+local,Chapadmalal,9.5
+local,Chascomús,86.0
+local,Chivilcoy,14.0
+local,Cipolletti,89.6
+local,Ciudad de Mendoza,44.76470588235294
+local,Ciudad de Santa Fe,54.103448275862064
+local,Coghlan,9.75
+local,Colegiales,22.1
+local,Colonia Popular,9.0
+local,Colonia Segovia,17.0
+local,Comodoro Rivadavia,41.8
+local,Congreso,30.5
+local,Constitución,9.75
+local,Corrientes,159.5
+local,Cosquín,35.8
+local,Costa Esmeralda,28.44444444444445
+local,Cruz de Piedra,61.0
+local,Córdoba,38.64566929133859
+local,Dina Huapi,42.0
+local,El Challao,34.0
+local,El Sauce,33.0
+local,Escobar,32.48618784530386
+local,Esperanza,28.0
+local,Esquel,2.5
+local,Esteban Echeverría,42.36363636363636
+local,Exaltación de la Cruz,41.0
+local,Ezeiza,28.93333333333333
+local,Florencio Varela,13.714285714285714
+local,Flores,29.758620689655174
+local,Floresta,15.222222222222221
+local,Funes,54.46666666666667
+local,General Fernández Oro,49.0
+local,General Juan Madariaga,81.66666666666667
+local,General Lagos,33.5
+local,General Roca,48.333333333333336
+local,General Rodríguez,41.38461538461539
+local,General San Martín,32.575
+local,Godoy Cruz,46.0
+local,Goudge,36.66666666666667
+local,Goya,105.5
+local,Granadero Baigorria,19.0
+local,Guaymallén,4.0
+local,Hurlingham,35.05555555555556
+local,Ibarlucea,45.0
+local,Ituzaingó,37.34615384615385
+local,Jesús Nazareno,3.5
+local,José C Paz,44.33333333333334
+local,La Boca,7.5
+local,La Calera,30.0
+local,La Carrera,55.5
+local,La Cumbre,34.0
+local,La Falda,98.5
+local,La Granja,74.0
+local,La Matanza,38.20588235294118
+local,La Paternal,22.857142857142858
+local,La Plata,32.46527777777778
+local,Lanús,35.723404255319146
+local,Las Heras,39.2
+local,Las Paredes,40.5
+local,Liniers,49.69230769230769
+local,Lomas de Zamora,34.24
+local,Los Corralitos,11.0
+local,Los Molinos,48.0
+local,Los Reartes,9.0
+local,Luján,49.57142857142857
+local,Luján de Cuyo,51.516129032258064
+local,Lunlunta,18.799999999999997
+local,Magdalena,18.0
+local,Maipú,27.444444444444443
+local,Malagueño,54.6
+local,Malvinas Argentinas,42.625
+local,Mar Azul,280.0
+local,Mar Chiquita,64.2
+local,Mar del Plata,35.25
+local,Mar del Tuyú,30.0
+local,Marcos Paz,7.666666666666666
+local,Mari Menuco,37.5
+local,Mataderos,40.07692307692307
+local,Mayor Drummond,11.0
+local,Mendiolaza,14.25
+local,Mercedes,74.0
+local,Merlo,8.25
+local,Miramar,15.142857142857142
+local,Monserrat,25.94736842105263
+local,Monte Castro,52.46666666666667
+local,Monte Hermoso,55.2
+local,Moreno,55.041666666666664
+local,Morón,30.000000000000004
+local,Necochea,31.857142857142858
+local,Neuquén,28.758620689655174
+local,Núñez,29.09090909090909
+local,Once,27.0
+local,Ostende,28.0
+local,Palermo,30.13793103448276
+local,Parque Avellaneda,23.000000000000004
+local,Parque Centenario,24.333333333333336
+local,Parque Chacabuco,29.833333333333332
+local,Parque Chas,40.75
+local,Parque Patricios,11.666666666666666
+local,Pehuajó,50.6
+local,Perdriel,17.5
+local,Pergamino,23.0
+local,Pilar,33.172413793103445
+local,Pinamar,23.857142857142858
+local,Plottier,44.54545454545455
+local,Pompeya,31.42857142857143
+local,Posadas,26.833333333333332
+local,Potrerillos,17.0
+local,Potrero de Garay,75.23076923076923
+local,Presidente Perón,77.33333333333334
+local,Pueblo Andino,51.0
+local,Pueblo Esther,96.66666666666667
+local,Puerto Madero,42.75
+local,Quilmes,30.576271186440678
+local,Rafaela,60.69230769230769
+local,Recoleta,39.352941176470594
+local,Reconquista,41.0
+local,Resistencia,64.28571428571428
+local,Retiro,16.82758620689655
+local,Rodeo de la Cruz,43.5
+local,Roldán,30.333333333333336
+local,Rosario,42.10559006211181
+local,Río Ceballos,22.333333333333336
+local,Río Cuarto,4.0
+local,Saavedra,33.76470588235294
+local,Salta,52.85714285714286
+local,San Agustín,24.5
+local,San Andrés de Giles,134.0
+local,San Bernardo,10.5
+local,San Carlos de Bariloche,39.92
+local,San Cristobal,8.714285714285714
+local,San Fernando,45.72222222222222
+local,San Isidro,30.545454545454543
+local,San José,39.2
+local,San José del Rincón,32.14285714285714
+local,San Juan,12.0
+local,San Lorenzo,35.55555555555556
+local,San Martín,24.0
+local,San Miguel,27.875
+local,San Miguel de Tucumán,22.8
+local,San Miguel del Monte,83.0
+local,San Nicolás,32.51851851851851
+local,San Nicolás de los Arroyos,10.5
+local,San Rafael,55.142857142857146
+local,San Salvador de Jujuy,49.25
+local,San Telmo,27.049999999999997
+local,San Vicente,37.73684210526316
+local,Santa Clara del Mar,23.25
+local,Santa María de Punilla,16.666666666666668
+local,Santa Rosa,34.0
+local,Santa Teresita,45.5
+local,Santiago del Estero,9.5
+local,Santo Tomé,33.84210526315789
+local,Sauce Viejo,15.0
+local,Sierras de Calamuchita,54.0
+local,Tafí Viejo,2.3333333333333335
+local,Tandil,33.55555555555556
+local,Tanti,53.0
+local,Tigre,41.79816513761468
+local,Toay,60.0
+local,Tornquist,50.66666666666667
+local,Tres de Febrero,48.666666666666664
+local,Tribunales,29.75
+local,Tunuyán,108.0
+local,Unquillo,30.0
+local,Uruguay,29.719298245614034
+local,Ushuaia,19.8
+local,Valeria del Mar,39.0
+local,Veinticinco de Mayo,8.0
+local,Velez Sarsfield,22.222222222222225
+local,Venado Tuerto,55.142857142857146
+local,Vicente López,30.12727272727272
+local,Villa Allende,62.857142857142854
+local,Villa Amelia,142.5
+local,Villa Carlos Paz,51.833333333333336
+local,Villa Cerro Azul,52.0
+local,Villa Crespo,38.592592592592595
+local,Villa Devoto,27.107142857142858
+local,Villa General Mitre,41.0
+local,Villa Gesell,7.166666666666667
+local,Villa Giardino,98.66666666666667
+local,Villa Icho Cruz,69.0
+local,Villa La Angostura,40.333333333333336
+local,Villa Los Aromos,51.0
+local,Villa Lugano,23.555555555555557
+local,Villa Luro,20.22222222222222
+local,Villa María,13.0
+local,Villa Merlo,83.0
+local,Villa Nueva,19.666666666666668
+local,Villa Ortuzar,27.199999999999996
+local,Villa Pueyrredón,24.2
+local,Villa Real,18.5
+local,Villa Riachuelo,33.5
+local,Villa Santa Rita,16.0
+local,Villa Soldati,20.5
+local,Villa Urquiza,33.88636363636364
+local,Villa Yacanto,38.11111111111111
+local,Villa del Dique,21.0
+local,Villa del Parque,13.666666666666666
+local,Vistalba,28.5
+local,Zárate,149.5
+local,Ángel Gallardo,37.0
+oficina,Abasto,20.0
+oficina,Agronomía,6.0
+oficina,Almagro,30.46875
+oficina,Almirante Brown,48.76470588235294
+oficina,Alta Gracia,32.0
+oficina,Alvear,13.5
+oficina,Arroyo Leyes,35.666666666666664
+oficina,Ataliva Roca,13.0
+oficina,Avellaneda,28.70967741935484
+oficina,Añelo,30.75
+oficina,Bahía Blanca,34.53846153846154
+oficina,Balvanera,27.5
+oficina,Barracas,41.125
+oficina,Barrio Norte,19.78125
+oficina,Belgrano,27.9
+oficina,Berazategui,26.1
+oficina,Berisso,45.0
+oficina,Boedo,10.285714285714285
+oficina,Brandsen,37.2
+oficina,Buena Nueva,41.0
+oficina,Caballito,29.323943661971832
+oficina,Campana,17.0
+oficina,Capitán Bermúdez,33.0
+oficina,Cariló,18.0
+oficina,Carmen de Areco,11.666666666666666
+oficina,Cañuelas,29.190476190476193
+oficina,Centenario,36.5
+oficina,Centro / Microcentro,13.0
+oficina,Cerrillos,56.5
+oficina,Chacarita,30.916666666666668
+oficina,Chacras de Coria,11.0
+oficina,Chapadmalal,72.0
+oficina,Chascomús,50.0
+oficina,Cipolletti,53.0
+oficina,Ciudad de Mendoza,17.57142857142857
+oficina,Ciudad de Santa Fe,36.02702702702703
+oficina,Coghlan,40.0
+oficina,Colastiné,7.0
+oficina,Colegiales,24.64705882352941
+oficina,Colonia Popular,6.0
+oficina,Comodoro Rivadavia,33.666666666666664
+oficina,Congreso,28.2
+oficina,Constitución,28.2
+oficina,Coronel Rosales,23.0
+oficina,Costa Esmeralda,53.33333333333333
+oficina,Córdoba,32.80188679245283
+oficina,Dina Huapi,12.0
+oficina,Escobar,29.575221238938052
+oficina,Esperanza,28.0
+oficina,Esquel,107.5
+oficina,Esteban Echeverría,40.13333333333334
+oficina,Exaltación de la Cruz,61.75
+oficina,Ezeiza,36.9375
+oficina,Florencio Varela,27.75
+oficina,Flores,27.475
+oficina,Floresta,18.583333333333332
+oficina,Funes,43.22222222222222
+oficina,General Fernández Oro,108.5
+oficina,General Juan Madariaga,15.5
+oficina,General Lagos,27.0
+oficina,General Roca,2.0
+oficina,General Rodríguez,24.8
+oficina,General San Martín,36.58333333333333
+oficina,Godoy Cruz,36.55555555555556
+oficina,Goya,50.0
+oficina,Granadero Baigorria,13.5
+oficina,Hurlingham,59.333333333333336
+oficina,Ibarlucea,14.0
+oficina,Ituzaingó,29.055555555555557
+oficina,José C Paz,27.0
+oficina,Juana Koslay,40.0
+oficina,La Boca,7.5
+oficina,La Calera,26.875
+oficina,La Cumbre,11.5
+oficina,La Falda,2.0
+oficina,La Granja,126.0
+oficina,La Matanza,31.060000000000002
+oficina,La Paternal,6.5
+oficina,La Plata,28.463157894736838
+oficina,Lanús,35.19512195121951
+oficina,Las Compuertas,31.333333333333332
+oficina,Las Heras,14.0
+oficina,Las Toninas,54.0
+oficina,Liniers,37.333333333333336
+oficina,Lobos,136.0
+oficina,Lomas de Zamora,19.238095238095237
+oficina,Los Corralitos,97.0
+oficina,Los Molinos,3.0
+oficina,Los Reartes,27.0
+oficina,Luján,41.55555555555556
+oficina,Luján de Cuyo,21.642857142857142
+oficina,Lunlunta,68.33333333333333
+oficina,Maipú,29.4375
+oficina,Malagueño,8.333333333333332
+oficina,Malvinas Argentinas,57.666666666666664
+oficina,Mar Azul,62.66666666666667
+oficina,Mar Chiquita,6.5
+oficina,Mar de Ajó,16.0
+oficina,Mar de las Pampas,17.0
+oficina,Mar del Plata,35.75438596491228
+oficina,Mar del Tuyú,22.666666666666664
+oficina,Marcos Paz,12.0
+oficina,Mari Menuco,38.0
+oficina,Mataderos,18.157894736842106
+oficina,Mayu Sumaj,13.0
+oficina,Mendiolaza,40.0
+oficina,Merlo,39.28571428571429
+oficina,Monserrat,33.88888888888889
+oficina,Monte Castro,39.166666666666664
+oficina,Monte Hermoso,48.25
+oficina,Moreno,26.31818181818182
+oficina,Morón,32.625
+oficina,Necochea,12.25
+oficina,Neuquén,36.096774193548384
+oficina,Nuevo Torino,6.0
+oficina,Núñez,22.97222222222222
+oficina,Once,18.0
+oficina,Ostende,25.0
+oficina,Palermo,24.175572519083968
+oficina,Parque Avellaneda,30.5
+oficina,Parque Centenario,27.5
+oficina,Parque Chacabuco,8.428571428571427
+oficina,Parque Chas,7.6
+oficina,Parque Patricios,19.583333333333332
+oficina,Pehuajó,33.2
+oficina,Perdriel,45.5
+oficina,Pergamino,58.8
+oficina,Pilar,31.883720930232556
+oficina,Pinamar,46.38461538461539
+oficina,Piñero,1.0
+oficina,Plottier,39.142857142857146
+oficina,Pompeya,13.0
+oficina,Posadas,48.25
+oficina,Potrero de Garay,26.2
+oficina,Presidente Perón,55.111111111111114
+oficina,Pueblo Esther,58.5
+oficina,Puerto Madero,26.428571428571427
+oficina,Pujato Norte,16.0
+oficina,Quilmes,49.25714285714285
+oficina,Rada Tilly,21.0
+oficina,Rafaela,19.2
+oficina,Recoleta,25.535714285714285
+oficina,Reconquista,5.25
+oficina,Recreo,56.5
+oficina,Resistencia,12.11111111111111
+oficina,Retiro,27.75
+oficina,Rodeo de la Cruz,21.0
+oficina,Roldán,30.0
+oficina,Rosario,31.73469387755102
+oficina,Russell,36.5
+oficina,Río Ceballos,33.0
+oficina,Saavedra,17.555555555555557
+oficina,Salta,25.363636363636367
+oficina,San Agustín,15.0
+oficina,San Andrés de Giles,74.0
+oficina,San Bernardo,36.375
+oficina,San Carlos de Bariloche,41.529411764705884
+oficina,San Cristobal,18.545454545454547
+oficina,San Fernando,31.099999999999998
+oficina,San Isidro,34.5
+oficina,San Jerónimo Norte,14.5
+oficina,San José,9.333333333333334
+oficina,San José del Rincón,32.0
+oficina,San Juan,17.333333333333332
+oficina,San Lorenzo,13.428571428571429
+oficina,San Martín,55.5
+oficina,San Martín de los Andes,18.5
+oficina,San Miguel,26.958333333333336
+oficina,San Miguel de Tucumán,27.799999999999997
+oficina,San Miguel del Monte,75.66666666666667
+oficina,San Nicolás,26.0
+oficina,San Nicolás de los Arroyos,11.0
+oficina,San Rafael,72.0
+oficina,San Salvador de Jujuy,9.0
+oficina,San Telmo,21.6
+oficina,San Vicente,23.571428571428573
+oficina,Santa Clara del Mar,33.5
+oficina,Santa María de Punilla,36.5
+oficina,Santa Rosa,90.66666666666667
+oficina,Santa Rosa de Calamuchita,21.0
+oficina,Santiago del Estero,32.0
+oficina,Santo Tomé,56.75
+oficina,Sauce Viejo,26.6
+oficina,Sierras de Calamuchita,31.0
+oficina,Tafí Viejo,42.0
+oficina,Tandil,28.0
+oficina,Tigre,23.941176470588236
+oficina,Toay,12.0
+oficina,Tres de Febrero,34.73809523809524
+oficina,Tribunales,1.0
+oficina,Unquillo,20.833333333333336
+oficina,Uruguay,27.547169811320757
+oficina,Ushuaia,15.0
+oficina,Veinticinco de Mayo,53.0
+oficina,Velez Sarsfield,45.33333333333333
+oficina,Venado Tuerto,15.2
+oficina,Versalles,23.0
+oficina,Vicente López,34.97142857142857
+oficina,Villa Allende,6.0
+oficina,Villa Carlos Paz,28.53846153846154
+oficina,Villa Cerro Azul,174.0
+oficina,Villa Ciudad Parque Los Reartes,1.0
+oficina,Villa Crespo,25.739130434782613
+oficina,Villa Devoto,27.266666666666666
+oficina,Villa General Belgrano,31.0
+oficina,Villa General Mitre,12.75
+oficina,Villa Gesell,64.375
+oficina,Villa Giardino,12.5
+oficina,Villa La Angostura,11.0
+oficina,Villa Lugano,18.77777777777778
+oficina,Villa Luro,12.363636363636363
+oficina,Villa Merlo,55.333333333333336
+oficina,Villa Nueva,54.5
+oficina,Villa Ortuzar,13.333333333333332
+oficina,Villa Pueyrredón,9.285714285714285
+oficina,Villa Real,47.6
+oficina,Villa Riachuelo,13.0
+oficina,Villa Santa Rita,31.666666666666668
+oficina,Villa Urquiza,19.833333333333332
+oficina,Villa Yacanto,16.0
+oficina,Villa del Dique,52.0
+oficina,Villa del Parque,37.375
+oficina,Vistalba,34.0
+oficina,Zárate,19.5
+ph,Abasto,31.0
+ph,Agronomía,48.5
+ph,Almagro,31.749999999999996
+ph,Almirante Brown,41.56666666666667
+ph,Alta Gracia,23.9
+ph,Alvear,17.500000000000004
+ph,Anisacate,75.75
+ph,Arroyo Leyes,36.66666666666667
+ph,Ataliva Roca,56.41666666666667
+ph,Avellaneda,32.14705882352941
+ph,Añelo,12.0
+ph,Bahía Blanca,35.6
+ph,Balcarce,72.0
+ph,Balvanera,34.71666666666666
+ph,Barracas,19.15
+ph,Barrio Norte,21.772727272727273
+ph,Belgrano,25.945945945945947
+ph,Berazategui,53.35294117647059
+ph,Berisso,31.714285714285715
+ph,Boedo,43.54545454545455
+ph,Brandsen,39.971428571428575
+ph,Buena Nueva,39.0
+ph,Caballito,30.52127659574468
+ph,Campana,28.826086956521742
+ph,Capilla del Monte,45.0
+ph,Capitán Bermúdez,33.4
+ph,Cariló,27.0
+ph,Carmen de Areco,12.5
+ph,Cañuelas,37.77777777777777
+ph,Centenario,35.8
+ph,Centro / Microcentro,21.37037037037037
+ph,Cerrillos,84.0
+ph,Chacarita,15.599999999999998
+ph,Chacras de Coria,40.57142857142857
+ph,Chapadmalal,34.4
+ph,Chascomús,29.714285714285715
+ph,Chivilcoy,51.66666666666667
+ph,Cipolletti,33.26315789473684
+ph,Ciudad de Mendoza,49.53571428571428
+ph,Ciudad de Santa Fe,35.20909090909091
+ph,Coghlan,29.272727272727273
+ph,Colastiné,27.666666666666668
+ph,Colegiales,31.685714285714287
+ph,Comodoro Rivadavia,51.074074074074076
+ph,Congreso,57.0
+ph,Constitución,42.77777777777778
+ph,Coronel Rosales,54.6
+ph,Corrientes,87.5
+ph,Cosquín,40.8
+ph,Costa Esmeralda,29.75
+ph,Cruz de Piedra,6.666666666666667
+ph,Córdoba,30.833333333333336
+ph,Dina Huapi,57.8
+ph,El Challao,31.0
+ph,El Sauce,155.0
+ph,Escobar,33.548895899053626
+ph,Esperanza,49.125
+ph,Esquel,22.666666666666668
+ph,Esteban Echeverría,46.089285714285715
+ph,Exaltación de la Cruz,48.80952380952382
+ph,Ezeiza,32.91935483870968
+ph,Florencio Varela,30.36842105263158
+ph,Flores,22.439393939393938
+ph,Floresta,21.0
+ph,Funes,35.72
+ph,General Fernández Oro,27.375
+ph,General Juan Madariaga,17.333333333333336
+ph,General Lagos,10.0
+ph,General Roca,23.5
+ph,General Rodríguez,30.96153846153846
+ph,General San Martín,39.79012345679012
+ph,Godoy Cruz,40.588235294117645
+ph,Goudge,14.0
+ph,Goya,203.33333333333334
+ph,Granadero Baigorria,21.4
+ph,Guaymallén,41.2
+ph,Hurlingham,36.78947368421053
+ph,Ibarlucea,18.3
+ph,Ituzaingó,41.51724137931035
+ph,Jesús Nazareno,26.42857142857143
+ph,José C Paz,33.6
+ph,Juana Koslay,3.0
+ph,La Boca,10.4
+ph,La Calera,30.0
+ph,La Carrera,50.0
+ph,La Cumbre,13.0
+ph,La Falda,17.28571428571429
+ph,La Granja,73.0
+ph,La Matanza,40.04402515723271
+ph,La Paternal,17.71428571428571
+ph,La Plata,34.60402684563759
+ph,Lanús,38.53921568627451
+ph,Las Compuertas,67.75
+ph,Las Heras,33.94444444444444
+ph,Las Paredes,11.5
+ph,Las Toninas,13.5
+ph,Liniers,43.43750000000001
+ph,Lobos,67.33333333333334
+ph,Lomas de Zamora,35.5679012345679
+ph,Los Corralitos,50.375
+ph,Los Reartes,18.75
+ph,Luján,33.57575757575758
+ph,Luján de Cuyo,33.79545454545455
+ph,Lunlunta,14.4
+ph,Magdalena,38.8
+ph,Maipú,28.74285714285714
+ph,Malagueño,1.0
+ph,Malvinas Argentinas,37.470588235294116
+ph,Mar Azul,22.5
+ph,Mar Chiquita,44.625
+ph,Mar de Ajó,33.5
+ph,Mar de las Pampas,50.5
+ph,Mar del Plata,33.292682926829265
+ph,Mar del Tuyú,120.2
+ph,Marcos Paz,63.66666666666667
+ph,Mari Menuco,64.66666666666667
+ph,Mataderos,22.178571428571427
+ph,Mayor Drummond,18.25
+ph,Mayu Sumaj,19.5
+ph,Mendiolaza,9.333333333333332
+ph,Merlo,52.55555555555555
+ph,Miramar,27.0
+ph,Monserrat,30.10526315789474
+ph,Monte Castro,23.0
+ph,Monte Hermoso,22.88888888888889
+ph,Moreno,35.51851851851852
+ph,Morón,33.4950495049505
+ph,Necochea,73.9
+ph,Neuquén,38.42857142857143
+ph,Nuevo Torino,32.25
+ph,Núñez,28.745454545454546
+ph,Once,32.75
+ph,Ostende,36.8
+ph,Palermo,29.859550561797754
+ph,Parque Avellaneda,28.352941176470587
+ph,Parque Centenario,29.333333333333336
+ph,Parque Chacabuco,29.200000000000003
+ph,Parque Chas,28.235294117647058
+ph,Parque Patricios,25.1
+ph,Pehuajó,18.0
+ph,Perdriel,36.0
+ph,Pergamino,28.058823529411764
+ph,Pilar,32.24657534246575
+ph,Pinamar,27.0
+ph,Piñero,20.75
+ph,Plottier,32.03448275862068
+ph,Pompeya,105.75
+ph,Posadas,12.6
+ph,Potrero de Garay,31.555555555555557
+ph,Presidente Perón,28.4
+ph,Pueblo Andino,37.5
+ph,Pueblo Esther,22.0
+ph,Puerto Madero,22.296296296296298
+ph,Pujato Norte,33.0
+ph,Quilmes,42.644230769230774
+ph,Rada Tilly,27.75
+ph,Rafaela,58.58333333333333
+ph,Recoleta,36.37078651685393
+ph,Reconquista,43.266666666666666
+ph,Recreo,37.0
+ph,Resistencia,36.2
+ph,Retiro,21.545454545454547
+ph,Rodeo de la Cruz,43.00000000000001
+ph,Roldán,64.8888888888889
+ph,Rosario,34.91384615384616
+ph,Russell,60.66666666666667
+ph,Río Ceballos,35.307692307692314
+ph,Río Cuarto,47.5
+ph,Saavedra,28.153846153846153
+ph,Salsipuedes,5.0
+ph,Salta,23.833333333333332
+ph,San Agustín,12.0
+ph,San Andrés de Giles,8.666666666666666
+ph,San Bernardo,8.0
+ph,San Carlos de Bariloche,53.93548387096774
+ph,San Clemente del Tuyú,5.0
+ph,San Cristobal,46.46666666666666
+ph,San Fernando,23.125
+ph,San Isidro,33.94366197183099
+ph,San Jerónimo Norte,47.25
+ph,San José,34.42857142857143
+ph,San José del Rincón,11.2
+ph,San Juan,13.0
+ph,San Lorenzo,15.125000000000002
+ph,San Luis,24.5
+ph,San Martín,13.5
+ph,San Martín de los Andes,12.75
+ph,San Miguel,26.648648648648646
+ph,San Miguel de Tucumán,42.1
+ph,San Miguel del Monte,33.230769230769226
+ph,San Nicolás,31.959999999999997
+ph,San Nicolás de los Arroyos,43.785714285714285
+ph,San Rafael,72.66666666666666
+ph,San Salvador de Jujuy,69.71428571428572
+ph,San Telmo,42.5
+ph,San Vicente,34.8235294117647
+ph,Santa Clara del Mar,18.666666666666668
+ph,Santa María de Punilla,31.875
+ph,Santa Rosa,24.125
+ph,Santa Rosa de Calamuchita,20.142857142857146
+ph,Santa Teresita,35.0
+ph,Santiago del Estero,31.375
+ph,Santo Tomé,27.675675675675677
+ph,Sauce Viejo,22.52941176470588
+ph,Sierras de Calamuchita,76.0
+ph,Tafí Viejo,27.0
+ph,Tandil,34.7391304347826
+ph,Tanti,22.307692307692307
+ph,Tigre,33.281938325991185
+ph,Toay,30.666666666666668
+ph,Tornquist,72.5
+ph,Tres de Febrero,33.42857142857142
+ph,Tribunales,2.0
+ph,Tunuyán,133.0
+ph,Unquillo,48.4
+ph,Uruguay,31.630996309963095
+ph,Ushuaia,10.5
+ph,Valeria del Mar,25.4
+ph,Veinticinco de Mayo,32.0
+ph,Velez Sarsfield,28.09090909090909
+ph,Venado Tuerto,48.53333333333334
+ph,Versalles,75.5
+ph,Vicente López,36.25
+ph,Villa Allende,34.66666666666667
+ph,Villa Amelia,26.4
+ph,Villa Carlos Paz,27.53571428571429
+ph,Villa Cerro Azul,44.333333333333336
+ph,Villa Ciudad Parque Los Reartes,12.0
+ph,Villa Crespo,24.842105263157894
+ph,Villa Devoto,27.09375
+ph,Villa General Belgrano,4.0
+ph,Villa General Mitre,22.57142857142857
+ph,Villa Gesell,34.07692307692307
+ph,Villa Giardino,17.599999999999998
+ph,Villa Icho Cruz,6.75
+ph,Villa La Angostura,31.25
+ph,Villa Los Aromos,41.75
+ph,Villa Lugano,18.75
+ph,Villa Luro,18.933333333333334
+ph,Villa María,31.249999999999996
+ph,Villa Merlo,49.0
+ph,Villa Nueva,54.5
+ph,Villa Ortuzar,25.9
+ph,Villa Pueyrredón,39.30769230769231
+ph,Villa Real,16.6
+ph,Villa Santa Rita,16.125
+ph,Villa Soldati,31.5
+ph,Villa Urquiza,19.72549019607843
+ph,Villa Yacanto,19.833333333333332
+ph,Villa del Dique,67.0
+ph,Villa del Parque,21.6
+ph,Vistalba,34.714285714285715
+ph,Zárate,80.0
+ph,Ángel Gallardo,11.0
+quinta,Abasto,3.0
+quinta,Agronomía,39.0
+quinta,Almagro,27.7
+quinta,Almirante Brown,22.625000000000004
+quinta,Arroyo Leyes,19.0
+quinta,Ataliva Roca,151.5
+quinta,Avellaneda,37.06666666666666
+quinta,Añelo,7.0
+quinta,Bahía Blanca,29.625
+quinta,Balvanera,24.25
+quinta,Barracas,95.0
+quinta,Barrio Norte,23.285714285714285
+quinta,Belgrano,47.5
+quinta,Berazategui,28.666666666666668
+quinta,Berisso,50.5
+quinta,Boedo,36.0
+quinta,Brandsen,46.0
+quinta,Caballito,56.6
+quinta,Campana,39.333333333333336
+quinta,Capilla del Monte,4.0
+quinta,Capitán Bermúdez,24.0
+quinta,Cariló,4.0
+quinta,Cañuelas,23.0
+quinta,Centenario,28.0
+quinta,Centro / Microcentro,16.0
+quinta,Chacarita,18.0
+quinta,Cipolletti,23.666666666666668
+quinta,Ciudad de Mendoza,56.2
+quinta,Ciudad de Santa Fe,27.909090909090907
+quinta,Coghlan,8.0
+quinta,Colonia Popular,46.0
+quinta,Comodoro Rivadavia,20.0
+quinta,Congreso,10.666666666666666
+quinta,Constitución,21.0
+quinta,Córdoba,43.0
+quinta,El Sauce,66.0
+quinta,Escobar,34.54545454545455
+quinta,Esquel,4.0
+quinta,Esteban Echeverría,30.200000000000003
+quinta,Exaltación de la Cruz,33.0
+quinta,Ezeiza,37.666666666666664
+quinta,Florencio Varela,42.75
+quinta,Flores,29.857142857142854
+quinta,Floresta,15.8
+quinta,General Juan Madariaga,19.0
+quinta,General Roca,65.5
+quinta,General Rodríguez,27.333333333333336
+quinta,General San Martín,41.4
+quinta,Godoy Cruz,28.5
+quinta,Goya,116.0
+quinta,Hurlingham,1.0
+quinta,Ibarlucea,32.0
+quinta,Ituzaingó,59.5
+quinta,Jesús Nazareno,2.0
+quinta,José C Paz,20.0
+quinta,La Boca,44.5
+quinta,La Calera,87.0
+quinta,La Carrera,32.0
+quinta,La Matanza,17.0
+quinta,La Paternal,56.5
+quinta,La Plata,33.34146341463415
+quinta,Lanús,63.666666666666664
+quinta,Las Heras,56.0
+quinta,Las Paredes,39.0
+quinta,Liniers,10.0
+quinta,Lomas de Zamora,46.625
+quinta,Los Corralitos,7.0
+quinta,Los Molinos,55.0
+quinta,Luján,16.0
+quinta,Luján de Cuyo,45.75
+quinta,Maipú,36.2
+quinta,Malvinas Argentinas,21.0
+quinta,Mar del Plata,47.8125
+quinta,Marcos Paz,84.0
+quinta,Mataderos,28.0
+quinta,Mayor Drummond,7.0
+quinta,Mayu Sumaj,28.0
+quinta,Mendiolaza,110.0
+quinta,Merlo,21.0
+quinta,Miramar,16.0
+quinta,Monserrat,23.0
+quinta,Monte Castro,34.0
+quinta,Moreno,26.285714285714285
+quinta,Morón,50.58333333333333
+quinta,Neuquén,44.285714285714285
+quinta,Nuevo Torino,76.0
+quinta,Núñez,51.285714285714285
+quinta,Once,49.0
+quinta,Palermo,32.94444444444444
+quinta,Parque Chacabuco,42.0
+quinta,Parque Patricios,50.66666666666667
+quinta,Perdriel,7.0
+quinta,Pergamino,65.0
+quinta,Pilar,30.14035087719298
+quinta,Pinamar,76.5
+quinta,Plottier,74.5
+quinta,Posadas,25.0
+quinta,Potrero de Garay,120.0
+quinta,Presidente Perón,27.0
+quinta,Pueblo Esther,126.0
+quinta,Puerto Madero,9.0
+quinta,Quilmes,23.461538461538463
+quinta,Rafaela,66.5
+quinta,Recoleta,16.545454545454547
+quinta,Recreo,19.0
+quinta,Resistencia,41.333333333333336
+quinta,Retiro,44.0
+quinta,Rodeo de la Cruz,41.0
+quinta,Roldán,16.333333333333332
+quinta,Rosario,44.84615384615385
+quinta,Russell,0.0
+quinta,Río Ceballos,250.0
+quinta,Salta,32.75
+quinta,San Carlos de Bariloche,52.0
+quinta,San Cristobal,46.666666666666664
+quinta,San Fernando,26.0
+quinta,San Isidro,49.66666666666667
+quinta,San Jerónimo Norte,7.0
+quinta,San Lorenzo,23.0
+quinta,San Martín,35.666666666666664
+quinta,San Martín de los Andes,11.5
+quinta,San Miguel,22.142857142857142
+quinta,San Miguel de Tucumán,64.0
+quinta,San Miguel del Monte,36.0
+quinta,San Nicolás,53.400000000000006
+quinta,San Telmo,29.0
+quinta,San Vicente,57.888888888888886
+quinta,Santa Clara del Mar,53.0
+quinta,Santa María de Punilla,34.0
+quinta,Santa Rosa de Calamuchita,9.333333333333332
+quinta,Santo Tomé,42.75
+quinta,Sauce Viejo,83.0
+quinta,Tafí Viejo,23.0
+quinta,Tandil,41.0
+quinta,Tanti,53.0
+quinta,Tigre,49.888888888888886
+quinta,Tres de Febrero,48.75
+quinta,Tribunales,61.333333333333336
+quinta,Unquillo,14.0
+quinta,Uruguay,35.94117647058823
+quinta,Velez Sarsfield,88.0
+quinta,Venado Tuerto,71.0
+quinta,Vicente López,50.1
+quinta,Villa Allende,14.0
+quinta,Villa Amelia,18.5
+quinta,Villa Carlos Paz,35.33333333333333
+quinta,Villa Cerro Azul,115.5
+quinta,Villa Crespo,24.75
+quinta,Villa Devoto,24.75
+quinta,Villa General Mitre,25.0
+quinta,Villa Gesell,16.333333333333336
+quinta,Villa Icho Cruz,38.0
+quinta,Villa La Angostura,71.0
+quinta,Villa Lugano,20.0
+quinta,Villa Luro,90.5
+quinta,Villa Nueva,48.66666666666667
+quinta,Villa Ortuzar,40.666666666666664
+quinta,Villa Real,44.0
+quinta,Villa Urquiza,35.14285714285714
+quinta,Villa Yacanto,22.0
+quinta,Villa del Parque,28.75
+quinta,Zárate,2.5
+terreno,Abasto,34.583333333333336
+terreno,Agronomía,67.2
+terreno,Almagro,60.683673469387756
+terreno,Almirante Brown,51.320388349514566
+terreno,Alta Gracia,97.30000000000001
+terreno,Alvear,15.2
+terreno,Anisacate,66.25
+terreno,Arroyo Leyes,60.51724137931035
+terreno,Ataliva Roca,68.08333333333333
+terreno,Avellaneda,53.9047619047619
+terreno,Añelo,45.5
+terreno,Bahía Blanca,65.21052631578948
+terreno,Balcarce,116.44444444444444
+terreno,Balvanera,51.54285714285714
+terreno,Barracas,54.5
+terreno,Barrio Norte,55.0204081632653
+terreno,Belgrano,54.711409395973156
+terreno,Berazategui,54.20253164556962
+terreno,Berisso,71.83333333333333
+terreno,Bialet Massé,69.5
+terreno,Boedo,55.73333333333334
+terreno,Brandsen,64.32857142857144
+terreno,Buena Nueva,36.0
+terreno,Caballito,48.577981651376135
+terreno,Campana,45.422222222222224
+terreno,Capilla del Monte,43.25
+terreno,Capitán Bermúdez,56.85714285714286
+terreno,Cariló,52.22222222222222
+terreno,Carmen de Areco,37.785714285714285
+terreno,Cañuelas,51.22368421052632
+terreno,Centenario,49.166666666666664
+terreno,Centro / Microcentro,27.21428571428571
+terreno,Cerrillos,74.42857142857142
+terreno,Chacarita,43.73333333333333
+terreno,Chacras de Coria,67.75
+terreno,Chapadmalal,67.85714285714285
+terreno,Chascomús,66.875
+terreno,Chivilcoy,86.4
+terreno,Cipolletti,70.7037037037037
+terreno,Ciudad de Mendoza,50.91463414634147
+terreno,Ciudad de Santa Fe,52.612068965517246
+terreno,Coghlan,61.421052631578945
+terreno,Colastiné,29.75
+terreno,Colegiales,36.88135593220339
+terreno,Colonia Popular,61.0
+terreno,Colonia Segovia,28.8
+terreno,Comodoro Rivadavia,61.02083333333333
+terreno,Congreso,46.75
+terreno,Constitución,105.43750000000001
+terreno,Coronel Rosales,35.25
+terreno,Corrientes,61.18181818181818
+terreno,Cosquín,50.714285714285715
+terreno,Costa Esmeralda,37.05263157894736
+terreno,Cruz de Piedra,62.666666666666664
+terreno,Córdoba,55.32649253731344
+terreno,Dina Huapi,50.333333333333336
+terreno,El Challao,93.80000000000001
+terreno,El Sauce,46.92307692307692
+terreno,Escobar,48.42048929663608
+terreno,Esperanza,54.65217391304348
+terreno,Esquel,41.05263157894737
+terreno,Esteban Echeverría,56.01869158878505
+terreno,Exaltación de la Cruz,55.54347826086956
+terreno,Ezeiza,56.93700787401575
+terreno,Florencio Varela,51.575
+terreno,Flores,48.66942148760331
+terreno,Floresta,39.86666666666667
+terreno,Funes,65.84848484848483
+terreno,General Fernández Oro,63.714285714285715
+terreno,General Juan Madariaga,48.33333333333333
+terreno,General Lagos,51.285714285714285
+terreno,General Roca,52.82352941176471
+terreno,General Rodríguez,38.72058823529411
+terreno,General San Martín,44.027027027027025
+terreno,Godoy Cruz,34.714285714285715
+terreno,Goudge,26.6
+terreno,Goya,47.714285714285715
+terreno,Granadero Baigorria,47.69230769230769
+terreno,Guaymallén,115.25
+terreno,Hurlingham,48.46913580246913
+terreno,Ibarlucea,65.52631578947368
+terreno,Ituzaingó,50.76068376068377
+terreno,Jesús Nazareno,26.999999999999996
+terreno,José C Paz,51.785714285714285
+terreno,Juana Koslay,38.9
+terreno,La Boca,56.142857142857146
+terreno,La Calera,64.72
+terreno,La Carrera,32.5
+terreno,La Cumbre,83.2
+terreno,La Falda,65.9090909090909
+terreno,La Granja,64.19999999999999
+terreno,La Matanza,56.285276073619634
+terreno,La Paternal,52.888888888888886
+terreno,La Plata,53.977707006369435
+terreno,Lanús,49.721461187214615
+terreno,Las Compuertas,69.72222222222223
+terreno,Las Heras,62.913043478260875
+terreno,Las Paredes,42.375
+terreno,Las Toninas,41.0
+terreno,Liniers,48.18181818181819
+terreno,Lobos,38.22222222222222
+terreno,Lomas de Zamora,54.60377358490567
+terreno,Los Corralitos,42.31818181818182
+terreno,Los Molinos,30.166666666666668
+terreno,Los Reartes,25.333333333333332
+terreno,Luján,51.12658227848101
+terreno,Luján de Cuyo,53.98275862068965
+terreno,Lunlunta,84.0
+terreno,Magdalena,34.36363636363637
+terreno,Maipú,61.26315789473685
+terreno,Malagueño,47.1
+terreno,Malvinas Argentinas,44.33333333333333
+terreno,Mar Azul,36.833333333333336
+terreno,Mar Chiquita,54.61904761904762
+terreno,Mar de Ajó,59.42857142857143
+terreno,Mar de las Pampas,49.0
+terreno,Mar del Plata,52.96715328467153
+terreno,Mar del Tuyú,44.94444444444444
+terreno,Marcos Paz,69.42857142857143
+terreno,Mari Menuco,50.0
+terreno,Mataderos,50.77358490566038
+terreno,Mayor Drummond,58.666666666666664
+terreno,Mayu Sumaj,33.75
+terreno,Mendiolaza,42.0
+terreno,Mercedes,38.1
+terreno,Merlo,45.333333333333336
+terreno,Miramar,58.800000000000004
+terreno,Monserrat,54.21875
+terreno,Monte Castro,56.89999999999999
+terreno,Monte Hermoso,58.833333333333336
+terreno,Moreno,56.7972972972973
+terreno,Morón,53.317596566523605
+terreno,Necochea,68.46153846153847
+terreno,Neuquén,49.67832167832168
+terreno,Nuevo Torino,50.26666666666667
+terreno,Núñez,53.505494505494504
+terreno,Once,50.0
+terreno,Ostende,73.5
+terreno,Palermo,50.11363636363636
+terreno,Parque Avellaneda,64.36666666666667
+terreno,Parque Centenario,26.333333333333332
+terreno,Parque Chacabuco,49.28
+terreno,Parque Chas,45.0
+terreno,Parque Patricios,31.682539682539684
+terreno,Pehuajó,46.79166666666667
+terreno,Perdriel,81.8
+terreno,Pergamino,45.848484848484844
+terreno,Pilar,49.55955056179776
+terreno,Pinamar,53.288888888888884
+terreno,Piñero,39.9
+terreno,Plottier,51.0
+terreno,Pompeya,44.166666666666664
+terreno,Posadas,102.80000000000001
+terreno,Potrerillos,25.75
+terreno,Potrero de Garay,58.206896551724135
+terreno,Presidente Perón,47.87804878048781
+terreno,Pueblo Andino,47.9
+terreno,Pueblo Esther,39.04545454545455
+terreno,Puerto Madero,50.1764705882353
+terreno,Pujato Norte,72.25
+terreno,Quilmes,50.31999999999999
+terreno,Rada Tilly,37.714285714285715
+terreno,Rafaela,44.723404255319146
+terreno,Recoleta,54.45744680851064
+terreno,Reconquista,75.84375
+terreno,Recreo,56.74999999999999
+terreno,Resistencia,40.10344827586207
+terreno,Retiro,49.25531914893617
+terreno,Rodeo de la Cruz,45.833333333333336
+terreno,Roldán,57.15625
+terreno,Rosario,53.68358913813459
+terreno,Russell,3.5
+terreno,Río Ceballos,42.909090909090914
+terreno,Río Cuarto,64.5
+terreno,Saavedra,51.806451612903224
+terreno,Salsipuedes,113.0
+terreno,Salta,55.52459016393442
+terreno,San Agustín,14.000000000000002
+terreno,San Andrés de Giles,59.11111111111111
+terreno,San Bernardo,34.349999999999994
+terreno,San Carlos de Bariloche,54.53488372093023
+terreno,San Clemente del Tuyú,44.42857142857143
+terreno,San Cristobal,39.82857142857143
+terreno,San Fernando,58.357142857142854
+terreno,San Isidro,49.96551724137931
+terreno,San Jerónimo Norte,50.199999999999996
+terreno,San José,63.84615384615385
+terreno,San José del Rincón,62.13333333333333
+terreno,San Juan,27.0
+terreno,San Lorenzo,54.77142857142857
+terreno,San Luis,42.57142857142857
+terreno,San Martín,53.608695652173914
+terreno,San Martín de los Andes,70.5
+terreno,San Miguel,47.416666666666664
+terreno,San Miguel de Tucumán,56.54545454545455
+terreno,San Miguel del Monte,62.214285714285715
+terreno,San Nicolás,52.5375
+terreno,San Nicolás de los Arroyos,47.07692307692307
+terreno,San Rafael,47.11764705882352
+terreno,San Salvador de Jujuy,62.54545454545455
+terreno,San Telmo,39.44736842105263
+terreno,San Vicente,47.4031007751938
+terreno,Santa Clara del Mar,58.473684210526315
+terreno,Santa María de Punilla,62.5625
+terreno,Santa Rosa,45.94444444444444
+terreno,Santa Rosa de Calamuchita,37.8421052631579
+terreno,Santa Teresita,57.400000000000006
+terreno,Santiago del Estero,60.73913043478261
+terreno,Santo Tomé,59.72839506172839
+terreno,Sauce Viejo,38.689655172413794
+terreno,Sierras de Calamuchita,70.0
+terreno,Tafí Viejo,52.833333333333336
+terreno,Tandil,46.6
+terreno,Tanti,39.9375
+terreno,Tigre,52.640081799591
+terreno,Toay,41.142857142857146
+terreno,Tornquist,66.5
+terreno,Tres de Febrero,54.68202764976958
+terreno,Tribunales,57.66666666666667
+terreno,Tunuyán,64.5
+terreno,Unquillo,39.16666666666667
+terreno,Uruguay,54.254859611231105
+terreno,Ushuaia,30.25
+terreno,Valeria del Mar,90.5
+terreno,Veinticinco de Mayo,28.952380952380953
+terreno,Velez Sarsfield,51.72222222222222
+terreno,Venado Tuerto,47.61224489795919
+terreno,Versalles,83.0
+terreno,Vicente López,43.02358490566037
+terreno,Villa Allende,41.833333333333336
+terreno,Villa Amelia,60.75
+terreno,Villa Carlos Paz,63.112903225806456
+terreno,Villa Cerro Azul,114.71428571428574
+terreno,Villa Ciudad Parque Los Reartes,89.2
+terreno,Villa Crespo,55.78205128205129
+terreno,Villa Devoto,49.25316455696203
+terreno,Villa General Belgrano,38.25
+terreno,Villa General Mitre,38.72727272727273
+terreno,Villa Gesell,63.434782608695656
+terreno,Villa Giardino,48.416666666666664
+terreno,Villa Icho Cruz,47.0
+terreno,Villa La Angostura,52.21428571428572
+terreno,Villa Los Aromos,63.0
+terreno,Villa Lugano,46.666666666666664
+terreno,Villa Luro,51.48484848484849
+terreno,Villa María,42.57142857142857
+terreno,Villa Merlo,46.375
+terreno,Villa Nueva,48.68181818181819
+terreno,Villa Ortuzar,40.52777777777778
+terreno,Villa Pueyrredón,58.785714285714285
+terreno,Villa Real,40.2
+terreno,Villa Riachuelo,35.33333333333333
+terreno,Villa Santa Rita,61.05
+terreno,Villa Soldati,125.75
+terreno,Villa Urquiza,49.48076923076922
+terreno,Villa Yacanto,70.375
+terreno,Villa del Dique,23.666666666666664
+terreno,Villa del Parque,39.12765957446808
+terreno,Vistalba,59.1578947368421
+terreno,Zárate,65.07692307692307
+terreno,Ángel Gallardo,52.0

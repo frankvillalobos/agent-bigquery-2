@@ -1,0 +1,289 @@
+provincia,periodo,total_listings
+Buenos Aires (fuera de GBA),202511,646
+Buenos Aires (fuera de GBA),202512,657
+Buenos Aires (fuera de GBA),202601,763
+Buenos Aires (fuera de GBA),202602,871
+Buenos Aires (fuera de GBA),202603,971
+Buenos Aires (fuera de GBA),202604,997
+Buenos Aires (fuera de GBA),202605,1046
+Buenos Aires (fuera de GBA),202606,1036
+Buenos Aires (fuera de GBA),202607,1089
+Buenos Aires (fuera de GBA),202608,1115
+Buenos Aires (fuera de GBA),202609,1094
+Buenos Aires (fuera de GBA),202610,1055
+Buenos Aires Costa Atlántica,202511,1148
+Buenos Aires Costa Atlántica,202512,1170
+Buenos Aires Costa Atlántica,202601,1287
+Buenos Aires Costa Atlántica,202602,1442
+Buenos Aires Costa Atlántica,202603,1573
+Buenos Aires Costa Atlántica,202604,1609
+Buenos Aires Costa Atlántica,202605,1672
+Buenos Aires Costa Atlántica,202606,1685
+Buenos Aires Costa Atlántica,202607,1730
+Buenos Aires Costa Atlántica,202608,1800
+Buenos Aires Costa Atlántica,202609,1708
+Buenos Aires Costa Atlántica,202610,1728
+Capital Federal,202511,5743
+Capital Federal,202512,5917
+Capital Federal,202601,6622
+Capital Federal,202602,7675
+Capital Federal,202603,8543
+Capital Federal,202604,8666
+Capital Federal,202605,8612
+Capital Federal,202606,8414
+Capital Federal,202607,8770
+Capital Federal,202608,8898
+Capital Federal,202609,8705
+Capital Federal,202610,8648
+Chaco,202511,50
+Chaco,202512,55
+Chaco,202601,58
+Chaco,202602,69
+Chaco,202603,74
+Chaco,202604,82
+Chaco,202605,74
+Chaco,202606,75
+Chaco,202607,83
+Chaco,202608,83
+Chaco,202609,82
+Chaco,202610,85
+Chubut,202511,122
+Chubut,202512,123
+Chubut,202601,138
+Chubut,202602,159
+Chubut,202603,178
+Chubut,202604,181
+Chubut,202605,187
+Chubut,202606,190
+Chubut,202607,199
+Chubut,202608,196
+Chubut,202609,200
+Chubut,202610,188
+Corrientes,202511,41
+Corrientes,202512,38
+Corrientes,202601,44
+Corrientes,202602,48
+Corrientes,202603,49
+Corrientes,202604,44
+Corrientes,202605,43
+Corrientes,202606,44
+Corrientes,202607,49
+Corrientes,202608,49
+Corrientes,202609,57
+Corrientes,202610,57
+Córdoba,202511,1730
+Córdoba,202512,1869
+Córdoba,202601,2095
+Córdoba,202602,2415
+Córdoba,202603,2640
+Córdoba,202604,2744
+Córdoba,202605,2774
+Córdoba,202606,2797
+Córdoba,202607,2837
+Córdoba,202608,2808
+Córdoba,202609,2815
+Córdoba,202610,2812
+GBA Norte,202511,5087
+GBA Norte,202512,5324
+GBA Norte,202601,5913
+GBA Norte,202602,6737
+GBA Norte,202603,7483
+GBA Norte,202604,7592
+GBA Norte,202605,7777
+GBA Norte,202606,7730
+GBA Norte,202607,8042
+GBA Norte,202608,8250
+GBA Norte,202609,8044
+GBA Norte,202610,8042
+GBA Oeste,202511,2358
+GBA Oeste,202512,2498
+GBA Oeste,202601,2709
+GBA Oeste,202602,3116
+GBA Oeste,202603,3446
+GBA Oeste,202604,3497
+GBA Oeste,202605,3605
+GBA Oeste,202606,3508
+GBA Oeste,202607,3579
+GBA Oeste,202608,3690
+GBA Oeste,202609,3632
+GBA Oeste,202610,3642
+GBA Sur,202511,3977
+GBA Sur,202512,4253
+GBA Sur,202601,4703
+GBA Sur,202602,5306
+GBA Sur,202603,5837
+GBA Sur,202604,5951
+GBA Sur,202605,6115
+GBA Sur,202606,6070
+GBA Sur,202607,6309
+GBA Sur,202608,6325
+GBA Sur,202609,6287
+GBA Sur,202610,6298
+Jujuy,202511,21
+Jujuy,202512,25
+Jujuy,202601,26
+Jujuy,202602,32
+Jujuy,202603,32
+Jujuy,202604,38
+Jujuy,202605,36
+Jujuy,202606,34
+Jujuy,202607,42
+Jujuy,202608,42
+Jujuy,202609,37
+Jujuy,202610,38
+La Pampa,202511,86
+La Pampa,202512,92
+La Pampa,202601,97
+La Pampa,202602,114
+La Pampa,202603,119
+La Pampa,202604,119
+La Pampa,202605,121
+La Pampa,202606,115
+La Pampa,202607,122
+La Pampa,202608,131
+La Pampa,202609,119
+La Pampa,202610,113
+Mendoza,202511,1141
+Mendoza,202512,1213
+Mendoza,202601,1347
+Mendoza,202602,1534
+Mendoza,202603,1661
+Mendoza,202604,1691
+Mendoza,202605,1705
+Mendoza,202606,1706
+Mendoza,202607,1803
+Mendoza,202608,1734
+Mendoza,202609,1756
+Mendoza,202610,1786
+Misiones,202511,13
+Misiones,202512,16
+Misiones,202601,20
+Misiones,202602,22
+Misiones,202603,21
+Misiones,202604,20
+Misiones,202605,19
+Misiones,202606,18
+Misiones,202607,18
+Misiones,202608,10
+Misiones,202609,18
+Misiones,202610,15
+Neuquen,202511,493
+Neuquen,202512,538
+Neuquen,202601,619
+Neuquen,202602,698
+Neuquen,202603,766
+Neuquen,202604,753
+Neuquen,202605,779
+Neuquen,202606,781
+Neuquen,202607,778
+Neuquen,202608,805
+Neuquen,202609,785
+Neuquen,202610,794
+Otros Paises,202511,885
+Otros Paises,202512,939
+Otros Paises,202601,1069
+Otros Paises,202602,1212
+Otros Paises,202603,1347
+Otros Paises,202604,1371
+Otros Paises,202605,1357
+Otros Paises,202606,1308
+Otros Paises,202607,1357
+Otros Paises,202608,1409
+Otros Paises,202609,1394
+Otros Paises,202610,1409
+Rio Negro,202511,275
+Rio Negro,202512,281
+Rio Negro,202601,315
+Rio Negro,202602,370
+Rio Negro,202603,398
+Rio Negro,202604,427
+Rio Negro,202605,421
+Rio Negro,202606,426
+Rio Negro,202607,444
+Rio Negro,202608,439
+Rio Negro,202609,432
+Rio Negro,202610,418
+Salta,202511,136
+Salta,202512,136
+Salta,202601,160
+Salta,202602,183
+Salta,202603,217
+Salta,202604,218
+Salta,202605,220
+Salta,202606,213
+Salta,202607,231
+Salta,202608,234
+Salta,202609,217
+Salta,202610,223
+San Juan,202511,11
+San Juan,202512,13
+San Juan,202601,19
+San Juan,202602,19
+San Juan,202603,17
+San Juan,202604,17
+San Juan,202605,14
+San Juan,202606,13
+San Juan,202607,15
+San Juan,202608,12
+San Juan,202609,14
+San Juan,202610,11
+San Luis,202511,42
+San Luis,202512,45
+San Luis,202601,48
+San Luis,202602,52
+San Luis,202603,51
+San Luis,202604,54
+San Luis,202605,54
+San Luis,202606,66
+San Luis,202607,60
+San Luis,202608,58
+San Luis,202609,67
+San Luis,202610,67
+Santa Fe,202511,2873
+Santa Fe,202512,3027
+Santa Fe,202601,3462
+Santa Fe,202602,3896
+Santa Fe,202603,4291
+Santa Fe,202604,4385
+Santa Fe,202605,4467
+Santa Fe,202606,4352
+Santa Fe,202607,4440
+Santa Fe,202608,4619
+Santa Fe,202609,4573
+Santa Fe,202610,4623
+Santiago del Estero,202511,31
+Santiago del Estero,202512,37
+Santiago del Estero,202601,41
+Santiago del Estero,202602,47
+Santiago del Estero,202603,63
+Santiago del Estero,202604,60
+Santiago del Estero,202605,62
+Santiago del Estero,202606,64
+Santiago del Estero,202607,74
+Santiago del Estero,202608,65
+Santiago del Estero,202609,75
+Santiago del Estero,202610,76
+Tierra del Fuego,202511,19
+Tierra del Fuego,202512,21
+Tierra del Fuego,202601,27
+Tierra del Fuego,202602,28
+Tierra del Fuego,202603,28
+Tierra del Fuego,202604,36
+Tierra del Fuego,202605,36
+Tierra del Fuego,202606,34
+Tierra del Fuego,202607,28
+Tierra del Fuego,202608,33
+Tierra del Fuego,202609,27
+Tierra del Fuego,202610,23
+Tucuman,202511,42
+Tucuman,202512,44
+Tucuman,202601,48
+Tucuman,202602,59
+Tucuman,202603,59
+Tucuman,202604,52
+Tucuman,202605,51
+Tucuman,202606,48
+Tucuman,202607,57
+Tucuman,202608,67
+Tucuman,202609,70
+Tucuman,202610,71

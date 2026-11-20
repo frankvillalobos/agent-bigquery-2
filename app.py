@@ -32,13 +32,8 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ── Logo y título  ←  AQUÍ, fuera del set_page_config ────────────────────────
-col1, col2 = st.columns([1, 5])
-with col1:
-    if os.path.exists("assets/r2-logo.png"):
-        st.image("assets/r2-logo.png", width=120)
-with col2:
-    st.title("Asistente de datos")
-    st.caption("Preguntá en lenguaje natural y te respondo con el dato y la query")
+st.title("Asistente de datos")
+st.caption("Preguntá en lenguaje natural y te respondo con el dato y la query")
 
 PROJECT_ID = "uean-493522"
 DATASET_ID = "proptech"
