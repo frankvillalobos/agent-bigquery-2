@@ -14,6 +14,21 @@ st.set_page_config(
     layout="wide"
 )
 
+import streamlit.components.v1 as components
+
+# Script de Useberry para el test de usabilidad (sacarlo cuando termine el test)
+components.html("""
+<script>
+  const d = window.parent.document;
+  if (!d.getElementById('useberry-script')) {
+    const s = d.createElement('script');
+    s.id = 'useberry-script';
+    s.src = 'https://api.useberry.com/integrations/liveUrl/scripts/useberryScript.js';
+    d.body.appendChild(s);
+  }
+</script>
+""", height=0)
+
 # ── Estilos ──────────────────────────────────────────────────────────────────
 PRIMARIO = "#0E7490"   # azul petróleo
 ACENTO = "#14B8A6"     # verde agua
